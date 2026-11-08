@@ -1,0 +1,2002 @@
+Shipment_ID,Origin_Warehouse,Destination,Carrier,Shipment_Date,Delivery_Date,Weight_kg,Cost,Status,Distance_miles,Transit_Days,Loaded_At
+SH_TEST_999,Warehouse_MIA,Chicago,UPS,6/1/2026,6/4/2026,24.5,150,Delivered,1200,3,50:36.9
+SH10000,Warehouse_MIA,San Francisco,UPS,10/2/2023,10/4/2023,25.7,67.46,Delivered,291,2,43:57.3
+SH10001,Warehouse_MIA,Atlanta,DHL,12/6/2023,12/9/2023,38.9,268.85,Delivered,1225,3,43:57.3
+SH10002,Warehouse_LA,Houston,DHL,9/18/2023,9/20/2023,37.2,74.35,Delivered,220,2,43:57.3
+SH10003,Warehouse_BOS,Seattle,OnTrac,1/26/2023,2/4/2023,42.6,187.04,Delivered,1156,9,43:57.3
+SH10004,Warehouse_SF,Dallas,OnTrac,6/3/2023,6/6/2023,7.9,120.01,Delivered,1017,3,43:57.3
+SH10005,Warehouse_ATL,New York,FedEx,9/13/2023,9/16/2023,9.1,143.26,Delivered,898,3,43:57.3
+SH10006,Warehouse_BOS,Houston,UPS,10/19/2023,10/23/2023,0.4,225.23,Delivered,1522,4,43:57.3
+SH10007,Warehouse_CHI,Portland,Amazon Logistics,2/27/2023,3/8/2023,16.7,281.23,Delivered,2013,9,43:57.3
+SH10008,Warehouse_HOU,Detroit,Amazon Logistics,11/24/2023,12/1/2023,15.1,341.93,Delivered,2072,7,43:57.3
+SH10009,Warehouse_SF,Detroit,LaserShip,1/19/2023,1/21/2023,27.7,55.24,Delivered,214,2,43:57.3
+SH10010,Warehouse_MIA,Chicago,FedEx,2/2/2023,2/7/2023,7.1,251.53,Delivered,1736,5,43:57.3
+SH10011,Warehouse_ATL,Boston,Amazon Logistics,5/28/2023,6/4/2023,38.2,357.12,Delayed,2366,6,43:57.3
+SH10012,Warehouse_SEA,New York,FedEx,8/8/2023,8/13/2023,34.4,121.14,Delivered,650,5,43:57.3
+SH10013,Warehouse_NYC,Phoenix,UPS,12/28/2023,1/3/2024,20.7,272.48,Delivered,1574,6,43:57.3
+SH10014,Warehouse_BOS,Miami,FedEx,7/24/2023,7/30/2023,12.5,266.08,Delivered,1849,6,43:57.3
+SH10015,Warehouse_DEN,Minneapolis,OnTrac,5/10/2023,5/16/2023,28.6,221.21,Delivered,1489,6,43:57.3
+SH10016,Warehouse_CHI,Detroit,USPS,1/25/2023,1/26/2023,24.1,60.27,Lost,283,1,43:57.3
+SH10017,Warehouse_LA,San Francisco,OnTrac,6/8/2023,6/11/2023,43.2,80.6,In Transit,223,3,43:57.3
+SH10018,Warehouse_ATL,Atlanta,OnTrac,10/16/2023,10/25/2023,6.3,124.52,Delivered,1055,9,43:57.3
+SH10019,Warehouse_MIA,Portland,DHL,1/16/2023,1/21/2023,51.2,290.72,Delivered,1660,5,43:57.3
+SH10020,Warehouse_MIA,Miami,FedEx,8/10/2023,7/11/2023,7.8,216.42,Delivered,1696,5,43:57.3
+SH10021,Warehouse_SEA,Houston,LaserShip,8/23/2023,8/27/2023,29.6,216.63,Returned,1407,4,43:57.3
+SH10022,Warehouse_CHI,San Francisco,USPS,7/21/2023,7/23/2023,15.2,67.11,Delivered,440,2,43:57.3
+SH10023,Warehouse_SEA,Los Angeles,DHL,10/26/2023,10/29/2023,22.2,228.57,Delivered,1402,3,43:57.3
+SH10024,Warehouse_DEN,Phoenix,USPS,8/11/2023,8/15/2023,5.3,37.32,Delivered,256,4,43:57.3
+SH10025,Warehouse_NYC,Portland,UPS,4/27/2023,4/29/2023,40,124.29,Delivered,519,2,43:57.3
+SH10026,Warehouse_DEN,Miami,UPS,12/30/2023,1/1/2024,8.7,73.52,Delivered,386,2,43:57.3
+SH10027,Warehouse_DEN,Boston,USPS,12/30/2023,1/5/2024,10.1,309.59,Delayed,1986,5,43:57.3
+SH10028,Warehouse_SF,Dallas,LaserShip,12/15/2023,12/20/2023,22.8,373.64,Delivered,2229,5,43:57.3
+SH10029,Warehouse_SEA,Chicago,DHL,6/27/2023,7/3/2023,13,347.94,Delivered,2310,6,43:57.3
+SH10030,Warehouse_SF,San Francisco,LaserShip,11/4/2023,1/1/1900,28.5,109.33,Delivered,502,2,43:57.3
+SH10031,Warehouse_BOS,Dallas,OnTrac,7/4/2023,7/8/2023,30.2,162.68,Delivered,1048,4,43:57.3
+SH10032,Warehouse_CHI,New York,FedEx,9/27/2023,10/1/2023,11.3,206.19,Delivered,1551,4,43:57.3
+SH10033,Warehouse_SF,Denver,USPS,3/26/2023,4/2/2023,15.8,66.35,Delayed,431,2,43:57.3
+SH10034,Warehouse_SEA,Denver,OnTrac,2/21/2023,2/23/2023,10.7,76.52,Delivered,528,2,43:57.3
+SH10035,Warehouse_BOS,Dallas,OnTrac,7/16/2023,7/17/2023,37.7,55.09,Lost,131,1,43:57.3
+SH10036,Warehouse_ATL,Los Angeles,FedEx,6/2/2023,6/18/2023,27.9,123.81,Delayed,659,3,43:57.3
+SH10037,Warehouse_SF,Dallas,Amazon Logistics,11/6/2023,11/11/2023,26.6,333.35,Delivered,2209,5,43:57.3
+SH10038,Warehouse_SF,Detroit,LaserShip,11/4/2023,11/10/2023,30.7,282.71,Returned,1674,6,43:57.3
+SH10039,Warehouse_MIA,New York,LaserShip,12/8/2023,1/1/1900,65.2,284.81,Delivered,1204,3,43:57.3
+SH10040,Warehouse_BOS,Denver,Amazon Logistics,10/4/2023,10/10/2023,13.4,209.01,Delivered,1550,6,43:57.3
+SH10041,Warehouse_NYC,Los Angeles,UPS,5/13/2023,5/17/2023,31.9,263.06,Delivered,1696,4,43:57.3
+SH10042,Warehouse_NYC,Los Angeles,USPS,12/29/2023,1/1/2024,37.8,129.73,Delivered,660,3,43:57.3
+SH10043,Warehouse_SEA,New York,DHL,3/9/2023,3/13/2023,17.4,194.58,Delivered,1153,4,43:57.3
+SH10044,Warehouse_CHI,San Francisco,OnTrac,5/8/2023,5/11/2023,4.7,49.68,Delivered,343,3,43:57.3
+SH10045,Warehouse_NYC,Miami,LaserShip,4/24/2023,4/29/2023,29.7,245.98,Delivered,1973,5,43:57.3
+SH10046,Warehouse_LA,Los Angeles,DHL,9/5/2023,9/11/2023,9,356.77,Delivered,2335,6,43:57.3
+SH10047,Warehouse_SF,Dallas,USPS,1/17/2023,1/20/2023,25.4,127.22,Delivered,816,3,43:57.3
+SH10048,Warehouse_SF,Phoenix,LaserShip,4/23/2023,4/30/2023,14.2,248.03,Delivered,1758,7,43:57.3
+SH10049,Warehouse_MIA,Boston,UPS,1/7/2023,1/11/2023,84.1,251.24,Delivered,1010,4,43:57.3
+SH10050,Warehouse_MIA,New York,FedEx,8/6/2023,8/22/2023,29.5,340.07,Delayed,2396,6,43:57.3
+SH10051,Warehouse_SEA,Minneapolis,USPS,2/23/2023,2/28/2023,19.6,156.03,Delivered,1267,5,43:57.3
+SH10052,Warehouse_BOS,Chicago,Amazon Logistics,1/27/2023,2/1/2023,25.9,206.17,Delivered,1365,5,43:57.3
+SH10053,Warehouse_BOS,Dallas,UPS,2/18/2023,2/23/2023,26.6,277.97,Delivered,1847,5,43:57.3
+SH10054,Warehouse_DEN,Minneapolis,LaserShip,5/11/2023,5/17/2023,31.6,283.13,Delivered,2249,6,43:57.3
+SH10055,Warehouse_CHI,Chicago,OnTrac,9/27/2023,9/30/2023,24.7,68.63,Delivered,342,3,43:57.3
+SH10056,Warehouse_SF,Minneapolis,LaserShip,4/14/2023,4/19/2023,23.2,231.64,Delivered,1913,5,43:57.3
+SH10057,Warehouse_HOU,Los Angeles,LaserShip,10/26/2023,10/29/2023,6.8,42.06,Lost,255,3,43:57.3
+SH10058,Warehouse_SF,Los Angeles,USPS,10/11/2023,10/13/2023,8.9,78.37,Delivered,600,2,43:57.3
+SH10059,Warehouse_BOS,San Francisco,OnTrac,11/1/2023,11/6/2023,28.5,128.94,Delivered,622,5,43:57.3
+SH10060,Warehouse_HOU,Denver,OnTrac,10/10/2023,10/13/2023,59.8,196.89,Delivered,1030,3,43:57.3
+SH10061,Warehouse_ATL,Chicago,LaserShip,8/4/2023,8/7/2023,9.8,93.3,Delivered,708,3,43:57.3
+SH10062,Warehouse_SEA,Detroit,FedEx,5/23/2023,6/10/2023,61.9,316.41,Delayed,1914,5,43:57.3
+SH10063,Warehouse_BOS,Los Angeles,UPS,7/16/2023,7/19/2023,25.6,128.53,Delivered,740,3,43:57.3
+SH10064,Warehouse_CHI,Los Angeles,UPS,10/13/2023,10/16/2023,67.6,232.32,Delivered,1007,3,43:57.3
+SH10065,Warehouse_LA,Miami,LaserShip,4/23/2023,4/27/2023,50.3,152.13,Delivered,864,4,43:57.3
+SH10066,Warehouse_SF,Miami,Amazon Logistics,4/3/2023,4/9/2023,15.9,325.16,Delivered,2463,6,43:57.3
+SH10067,Warehouse_SEA,Seattle,DHL,6/11/2023,6/14/2023,42.3,195.98,Delivered,998,3,43:57.3
+SH10068,Warehouse_SEA,Atlanta,FedEx,9/1/2023,9/9/2023,26.2,261.81,Delivered,1801,8,43:57.3
+SH10069,Warehouse_SEA,Houston,FedEx,5/31/2023,6/4/2023,35.7,180.2,Delivered,989,4,43:57.3
+SH10070,Warehouse_HOU,Chicago,DHL,4/17/2023,4/26/2023,6.9,56.51,Delayed,383,3,43:57.3
+SH10071,Warehouse_CHI,Seattle,OnTrac,6/20/2023,6/25/2023,30.7,0,Delivered,2307,5,43:57.3
+SH10072,Warehouse_NYC,Los Angeles,LaserShip,3/4/2023,3/13/2023,10.8,225.74,Delayed,1727,6,43:57.3
+SH10073,Warehouse_LA,Seattle,USPS,9/11/2023,9/14/2023,0.6,199.78,In Transit,1135,3,43:57.3
+SH10074,Warehouse_MIA,Phoenix,UPS,2/27/2023,3/2/2023,93,221.01,Delivered,757,3,43:57.3
+SH10075,Warehouse_HOU,Dallas,OnTrac,7/31/2023,8/4/2023,35.3,261.49,Delivered,1673,4,43:57.3
+SH10076,Warehouse_DEN,Houston,Amazon Logistics,11/12/2023,11/13/2023,25.4,85.28,Delivered,319,1,43:57.3
+SH10077,Warehouse_CHI,Seattle,USPS,7/31/2023,8/2/2023,20.8,130.21,Lost,994,2,43:57.3
+SH10078,Warehouse_LA,Portland,UPS,11/29/2023,12/2/2023,10.9,119.38,Delivered,612,3,43:57.3
+SH10079,Warehouse_SF,Detroit,UPS,6/30/2023,7/10/2023,22.4,309.17,Delayed,2214,7,43:57.3
+SH10080,Warehouse_LA,Los Angeles,LaserShip,4/4/2023,4/7/2023,15.1,152.16,Delivered,1051,3,43:57.3
+SH10081,Warehouse_SF,New York,DHL,3/14/2023,3/19/2023,22.9,289.37,Delivered,1714,5,43:57.3
+SH10082,Warehouse_CHI,Denver,OnTrac,5/7/2023,5/9/2023,14.1,144.14,Delivered,1000,2,43:57.3
+SH10083,Warehouse_SF,Phoenix,LaserShip,11/4/2023,11/12/2023,9.3,333.26,Delivered,2210,8,43:57.3
+SH10084,Warehouse_CHI,Atlanta,FedEx,7/2/2023,7/6/2023,22.9,233.89,Delivered,1510,4,43:57.3
+SH10085,Warehouse_CHI,Los Angeles,UPS,4/6/2023,4/12/2023,31.7,282.19,Delivered,1777,6,43:57.3
+SH10086,Warehouse_SEA,Minneapolis,DHL,11/22/2023,11/29/2023,13.5,422.32,Delivered,2388,7,43:57.3
+SH10087,Warehouse_CHI,Chicago,OnTrac,11/21/2023,11/30/2023,17.1,214.99,Delayed,1284,4,43:57.3
+SH10088,Warehouse_HOU,Miami,USPS,6/21/2023,6/24/2023,37,184.07,Delivered,1198,3,43:57.3
+SH10089,Warehouse_NYC,Portland,LaserShip,11/10/2023,11/14/2023,127.8,247.54,Delivered,1482,4,43:57.3
+SH10090,Warehouse_MIA,Chicago,OnTrac,1/27/2023,1/29/2023,10.8,83.32,Returned,530,2,43:57.3
+SH10091,Warehouse_ATL,Los Angeles,Amazon Logistics,11/28/2023,12/9/2023,8.5,151.64,Delayed,920,4,43:57.3
+SH10092,Warehouse_DEN,Los Angeles,LaserShip,4/26/2023,5/1/2023,16,277.61,Delivered,1950,5,43:57.3
+SH10093,Warehouse_MIA,Houston,UPS,3/3/2023,3/8/2023,32.9,337.04,Delivered,2233,5,43:57.3
+SH10094,Warehouse_ATL,San Francisco,OnTrac,4/17/2023,4/24/2023,29.5,167.82,Delivered,1022,7,43:57.3
+SH10095,Warehouse_MIA,Detroit,Amazon Logistics,7/1/2023,7/4/2023,18.6,191.08,Delivered,1447,3,43:57.3
+SH10096,Warehouse_MIA,Atlanta,DHL,8/20/2023,8/21/2023,9.6,42.77,Delivered,241,1,43:57.3
+SH10097,Warehouse_MIA,Atlanta,Amazon Logistics,9/19/2023,1/1/1900,80.4,259.98,Delivered,1554,5,43:57.3
+SH10098,Warehouse_BOS,Miami,OnTrac,5/10/2023,5/15/2023,11.1,273.63,Delivered,2053,5,43:57.3
+SH10099,Warehouse_SEA,Phoenix,LaserShip,7/18/2023,7/21/2023,14.6,141.34,Delivered,1158,3,43:57.3
+SH10100,Warehouse_CHI,Atlanta,Amazon Logistics,4/10/2023,4/17/2023,11.9,277.05,Delivered,2109,7,43:57.3
+SH10101,Warehouse_DEN,Miami,LaserShip,8/28/2023,8/30/2023,51,0,Delivered,179,2,43:57.3
+SH10102,Warehouse_BOS,Houston,DHL,7/17/2023,7/24/2023,8.6,352.85,Delivered,2465,7,43:57.3
+SH10103,Warehouse_BOS,New York,Amazon Logistics,1/14/2023,1/25/2023,6.3,283.56,Delivered,2366,11,43:57.3
+SH10104,Warehouse_SEA,New York,FedEx,12/13/2023,12/16/2023,16.6,121.29,Delivered,543,3,43:57.3
+SH10105,Warehouse_MIA,New York,DHL,4/23/2023,5/6/2023,40.7,270.27,Delayed,1682,6,43:57.3
+SH10106,Warehouse_HOU,Denver,OnTrac,8/19/2023,8/22/2023,22.6,149.52,Delivered,1030,3,43:57.3
+SH10107,Warehouse_NYC,Chicago,UPS,7/30/2023,8/2/2023,44.3,140.74,Delivered,790,3,43:57.3
+SH10108,Warehouse_MIA,Minneapolis,LaserShip,8/15/2023,8/19/2023,12.8,198.31,Delivered,1534,4,43:57.3
+SH10109,Warehouse_DEN,Phoenix,LaserShip,12/13/2023,1/1/1900,16.5,73.12,Delivered,371,2,43:57.3
+SH10110,Warehouse_CHI,Houston,DHL,9/22/2023,9/29/2023,46.1,409.06,Delivered,2306,7,43:57.3
+SH10111,Warehouse_SF,New York,FedEx,5/24/2023,5/29/2023,19.2,273.26,Delivered,1810,5,43:57.3
+SH10112,Warehouse_HOU,Chicago,Amazon Logistics,2/2/2023,2/16/2023,7.6,41.42,Delayed,277,2,43:57.3
+SH10113,Warehouse_CHI,Chicago,USPS,6/7/2023,6/13/2023,38.1,272.16,Delivered,1953,6,43:57.3
+SH10114,Warehouse_SF,Los Angeles,FedEx,4/3/2023,3/4/2023,23.2,270.43,Delivered,1800,4,43:57.3
+SH10115,Warehouse_NYC,Portland,LaserShip,7/20/2023,7/25/2023,22.8,267.89,Delivered,1951,5,43:57.3
+SH10116,Warehouse_BOS,Houston,FedEx,1/5/2023,1/12/2023,18.8,249.35,Delivered,1744,7,43:57.3
+SH10117,Warehouse_CHI,Minneapolis,Amazon Logistics,5/18/2023,5/22/2023,14,171.55,Delivered,1323,4,43:57.3
+SH10118,Warehouse_DEN,Denver,OnTrac,3/24/2023,4/1/2023,17.6,215.18,Delayed,1646,4,43:57.3
+SH10119,Warehouse_DEN,Minneapolis,DHL,7/10/2023,7/11/2023,21.6,64.74,Delivered,261,1,43:57.3
+SH10120,Warehouse_SEA,Denver,Amazon Logistics,9/26/2023,10/2/2023,8.2,278.34,Delivered,2330,6,43:57.3
+SH10121,Warehouse_CHI,Houston,FedEx,3/6/2023,3/11/2023,25.1,165.41,Delivered,973,5,43:57.3
+SH10122,Warehouse_HOU,New York,Amazon Logistics,5/18/2023,5/25/2023,14.4,280.59,Delivered,2399,7,43:57.3
+SH10123,Warehouse_ATL,Phoenix,OnTrac,8/10/2023,8/14/2023,50.1,210.77,Delivered,1297,4,43:57.3
+SH10124,Warehouse_ATL,San Francisco,USPS,4/5/2023,4/11/2023,20.3,150.38,Delivered,1200,6,43:57.3
+SH10125,Warehouse_CHI,Miami,USPS,6/28/2023,7/2/2023,11.8,180.52,Delivered,1350,4,43:57.3
+SH10126,Warehouse_SEA,Miami,UPS,9/2/2023,9/9/2023,90.2,384.64,Delivered,2188,7,43:57.3
+SH10127,Warehouse_LA,Miami,UPS,10/5/2023,10/13/2023,30.1,156.74,Delivered,1075,8,43:57.3
+SH10128,Warehouse_BOS,Miami,LaserShip,10/18/2023,10/27/2023,3.2,159.82,Delivered,1260,9,43:57.3
+SH10129,Warehouse_MIA,Miami,LaserShip,4/17/2023,4/22/2023,31.9,260.72,Delivered,1926,5,43:57.3
+SH10130,Warehouse_MIA,Phoenix,LaserShip,12/1/2023,12/6/2023,15.1,321.82,Delivered,2204,5,43:57.3
+SH10131,Warehouse_SF,Seattle,OnTrac,5/26/2023,6/2/2023,19.2,253.39,Returned,2048,7,43:57.3
+SH10132,Warehouse_DEN,San Francisco,DHL,7/7/2023,1/1/1900,8.4,0,Delivered,815,3,43:57.3
+SH10133,Warehouse_NYC,Atlanta,UPS,12/23/2023,12/26/2023,26.4,186.75,Delivered,870,3,43:57.3
+SH10134,Warehouse_SF,Portland,LaserShip,1/3/2023,1/10/2023,24.4,313.23,Delivered,2314,7,43:57.3
+SH10135,Warehouse_LA,San Francisco,DHL,9/16/2023,9/19/2023,59.4,234.64,Delivered,1070,3,43:57.3
+SH10136,Warehouse_CHI,Miami,FedEx,11/4/2023,11/10/2023,15.9,257.13,Delivered,1350,6,43:57.3
+SH10137,Warehouse_DEN,Boston,Amazon Logistics,2/10/2023,2/14/2023,17.5,208.17,Delivered,1476,4,43:57.3
+SH10138,Warehouse_NYC,Houston,OnTrac,11/8/2023,11/11/2023,66.5,199.04,Delivered,672,3,43:57.3
+SH10139,Warehouse_CHI,Houston,USPS,3/10/2023,3/13/2023,19.4,169.99,Delivered,1300,3,43:57.3
+SH10140,Warehouse_SEA,Portland,USPS,12/2/2023,12/4/2023,48,133.98,Delivered,593,2,43:57.3
+SH10141,Warehouse_BOS,Chicago,USPS,10/15/2023,10/20/2023,18.4,237.17,Delivered,1939,5,43:57.3
+SH10142,Warehouse_NYC,Chicago,OnTrac,1/6/2023,1/9/2023,38.9,137.82,Delivered,790,3,43:57.3
+SH10143,Warehouse_LA,San Francisco,OnTrac,2/5/2023,2/12/2023,36.6,310.16,Delivered,2497,7,43:57.3
+SH10144,Warehouse_SEA,New York,USPS,5/5/2023,5/7/2023,19.2,81.43,Delivered,510,2,43:57.3
+SH10145,Warehouse_HOU,Atlanta,UPS,7/3/2023,7/10/2023,23.4,142.13,Delayed,800,3,43:57.3
+SH10146,Warehouse_BOS,Portland,USPS,8/12/2023,8/17/2023,23.7,0,Delivered,1459,5,43:57.3
+SH10147,Warehouse_ATL,San Francisco,UPS,7/14/2023,7/19/2023,66.8,336.2,Delivered,2262,5,43:57.3
+SH10148,Warehouse_NYC,Minneapolis,Amazon Logistics,7/25/2023,7/31/2023,25.8,258.31,Delivered,2078,6,43:57.3
+SH10149,Warehouse_LA,New York,DHL,5/22/2023,6/7/2023,38.2,151.35,Lost,775,3,43:57.3
+SH10150,Warehouse_SF,Phoenix,LaserShip,5/27/2023,6/1/2023,11.6,278.85,Delivered,2080,5,43:57.3
+SH10151,Warehouse_ATL,San Francisco,UPS,11/15/2023,11/30/2023,21.8,123.4,Delayed,573,2,43:57.3
+SH10152,Warehouse_HOU,Seattle,FedEx,3/30/2023,4/2/2023,11.5,167.08,Delivered,1125,3,43:57.3
+SH10153,Warehouse_MIA,Chicago,LaserShip,11/2/2023,11/17/2023,45,118.74,Delayed,382,5,43:57.3
+SH10154,Warehouse_MIA,Minneapolis,DHL,5/15/2023,1/1/1900,55.3,362.11,Delivered,2192,6,43:57.3
+SH10155,Warehouse_SF,Seattle,USPS,7/22/2023,7/27/2023,12.2,278.15,Delivered,2161,5,43:57.3
+SH10156,Warehouse_LA,New York,FedEx,3/7/2023,3/12/2023,54.9,332.76,Delivered,2244,5,43:57.3
+SH10157,Warehouse_SEA,Seattle,LaserShip,5/4/2023,5/6/2023,11.9,83.93,Delivered,561,2,43:57.3
+SH10158,Warehouse_NYC,Phoenix,Amazon Logistics,12/7/2023,12/9/2023,11.5,69.7,Delivered,388,2,43:57.3
+SH10159,Warehouse_HOU,Portland,UPS,5/14/2023,5/23/2023,32.2,334.49,Delivered,2453,9,43:57.3
+SH10160,Warehouse_LA,Atlanta,UPS,11/12/2023,11/16/2023,22.1,169.82,Delivered,821,4,43:57.3
+SH10161,Warehouse_HOU,Chicago,LaserShip,9/19/2023,9/23/2023,23.8,206.9,Delivered,1566,4,43:57.3
+SH10162,Warehouse_BOS,Houston,USPS,3/14/2023,3/16/2023,22.1,79.13,Delivered,465,2,43:57.3
+SH10163,Warehouse_CHI,Miami,Amazon Logistics,10/17/2023,10/21/2023,19.7,196.56,Delivered,1350,4,43:57.3
+SH10164,Warehouse_CHI,Atlanta,USPS,9/19/2023,9/21/2023,14.6,94.67,Delivered,648,2,43:57.3
+SH10165,Warehouse_LA,Denver,OnTrac,11/19/2023,11/21/2023,23.3,117.91,Delivered,586,2,43:57.3
+SH10166,Warehouse_SEA,Minneapolis,FedEx,5/6/2023,5/11/2023,20.2,309.57,Delivered,1964,5,43:57.3
+SH10167,Warehouse_LA,Miami,UPS,8/23/2023,8/25/2023,5.7,24.11,Delivered,143,2,43:57.3
+SH10168,Warehouse_CHI,Houston,Amazon Logistics,7/25/2023,7/29/2023,7.5,157.13,Delivered,1262,4,43:57.3
+SH10169,Warehouse_DEN,Phoenix,FedEx,9/1/2023,9/6/2023,84.2,414.53,Delivered,2302,5,43:57.3
+SH10170,Warehouse_MIA,Atlanta,USPS,9/25/2023,9/28/2023,18.2,103.05,Delivered,679,3,43:57.3
+SH10171,Warehouse_LA,Chicago,Amazon Logistics,9/15/2023,9/17/2023,12.9,114.88,Delivered,755,2,43:57.3
+SH10172,Warehouse_SEA,New York,Amazon Logistics,4/23/2023,5/1/2023,35.1,272.06,Delivered,2056,8,43:57.3
+SH10173,Warehouse_MIA,Detroit,UPS,7/28/2023,8/1/2023,6.6,156.36,In Transit,1222,4,43:57.3
+SH10174,Warehouse_LA,Houston,FedEx,1/5/2023,1/23/2023,11.5,244.22,Delayed,1814,8,43:57.3
+SH10175,Warehouse_MIA,Minneapolis,USPS,7/19/2023,7/25/2023,11.6,184.5,Delivered,1454,6,43:57.3
+SH10176,Warehouse_NYC,Miami,USPS,6/17/2023,6/19/2023,105,180.26,Returned,543,2,43:57.3
+SH10177,Warehouse_BOS,Atlanta,DHL,7/30/2023,8/2/2023,13.8,167.23,Delivered,1142,3,43:57.3
+SH10178,Warehouse_MIA,Portland,FedEx,6/7/2023,6/10/2023,14.1,137.25,Delivered,810,3,43:57.3
+SH10179,Warehouse_CHI,Portland,Amazon Logistics,8/14/2023,8/27/2023,30.3,154.16,Delayed,1081,3,43:57.3
+SH10180,Warehouse_DEN,Phoenix,Amazon Logistics,1/21/2023,1/22/2023,19.4,40.24,Delivered,152,1,43:57.3
+SH10181,Warehouse_NYC,Phoenix,DHL,9/15/2023,9/20/2023,10,156.13,Delivered,1120,5,43:57.3
+SH10182,Warehouse_SEA,Portland,Amazon Logistics,1/1/2023,1/10/2023,22.8,319.99,Delivered,2327,9,43:57.3
+SH10183,Warehouse_HOU,Dallas,Amazon Logistics,9/24/2023,10/6/2023,7.1,0,Delayed,1376,5,43:57.3
+SH10184,Warehouse_SF,Houston,Amazon Logistics,11/25/2023,11/30/2023,17.5,347.71,Delivered,2380,5,43:57.3
+SH10185,Warehouse_LA,Minneapolis,LaserShip,9/20/2023,9/24/2023,25.6,108.01,Delivered,694,4,43:57.3
+SH10186,Warehouse_HOU,New York,FedEx,7/4/2023,7/8/2023,19.6,261.42,Delivered,1791,4,43:57.3
+SH10187,Warehouse_LA,New York,OnTrac,4/30/2023,5/2/2023,15.7,67.25,Delivered,411,2,43:57.3
+SH10188,Warehouse_SEA,San Francisco,OnTrac,12/20/2023,12/26/2023,7.5,158.02,Delivered,1073,6,43:57.3
+SH10189,Warehouse_MIA,Minneapolis,FedEx,7/29/2023,8/2/2023,23.5,261.49,Delivered,1634,4,43:57.3
+SH10190,Warehouse_BOS,San Francisco,USPS,2/19/2023,2/25/2023,4.5,277.56,Delivered,2411,6,43:57.3
+SH10191,Warehouse_SEA,Detroit,UPS,3/2/2023,3/10/2023,11.9,0,Delivered,2481,8,43:57.3
+SH10192,Warehouse_SEA,Detroit,FedEx,12/10/2023,12/15/2023,26.5,345.27,Delivered,2052,5,43:57.3
+SH10193,Warehouse_NYC,Dallas,LaserShip,11/6/2023,11/14/2023,12.8,378.16,Delivered,2465,8,43:57.3
+SH10194,Warehouse_LA,Chicago,DHL,2/19/2023,2/24/2023,29.3,206.8,Delivered,1213,5,43:57.3
+SH10195,Warehouse_LA,Houston,LaserShip,5/14/2023,5/18/2023,15.5,174.55,Delivered,1247,4,43:57.3
+SH10196,Warehouse_SF,New York,OnTrac,10/16/2023,10/22/2023,19,321.04,Lost,2278,6,43:57.3
+SH10197,Warehouse_BOS,San Francisco,USPS,5/30/2023,6/7/2023,15.3,300.44,Delayed,2406,7,43:57.3
+SH10198,Warehouse_BOS,Denver,UPS,7/15/2023,7/19/2023,4.2,208.73,Delivered,1596,4,43:57.3
+SH10199,Warehouse_HOU,San Francisco,OnTrac,1/31/2023,2/3/2023,20.1,169.98,Delivered,1108,3,43:57.3
+SH10200,Warehouse_LA,Portland,LaserShip,12/28/2023,1/3/2024,9.6,195.3,Delivered,1380,6,43:57.3
+SH10201,Warehouse_DEN,Dallas,UPS,3/28/2023,4/2/2023,5.3,197.9,Delivered,1605,5,43:57.3
+SH10202,Warehouse_LA,Atlanta,USPS,12/9/2023,12/23/2023,10.8,232.88,Delayed,1504,4,43:57.3
+SH10203,Warehouse_SF,Boston,DHL,1/31/2023,2/5/2023,61.1,350.67,Delivered,2138,5,43:57.3
+SH10204,Warehouse_HOU,New York,OnTrac,9/16/2023,9/28/2023,20.1,112.36,Delayed,754,3,43:57.3
+SH10205,Warehouse_NYC,Los Angeles,USPS,3/16/2023,1/1/1900,27.9,65.87,Delivered,320,2,43:57.3
+SH10206,Warehouse_LA,Houston,LaserShip,3/16/2023,3/20/2023,22.8,242.14,Delivered,1657,4,43:57.3
+SH10207,Warehouse_MIA,Detroit,DHL,11/3/2023,11/7/2023,14.7,285.59,Delivered,1423,4,43:57.3
+SH10208,Warehouse_LA,Seattle,FedEx,9/12/2023,9/17/2023,32.1,193.72,Delivered,1135,5,43:57.3
+SH10209,Warehouse_BOS,Phoenix,DHL,5/18/2023,6/4/2023,8.7,121.73,Delayed,737,4,43:57.3
+SH10210,Warehouse_BOS,Detroit,DHL,10/25/2023,10/27/2023,33.7,162.31,Delivered,796,2,43:57.3
+SH10211,Warehouse_CHI,Chicago,FedEx,12/15/2023,12/17/2023,28.8,96.12,Delivered,308,2,43:57.3
+SH10212,Warehouse_HOU,San Francisco,FedEx,12/15/2023,12/20/2023,9.1,125.92,Returned,787,5,43:57.3
+SH10213,Warehouse_ATL,Denver,Amazon Logistics,8/28/2023,9/5/2023,28.5,284.4,Delivered,2074,8,43:57.3
+SH10214,Warehouse_HOU,Chicago,DHL,9/22/2023,9/27/2023,88,297.28,Delivered,1145,5,43:57.3
+SH10215,Warehouse_DEN,Minneapolis,OnTrac,6/7/2023,6/12/2023,21.9,0,Delivered,1719,5,43:57.3
+SH10216,Warehouse_NYC,Los Angeles,USPS,8/4/2023,8/9/2023,24.1,141.81,Delivered,1082,5,43:57.3
+SH10217,Warehouse_ATL,Dallas,FedEx,12/23/2023,12/26/2023,11.9,192.63,Delivered,1204,3,43:57.3
+SH10218,Warehouse_HOU,Denver,LaserShip,9/4/2023,9/7/2023,17.9,133.27,Delivered,1030,3,43:57.3
+SH10219,Warehouse_BOS,Dallas,Amazon Logistics,5/18/2023,5/20/2023,38.1,120.04,Delivered,603,2,43:57.3
+SH10220,Warehouse_ATL,Boston,UPS,7/14/2023,7/19/2023,4.9,203.03,Delivered,1660,5,43:57.3
+SH10221,Warehouse_CHI,Chicago,FedEx,9/6/2023,9/9/2023,86.2,210.89,Delivered,862,3,43:57.3
+SH10222,Warehouse_CHI,Dallas,UPS,6/28/2023,7/3/2023,12.6,176.77,Delivered,1322,5,43:57.3
+SH10223,Warehouse_HOU,Denver,UPS,6/19/2023,6/22/2023,33.8,161.45,Delivered,1030,3,43:57.3
+SH10224,Warehouse_MIA,Minneapolis,FedEx,4/28/2023,5/7/2023,14.1,87.12,Delayed,573,3,43:57.3
+SH10225,Warehouse_BOS,Portland,Amazon Logistics,9/13/2023,9/18/2023,19.3,98.54,Delayed,585,1,43:57.3
+SH10226,Warehouse_HOU,Phoenix,USPS,12/10/2023,12/13/2023,16.6,219.37,Delivered,1469,3,43:57.3
+SH10227,Warehouse_SEA,New York,OnTrac,11/29/2023,12/5/2023,16.1,161.74,Delivered,1053,6,43:57.3
+SH10228,Warehouse_SEA,Boston,DHL,5/11/2023,5/14/2023,10.8,188.69,In Transit,1329,3,43:57.3
+SH10229,Warehouse_DEN,Portland,Amazon Logistics,3/13/2023,3/14/2023,8.8,27.23,Delivered,156,1,43:57.3
+SH10230,Warehouse_BOS,Portland,Amazon Logistics,3/1/2023,3/6/2023,12.1,247.5,Delayed,1760,4,43:57.3
+SH10231,Warehouse_CHI,Detroit,FedEx,8/30/2023,9/12/2023,19.8,63.39,Delayed,283,2,43:57.3
+SH10232,Warehouse_HOU,Houston,OnTrac,12/24/2023,12/27/2023,22.2,81.13,Delivered,397,3,43:57.3
+SH10233,Warehouse_ATL,Los Angeles,Amazon Logistics,8/12/2023,8/16/2023,18.5,109.5,Delivered,816,4,43:57.3
+SH10234,Warehouse_HOU,Los Angeles,LaserShip,4/28/2023,5/1/2023,10,96.03,Returned,715,3,43:57.3
+SH10235,Warehouse_NYC,Phoenix,UPS,5/24/2023,5/28/2023,25.9,285.87,Delivered,1956,4,43:57.3
+SH10236,Warehouse_BOS,Chicago,Amazon Logistics,7/30/2023,8/4/2023,22.8,277.9,Delivered,2187,5,43:57.3
+SH10237,Warehouse_NYC,Seattle,USPS,9/14/2023,9/20/2023,85.5,345.35,Delivered,2172,6,43:57.3
+SH10238,Warehouse_MIA,Denver,OnTrac,8/25/2023,8/28/2023,31.8,125.07,Delivered,816,3,43:57.3
+SH10239,Warehouse_LA,Atlanta,DHL,6/30/2023,7/7/2023,3.1,185.13,Delivered,1236,7,43:57.3
+SH10240,Warehouse_SF,New York,Amazon Logistics,6/24/2023,6/29/2023,54.9,319.88,Delivered,1902,5,43:57.3
+SH10241,Warehouse_SEA,Denver,DHL,10/11/2023,10/15/2023,17.6,167.63,Delivered,1038,4,43:57.3
+SH10242,Warehouse_SEA,Houston,LaserShip,5/24/2023,5/28/2023,8.7,188.16,Delivered,1590,4,43:57.3
+SH10243,Warehouse_ATL,Chicago,DHL,8/12/2023,8/17/2023,11.8,92.57,In Transit,590,5,43:57.3
+SH10244,Warehouse_HOU,Houston,LaserShip,4/3/2023,4/7/2023,44,167.48,Delivered,1105,4,43:57.3
+SH10245,Warehouse_MIA,Minneapolis,USPS,2/17/2023,2/20/2023,16.7,152.32,Delivered,1153,3,43:57.3
+SH10246,Warehouse_LA,Minneapolis,USPS,3/20/2023,3/23/2023,21.9,167.58,Delivered,1124,3,43:57.3
+SH10247,Warehouse_LA,New York,LaserShip,2/28/2023,3/5/2023,3.6,230.21,Delivered,2074,5,43:57.3
+SH10248,Warehouse_HOU,Seattle,UPS,12/28/2023,12/30/2023,32.7,97.49,Delivered,302,2,43:57.3
+SH10249,Warehouse_DEN,Chicago,USPS,11/3/2023,11/8/2023,13.6,316.04,Delivered,2073,5,43:57.3
+SH10250,Warehouse_NYC,Portland,Amazon Logistics,2/26/2023,1/27/2023,5.5,259.45,Delivered,2132,7,43:57.3
+SH10251,Warehouse_BOS,Chicago,Amazon Logistics,3/2/2023,3/5/2023,27.5,111.16,Delivered,569,3,43:57.3
+SH10252,Warehouse_BOS,Los Angeles,UPS,11/11/2023,11/16/2023,21.5,437.58,Delivered,2433,5,43:57.3
+SH10253,Warehouse_ATL,Denver,LaserShip,1/15/2023,1/17/2023,24.8,110.65,Delivered,677,2,43:57.3
+SH10254,Warehouse_BOS,Portland,LaserShip,2/27/2023,3/5/2023,11.2,324.52,In Transit,2379,6,43:57.3
+SH10255,Warehouse_LA,Denver,UPS,11/11/2023,11/16/2023,17.9,191.48,Delivered,984,5,43:57.3
+SH10256,Warehouse_DEN,Miami,DHL,5/19/2023,5/22/2023,34.9,102.14,Delivered,420,3,43:57.3
+SH10257,Warehouse_MIA,Dallas,FedEx,2/28/2023,3/1/2023,27.1,79.46,Delivered,338,1,43:57.3
+SH10258,Warehouse_CHI,Los Angeles,Amazon Logistics,9/16/2023,9/29/2023,46.8,105.98,Delayed,410,2,43:57.3
+SH10259,Warehouse_LA,Minneapolis,UPS,5/27/2023,6/1/2023,10.4,204.87,Delivered,1486,5,43:57.3
+SH10260,Warehouse_MIA,San Francisco,UPS,7/5/2023,1/1/1900,14.6,358.31,Delayed,2492,6,43:57.3
+SH10261,Warehouse_HOU,Detroit,DHL,12/24/2023,12/28/2023,39.2,159.9,Delivered,605,4,43:57.3
+SH10262,Warehouse_LA,Phoenix,USPS,3/13/2023,3/16/2023,10,0,Delivered,373,3,43:57.3
+SH10263,Warehouse_DEN,Portland,FedEx,8/31/2023,9/1/2023,8.6,34.32,Delivered,165,1,43:57.3
+SH10264,Warehouse_LA,Dallas,UPS,1/11/2023,1/15/2023,10.9,191.54,Delivered,1435,4,43:57.3
+SH10265,Warehouse_SF,Detroit,USPS,1/11/2023,1/14/2023,35.3,102.36,Delivered,533,3,43:57.3
+SH10266,Warehouse_BOS,Phoenix,Amazon Logistics,11/29/2023,12/5/2023,40.9,224.12,Delivered,1122,6,43:57.3
+SH10267,Warehouse_ATL,Minneapolis,DHL,7/22/2023,7/23/2023,22.4,70.43,Delivered,263,1,43:57.3
+SH10268,Warehouse_DEN,Miami,Amazon Logistics,11/14/2023,11/19/2023,8.7,202.52,Delivered,1348,5,43:57.3
+SH10269,Warehouse_SF,Atlanta,USPS,11/28/2023,12/1/2023,10.9,55.96,In Transit,340,3,43:57.3
+SH10270,Warehouse_DEN,Phoenix,FedEx,1/18/2023,1/21/2023,4.9,27.41,Delivered,159,3,43:57.3
+SH10271,Warehouse_BOS,Chicago,FedEx,1/21/2023,1/26/2023,45.1,322.54,Delivered,2054,5,43:57.3
+SH10272,Warehouse_SEA,Chicago,Amazon Logistics,3/27/2023,3/28/2023,24.8,66.9,In Transit,274,1,43:57.3
+SH10273,Warehouse_CHI,Miami,LaserShip,1/4/2023,1/8/2023,26.5,0,Delivered,1350,4,43:57.3
+SH10274,Warehouse_LA,Miami,LaserShip,3/15/2023,3/20/2023,13.4,0,Delivered,916,5,43:57.3
+SH10275,Warehouse_LA,New York,LaserShip,4/16/2023,4/18/2023,25.3,107.88,In Transit,742,2,43:57.3
+SH10276,Warehouse_ATL,Dallas,FedEx,8/18/2023,8/24/2023,18,305.41,Delivered,2218,6,43:57.3
+SH10277,Warehouse_DEN,Phoenix,OnTrac,3/12/2023,3/17/2023,8.2,248.9,Delivered,1857,5,43:57.3
+SH10278,Warehouse_LA,Los Angeles,OnTrac,9/2/2023,9/8/2023,9.6,242.9,Delivered,2001,6,43:57.3
+SH10279,Warehouse_SF,Minneapolis,USPS,10/19/2023,10/20/2023,37.7,77.3,Delivered,293,1,43:57.3
+SH10280,Warehouse_SEA,Dallas,OnTrac,10/22/2023,10/26/2023,20.1,209.94,Delivered,1401,4,43:57.3
+SH10281,Warehouse_HOU,Phoenix,OnTrac,3/22/2023,4/3/2023,21.5,136.58,Delayed,916,2,43:57.3
+SH10282,Warehouse_DEN,Los Angeles,Amazon Logistics,3/6/2023,3/10/2023,4.6,230.19,Delivered,1778,4,43:57.3
+SH10283,Warehouse_CHI,Boston,FedEx,11/6/2023,11/12/2023,29.5,194.07,Delivered,1041,6,43:57.3
+SH10284,Warehouse_ATL,Los Angeles,USPS,9/13/2023,8/14/2023,8,92.47,Delivered,676,5,43:57.3
+SH10285,Warehouse_SF,Miami,USPS,4/4/2023,4/5/2023,9.9,62.2,Delivered,448,1,43:57.3
+SH10286,Warehouse_NYC,New York,DHL,2/14/2023,2/19/2023,27.2,334.23,Delivered,2033,5,43:57.3
+SH10287,Warehouse_DEN,Minneapolis,DHL,9/19/2023,9/23/2023,75.9,251.01,Delivered,939,4,43:57.3
+SH10288,Warehouse_DEN,Detroit,UPS,6/14/2023,6/16/2023,24.5,142.73,Delivered,926,2,43:57.3
+SH10289,Warehouse_HOU,Los Angeles,OnTrac,7/19/2023,7/25/2023,38.5,330.97,Delivered,2444,6,43:57.3
+SH10290,Warehouse_LA,Dallas,OnTrac,11/9/2023,11/13/2023,10.6,235.34,Delivered,1435,4,43:57.3
+SH10291,Warehouse_HOU,Detroit,Amazon Logistics,3/7/2023,3/12/2023,10.1,231.81,Lost,1875,5,43:57.3
+SH10292,Warehouse_LA,New York,FedEx,5/28/2023,6/2/2023,18.4,302.47,Delivered,2280,5,43:57.3
+SH10293,Warehouse_MIA,Phoenix,DHL,11/16/2023,11/20/2023,16.7,341.36,Delivered,1808,4,43:57.3
+SH10294,Warehouse_DEN,Atlanta,UPS,5/30/2023,6/4/2023,4.1,237.12,Delivered,1790,5,43:57.3
+SH10295,Warehouse_MIA,New York,OnTrac,4/22/2023,4/26/2023,5.2,127.1,Delivered,1049,4,43:57.3
+SH10296,Warehouse_SEA,Boston,LaserShip,3/5/2023,3/18/2023,23.7,82.89,Delayed,461,6,43:57.3
+SH10297,Warehouse_HOU,Portland,FedEx,7/28/2023,8/2/2023,21.8,204.43,Delivered,1218,5,43:57.3
+SH10298,Warehouse_LA,Los Angeles,USPS,5/24/2023,5/30/2023,20,255.06,Delivered,2144,6,43:57.3
+SH10299,Warehouse_SEA,Boston,LaserShip,11/20/2023,11/24/2023,12.7,261.22,Delivered,1547,4,43:57.3
+SH10300,Warehouse_HOU,Dallas,DHL,6/29/2023,7/1/2023,22.8,76.07,Delivered,370,2,43:57.3
+SH10301,Warehouse_SEA,Boston,DHL,6/21/2023,6/30/2023,12.6,332.46,Delivered,2400,9,43:57.3
+SH10302,Warehouse_SEA,Atlanta,UPS,9/16/2023,9/20/2023,25,203.15,Delivered,1477,4,43:57.3
+SH10303,Warehouse_DEN,Boston,DHL,12/5/2023,12/10/2023,30.5,464.17,Delivered,2363,5,43:57.3
+SH10304,Warehouse_SF,New York,Amazon Logistics,12/6/2023,12/11/2023,20.6,246.74,Delivered,1442,5,43:57.3
+SH10305,Warehouse_CHI,Denver,OnTrac,8/11/2023,8/17/2023,46.9,188.95,Delayed,1000,2,43:57.3
+SH10306,Warehouse_CHI,Portland,LaserShip,2/27/2023,2/28/2023,30.2,71.67,Delivered,290,1,43:57.3
+SH10307,Warehouse_DEN,Minneapolis,LaserShip,2/21/2023,2/25/2023,17.2,133.74,Delivered,888,4,43:57.3
+SH10308,Warehouse_HOU,New York,DHL,3/15/2023,3/21/2023,14.4,391.92,Delivered,2448,6,43:57.3
+SH10309,Warehouse_DEN,Phoenix,Amazon Logistics,11/10/2023,11/22/2023,36.5,109.9,Delayed,385,2,43:57.3
+SH10310,Warehouse_SF,Boston,Amazon Logistics,3/29/2023,4/9/2023,17.5,198,Delayed,1539,4,43:57.3
+SH10311,Warehouse_LA,Dallas,LaserShip,7/21/2023,7/27/2023,60.6,242.49,Delivered,1435,6,43:57.3
+SH10312,Warehouse_ATL,Minneapolis,Amazon Logistics,6/22/2023,6/27/2023,8.3,208.92,Delivered,1713,5,43:57.3
+SH10313,Warehouse_ATL,Seattle,Amazon Logistics,12/19/2023,12/21/2023,20.4,44.83,Lost,135,2,43:57.3
+SH10314,Warehouse_CHI,Portland,DHL,10/28/2023,11/1/2023,37.9,100.86,Delivered,305,4,43:57.3
+SH10315,Warehouse_DEN,New York,FedEx,6/1/2023,6/6/2023,16.2,301.84,In Transit,2209,5,43:57.3
+SH10316,Warehouse_CHI,Denver,USPS,1/1/2023,1/7/2023,23.8,128.01,Delivered,1000,6,43:57.3
+SH10317,Warehouse_BOS,Boston,OnTrac,9/10/2023,9/19/2023,15.9,284.07,Delivered,2374,9,43:57.3
+SH10318,Warehouse_HOU,Los Angeles,OnTrac,11/26/2023,12/16/2023,77.8,413.72,Delayed,2313,10,43:57.3
+SH10319,Warehouse_CHI,Detroit,USPS,3/22/2023,3/26/2023,8.1,41.68,Delivered,283,4,43:57.3
+SH10320,Warehouse_BOS,Minneapolis,OnTrac,10/16/2023,10/21/2023,52.1,282.08,Delivered,1861,5,43:57.3
+SH10321,Warehouse_DEN,Houston,LaserShip,9/27/2023,1/1/1900,6.9,53.22,Delivered,424,2,43:57.3
+SH10322,Warehouse_LA,Phoenix,Amazon Logistics,1/11/2023,1/17/2023,22.6,76.63,Delayed,373,5,43:57.3
+SH10323,Warehouse_ATL,Phoenix,USPS,9/18/2023,9/23/2023,31.9,207.32,Delivered,1520,5,43:57.3
+SH10324,Warehouse_BOS,Miami,FedEx,10/23/2023,10/27/2023,45.9,89.19,Delivered,247,4,43:57.3
+SH10325,Warehouse_ATL,Houston,FedEx,7/26/2023,7/30/2023,14.9,112.48,Delivered,789,4,43:57.3
+SH10326,Warehouse_CHI,Denver,Amazon Logistics,2/5/2023,2/9/2023,27.6,165.2,Delivered,1000,4,43:57.3
+SH10327,Warehouse_HOU,Atlanta,DHL,3/25/2023,3/27/2023,8.3,128.12,Delivered,800,2,43:57.3
+SH10328,Warehouse_ATL,Chicago,DHL,10/27/2023,11/1/2023,41.8,174.68,Delivered,773,5,43:57.3
+SH10329,Warehouse_DEN,Seattle,Amazon Logistics,7/4/2023,7/9/2023,10.7,219.9,Lost,1857,5,43:57.3
+SH10330,Warehouse_MIA,Detroit,Amazon Logistics,7/10/2023,7/13/2023,8.3,154.62,Delivered,1155,3,43:57.3
+SH10331,Warehouse_NYC,Houston,UPS,6/3/2023,6/7/2023,67.9,253.84,Delivered,1154,4,43:57.3
+SH10332,Warehouse_MIA,Denver,UPS,11/7/2023,11/11/2023,10.3,233.37,Delivered,1477,4,43:57.3
+SH10333,Warehouse_NYC,Houston,OnTrac,1/30/2023,2/3/2023,22.7,218.75,Delivered,1541,4,43:57.3
+SH10334,Warehouse_LA,Miami,DHL,11/7/2023,11/10/2023,19,127.07,Delivered,622,3,43:57.3
+SH10335,Warehouse_BOS,Minneapolis,Amazon Logistics,4/24/2023,4/26/2023,43.4,0,Delivered,844,2,43:57.3
+SH10336,Warehouse_SEA,Phoenix,Amazon Logistics,4/27/2023,4/30/2023,12.7,192.88,Delivered,1608,3,43:57.3
+SH10337,Warehouse_SEA,Atlanta,UPS,1/10/2023,1/14/2023,45.3,240.32,Delivered,1324,4,43:57.3
+SH10338,Warehouse_CHI,Portland,UPS,8/17/2023,8/22/2023,12.3,310.02,Delivered,2328,5,43:57.3
+SH10339,Warehouse_SF,Detroit,USPS,10/10/2023,10/15/2023,52.2,253.33,Delayed,1608,4,43:57.3
+SH10340,Warehouse_ATL,Phoenix,UPS,1/12/2023,1/21/2023,8.4,280.39,Delivered,2388,9,43:57.3
+SH10341,Warehouse_HOU,Chicago,Amazon Logistics,7/12/2023,7/15/2023,13.9,136.58,Delivered,1028,3,43:57.3
+SH10342,Warehouse_LA,Atlanta,LaserShip,1/20/2023,1/29/2023,41,278.39,Delayed,2061,5,43:57.3
+SH10343,Warehouse_LA,Chicago,USPS,10/14/2023,10/19/2023,26.1,232.56,Delivered,1772,5,43:57.3
+SH10344,Warehouse_LA,Chicago,USPS,10/20/2023,10/24/2023,26.2,210.07,Delivered,1707,4,43:57.3
+SH10345,Warehouse_SEA,Detroit,USPS,2/14/2023,1/15/2023,47.6,135.78,Delayed,636,1,43:57.3
+SH10346,Warehouse_SF,Houston,FedEx,11/6/2023,11/16/2023,10.8,349.56,In Transit,1953,10,43:57.3
+SH10347,Warehouse_NYC,Detroit,USPS,10/28/2023,11/2/2023,42.4,192.86,Delivered,1319,5,43:57.3
+SH10348,Warehouse_DEN,Boston,OnTrac,12/17/2023,1/1/1900,8.2,69.79,Delivered,383,2,43:57.3
+SH10349,Warehouse_SEA,Houston,UPS,9/1/2023,9/4/2023,26.1,75.76,Delivered,325,3,43:57.3
+SH10350,Warehouse_SF,Portland,UPS,4/3/2023,4/5/2023,21.1,73.7,Delivered,347,2,43:57.3
+SH10351,Warehouse_SF,Portland,Amazon Logistics,6/23/2023,6/25/2023,15.7,87.18,Delivered,509,2,43:57.3
+SH10352,Warehouse_SEA,Minneapolis,OnTrac,12/16/2023,12/18/2023,14.3,88.22,Delivered,421,2,43:57.3
+SH10353,Warehouse_HOU,Minneapolis,OnTrac,8/28/2023,9/2/2023,34.3,287.66,Delivered,2065,5,43:57.3
+SH10354,Warehouse_CHI,Los Angeles,UPS,5/13/2023,5/20/2023,13.7,341.16,Delivered,2361,7,43:57.3
+SH10355,Warehouse_MIA,San Francisco,DHL,12/28/2023,1/1/2024,31.2,274.73,Delivered,1415,4,43:57.3
+SH10356,Warehouse_SF,Detroit,LaserShip,11/19/2023,11/24/2023,18.7,270.75,Delivered,1679,5,43:57.3
+SH10357,Warehouse_SF,Boston,DHL,9/5/2023,9/8/2023,30,187.33,Delivered,1180,3,43:57.3
+SH10358,Warehouse_SEA,Dallas,USPS,2/10/2023,2/13/2023,20.7,201.34,Delivered,1515,3,43:57.3
+SH10359,Warehouse_CHI,Detroit,Amazon Logistics,11/10/2023,11/12/2023,27.2,87.22,Delivered,283,2,43:57.3
+SH10360,Warehouse_MIA,Phoenix,UPS,2/24/2023,3/4/2023,10.6,78.78,Delayed,517,2,43:57.3
+SH10361,Warehouse_DEN,Minneapolis,Amazon Logistics,3/21/2023,3/24/2023,6.9,23.19,Delivered,140,3,43:57.3
+SH10362,Warehouse_SEA,Los Angeles,FedEx,9/23/2023,9/29/2023,17.1,309.74,Delivered,2081,6,43:57.3
+SH10363,Warehouse_DEN,Los Angeles,UPS,6/9/2023,6/15/2023,33.1,283.18,Delivered,1885,6,43:57.3
+SH10364,Warehouse_SF,Portland,OnTrac,8/25/2023,8/27/2023,18.7,90.94,Delivered,604,2,43:57.3
+SH10365,Warehouse_SF,Portland,DHL,6/6/2023,6/10/2023,21.1,141.98,Delivered,847,4,43:57.3
+SH10366,Warehouse_BOS,Boston,FedEx,12/12/2023,12/23/2023,55.1,474.36,Delayed,2247,6,43:57.3
+SH10367,Warehouse_SF,Chicago,OnTrac,4/25/2023,5/1/2023,14.6,293.83,Delivered,2420,6,43:57.3
+SH10368,Warehouse_MIA,Denver,FedEx,3/20/2023,3/26/2023,20.5,315.46,Delivered,2294,6,43:57.3
+SH10369,Warehouse_SEA,Atlanta,DHL,4/14/2023,4/19/2023,16.8,303.11,Delivered,2091,5,43:57.3
+SH10370,Warehouse_BOS,Los Angeles,OnTrac,3/19/2023,3/23/2023,31.2,206.1,Delivered,1358,4,43:57.3
+SH10371,Warehouse_SF,Los Angeles,FedEx,9/27/2023,9/29/2023,16,87.01,Returned,484,2,43:57.3
+SH10372,Warehouse_MIA,Miami,FedEx,11/16/2023,11/17/2023,11,122.5,Delivered,675,1,43:57.3
+SH10373,Warehouse_ATL,Detroit,USPS,6/9/2023,6/15/2023,37.9,236.61,Delivered,1884,6,43:57.3
+SH10374,Warehouse_MIA,Chicago,FedEx,8/12/2023,8/17/2023,21.8,299.4,Delivered,2196,5,43:57.3
+SH10375,Warehouse_CHI,Atlanta,USPS,4/26/2023,5/2/2023,6,253.02,Delivered,2325,6,43:57.3
+SH10376,Warehouse_LA,Boston,USPS,7/9/2023,7/12/2023,37.9,171.78,In Transit,1014,3,43:57.3
+SH10377,Warehouse_BOS,Dallas,UPS,2/10/2023,2/15/2023,14.8,286.7,Delivered,2050,5,43:57.3
+SH10378,Warehouse_DEN,Dallas,UPS,7/28/2023,8/3/2023,9.1,75.28,Delayed,474,5,43:57.3
+SH10379,Warehouse_ATL,Los Angeles,OnTrac,9/26/2023,9/27/2023,9.5,77.13,Delivered,498,1,43:57.3
+SH10380,Warehouse_BOS,Portland,OnTrac,11/19/2023,11/23/2023,33.6,291.85,Delivered,1512,4,43:57.3
+SH10381,Warehouse_MIA,Atlanta,USPS,11/7/2023,11/12/2023,40.3,206.28,Delivered,1076,5,43:57.3
+SH10382,Warehouse_NYC,Portland,OnTrac,3/24/2023,3/27/2023,15,141.6,Delivered,1115,3,43:57.3
+SH10383,Warehouse_SF,Chicago,LaserShip,9/14/2023,9/16/2023,75.4,109.7,Delivered,242,2,43:57.3
+SH10384,Warehouse_LA,Detroit,USPS,12/23/2023,12/24/2023,6.4,78.84,Delivered,534,1,43:57.3
+SH10385,Warehouse_CHI,San Francisco,OnTrac,8/16/2023,8/22/2023,44.4,179.93,Delivered,1059,6,43:57.3
+SH10386,Warehouse_SF,Minneapolis,Amazon Logistics,6/27/2023,7/2/2023,11.7,140.32,Delivered,1060,5,43:57.3
+SH10387,Warehouse_HOU,Los Angeles,UPS,3/3/2023,3/8/2023,24.4,326.92,Delivered,2330,5,43:57.3
+SH10388,Warehouse_DEN,Chicago,FedEx,9/21/2023,9/26/2023,20.9,268.01,Delivered,1867,5,43:57.3
+SH10389,Warehouse_MIA,Boston,OnTrac,9/3/2023,9/11/2023,17.7,0,Delivered,2465,8,43:57.3
+SH10390,Warehouse_SEA,Dallas,UPS,6/15/2023,6/21/2023,9.2,286.15,Delivered,2096,6,43:57.3
+SH10391,Warehouse_LA,San Francisco,Amazon Logistics,8/12/2023,8/19/2023,32.4,332.08,Delivered,2409,7,43:57.3
+SH10392,Warehouse_SF,Boston,FedEx,1/27/2023,1/30/2023,110.9,283.94,Delivered,1032,3,43:57.3
+SH10393,Warehouse_NYC,Atlanta,FedEx,8/7/2023,8/9/2023,50.4,175.48,Delivered,870,2,43:57.3
+SH10394,Warehouse_LA,Portland,FedEx,6/1/2023,6/7/2023,54.4,284.26,Delivered,1616,6,43:57.3
+SH10395,Warehouse_SEA,Dallas,DHL,3/5/2023,3/17/2023,34.5,233.71,Delayed,1366,4,43:57.3
+SH10396,Warehouse_LA,Denver,UPS,4/9/2023,4/15/2023,9.5,228.41,Delivered,1802,6,43:57.3
+SH10397,Warehouse_ATL,Detroit,Amazon Logistics,6/14/2023,5/15/2023,58,90.41,Delivered,196,2,43:57.3
+SH10398,Warehouse_BOS,Atlanta,OnTrac,12/18/2023,12/25/2023,10.8,400.75,Delivered,2425,7,43:57.3
+SH10399,Warehouse_SEA,Atlanta,OnTrac,3/10/2023,3/14/2023,26,222.33,Delivered,1641,4,43:57.3
+SH10400,Warehouse_ATL,San Francisco,Amazon Logistics,12/1/2023,12/6/2023,6.5,28.34,Lost,129,2,43:57.3
+SH10401,Warehouse_ATL,Portland,LaserShip,10/28/2023,11/1/2023,6.9,194.18,Delivered,1649,4,43:57.3
+SH10402,Warehouse_MIA,Boston,DHL,2/12/2023,3/4/2023,29.5,224.76,Delayed,1289,8,43:57.3
+SH10403,Warehouse_NYC,Dallas,LaserShip,12/17/2023,12/18/2023,12.7,56.43,Delivered,273,1,43:57.3
+SH10404,Warehouse_HOU,Miami,UPS,7/11/2023,7/14/2023,29.1,160.14,Delivered,940,3,43:57.3
+SH10405,Warehouse_ATL,Detroit,USPS,11/24/2023,11/28/2023,34.7,329.19,Delivered,1913,4,43:57.3
+SH10406,Warehouse_LA,San Francisco,LaserShip,6/27/2023,6/28/2023,13.3,42.44,Delivered,252,1,43:57.3
+SH10407,Warehouse_MIA,Phoenix,OnTrac,7/17/2023,7/20/2023,29.3,136.26,In Transit,919,3,43:57.3
+SH10408,Warehouse_CHI,Atlanta,OnTrac,12/2/2023,12/7/2023,9.6,154.66,Delivered,1040,5,43:57.3
+SH10409,Warehouse_BOS,New York,FedEx,5/5/2023,5/11/2023,6.3,267.55,Delivered,2108,6,43:57.3
+SH10410,Warehouse_SF,Phoenix,LaserShip,10/3/2023,10/7/2023,15.6,95.5,Delivered,627,4,43:57.3
+SH10411,Warehouse_SEA,Houston,FedEx,4/21/2023,4/22/2023,8.6,33.61,Lost,178,1,43:57.3
+SH10412,Warehouse_MIA,Denver,USPS,8/31/2023,9/2/2023,34.1,114.04,Delivered,616,2,43:57.3
+SH10413,Warehouse_HOU,Atlanta,OnTrac,2/18/2023,2/20/2023,21.1,109.65,Delivered,800,2,43:57.3
+SH10414,Warehouse_LA,Dallas,Amazon Logistics,6/14/2023,6/18/2023,33.8,204.1,Delivered,1435,4,43:57.3
+SH10415,Warehouse_ATL,Minneapolis,Amazon Logistics,4/25/2023,5/1/2023,331.7,242.34,Delivered,1727,6,43:57.3
+SH10416,Warehouse_HOU,Chicago,DHL,9/22/2023,9/26/2023,9.5,271.59,Delivered,2007,4,43:57.3
+SH10417,Warehouse_NYC,Dallas,LaserShip,6/6/2023,6/14/2023,21.6,221.42,Delayed,1619,4,43:57.3
+SH10418,Warehouse_ATL,Chicago,DHL,1/18/2023,1/25/2023,10,360.44,Delivered,2344,7,43:57.3
+SH10419,Warehouse_MIA,Dallas,OnTrac,12/4/2023,11/4/2023,7.8,330.04,Delivered,2242,5,43:57.3
+SH10420,Warehouse_MIA,Houston,OnTrac,8/28/2023,9/1/2023,26.8,190.03,In Transit,1346,4,43:57.3
+SH10421,Warehouse_NYC,Miami,UPS,3/17/2023,3/18/2023,36.3,77.48,Delivered,283,1,43:57.3
+SH10422,Warehouse_DEN,Los Angeles,LaserShip,5/20/2023,5/24/2023,7.1,26.87,In Transit,164,4,43:57.3
+SH10423,Warehouse_SF,Boston,Amazon Logistics,1/4/2023,1/11/2023,14.6,188.17,Delivered,1324,7,43:57.3
+SH10424,Warehouse_MIA,Minneapolis,FedEx,12/9/2023,12/14/2023,8.8,157.81,Delayed,849,2,43:57.3
+SH10425,Warehouse_ATL,Denver,LaserShip,8/4/2023,8/5/2023,5.9,30.32,Delivered,212,1,43:57.3
+SH10426,Warehouse_SEA,Denver,FedEx,2/21/2023,2/27/2023,11.1,139.42,Delivered,1035,6,43:57.3
+SH10427,Warehouse_LA,Phoenix,USPS,6/13/2023,6/14/2023,50,51.54,Delivered,373,1,43:57.3
+SH10428,Warehouse_ATL,Atlanta,USPS,9/16/2023,9/19/2023,58.9,136.22,Delivered,569,3,43:57.3
+SH10429,Warehouse_NYC,Detroit,OnTrac,8/21/2023,8/30/2023,36.6,311.84,In Transit,2250,9,43:57.3
+SH10430,Warehouse_DEN,Seattle,OnTrac,4/23/2023,4/28/2023,23,166.87,Delivered,1171,5,43:57.3
+SH10431,Warehouse_HOU,New York,DHL,2/9/2023,2/12/2023,23,94.01,Delivered,462,3,43:57.3
+SH10432,Warehouse_HOU,San Francisco,FedEx,5/8/2023,5/12/2023,18.5,232.87,Delivered,1761,4,43:57.3
+SH10433,Warehouse_HOU,Minneapolis,DHL,1/31/2023,2/2/2023,16.8,118.63,Delivered,658,2,43:57.3
+SH10434,Warehouse_HOU,Phoenix,DHL,10/20/2023,10/23/2023,14.2,161.26,Delivered,978,3,43:57.3
+SH10435,Warehouse_CHI,Phoenix,DHL,1/22/2023,1/25/2023,45.1,238.38,Delivered,1349,3,43:57.3
+SH10436,Warehouse_ATL,Houston,Amazon Logistics,3/29/2023,3/30/2023,19,77.14,Delivered,483,1,43:57.3
+SH10437,Warehouse_DEN,Houston,FedEx,4/14/2023,4/21/2023,9.9,256.92,Delivered,1707,7,43:57.3
+SH10438,Warehouse_ATL,Dallas,USPS,9/25/2023,9/30/2023,46.2,329.57,Delivered,2333,5,43:57.3
+SH10439,Warehouse_NYC,Chicago,LaserShip,12/4/2023,12/6/2023,10.2,120.04,Delivered,790,2,43:57.3
+SH10440,Warehouse_CHI,San Francisco,DHL,4/3/2023,4/11/2023,5.2,216.66,Delivered,1605,8,43:57.3
+SH10441,Warehouse_SF,Seattle,UPS,11/1/2023,11/5/2023,26,183.17,Delivered,1019,4,43:57.3
+SH10442,Warehouse_NYC,San Francisco,USPS,9/16/2023,9/20/2023,13.2,256.53,Delivered,1945,4,43:57.3
+SH10443,Warehouse_HOU,Phoenix,Amazon Logistics,4/1/2023,4/3/2023,55.5,169.22,Delivered,804,2,43:57.3
+SH10444,Warehouse_LA,Dallas,Amazon Logistics,9/17/2023,9/23/2023,23.9,188.32,Delivered,1435,6,43:57.3
+SH10445,Warehouse_HOU,Phoenix,Amazon Logistics,4/10/2023,4/13/2023,31.6,152.35,In Transit,1081,3,43:57.3
+SH10446,Warehouse_SEA,Seattle,FedEx,11/29/2023,12/5/2023,34,234.67,Delivered,1211,6,43:57.3
+SH10447,Warehouse_HOU,Los Angeles,DHL,7/28/2023,1/1/1900,29.3,171.21,Delivered,916,4,43:57.3
+SH10448,Warehouse_BOS,Chicago,USPS,4/14/2023,4/18/2023,87.5,322.09,Delivered,1941,4,43:57.3
+SH10449,Warehouse_CHI,Houston,OnTrac,9/29/2023,10/4/2023,6.6,211.32,Delivered,1560,5,43:57.3
+SH10450,Warehouse_BOS,Chicago,DHL,9/14/2023,9/19/2023,14.2,279.38,Delivered,1843,5,43:57.3
+SH10451,Warehouse_SEA,Seattle,OnTrac,3/6/2023,3/14/2023,8.3,274.13,Delivered,2418,8,43:57.3
+SH10452,Warehouse_BOS,San Francisco,LaserShip,1/4/2023,1/21/2023,18,271.68,Delayed,2067,5,43:57.3
+SH10453,Warehouse_NYC,Portland,OnTrac,1/21/2023,1/23/2023,45,124.14,Delivered,568,2,43:57.3
+SH10454,Warehouse_NYC,San Francisco,FedEx,6/9/2023,6/15/2023,8.1,119.16,Delivered,906,6,43:57.3
+SH10455,Warehouse_SEA,Houston,USPS,1/18/2023,1/23/2023,16.3,87.95,Delivered,642,5,43:57.3
+SH10456,Warehouse_CHI,Houston,USPS,11/3/2023,11/8/2023,10.9,281.08,Delivered,1954,5,43:57.3
+SH10457,Warehouse_MIA,Boston,FedEx,3/15/2023,3/21/2023,6,311.67,Delivered,2192,6,43:57.3
+SH10458,Warehouse_SF,Denver,UPS,9/15/2023,9/18/2023,33.6,195.61,Delivered,1113,3,43:57.3
+SH10459,Warehouse_SF,Detroit,DHL,2/17/2023,2/25/2023,11.8,283.34,Delivered,1837,8,43:57.3
+SH10460,Warehouse_SF,New York,USPS,9/18/2023,9/19/2023,68.9,0,Delivered,447,1,43:57.3
+SH10461,Warehouse_LA,Minneapolis,FedEx,8/16/2023,8/17/2023,21.4,49.49,Delivered,162,1,43:57.3
+SH10462,Warehouse_SEA,Minneapolis,USPS,2/27/2023,3/5/2023,31.3,308.28,Delivered,2454,6,43:57.3
+SH10463,Warehouse_HOU,Dallas,LaserShip,10/25/2023,10/27/2023,38.9,114.76,Delivered,603,2,43:57.3
+SH10464,Warehouse_BOS,Chicago,LaserShip,12/9/2023,12/13/2023,29,228.35,Delivered,1340,4,43:57.3
+SH10465,Warehouse_SF,Phoenix,USPS,7/16/2023,7/20/2023,39.6,270.85,Delivered,1963,4,43:57.3
+SH10466,Warehouse_LA,New York,LaserShip,5/3/2023,5/8/2023,11.8,270.13,Delivered,2254,5,43:57.3
+SH10467,Warehouse_SF,Dallas,USPS,11/19/2023,11/22/2023,15.7,121.5,In Transit,664,3,43:57.3
+SH10468,Warehouse_LA,Dallas,USPS,2/19/2023,2/23/2023,45.3,195.45,Delivered,1435,4,43:57.3
+SH10469,Warehouse_LA,Dallas,DHL,8/28/2023,9/3/2023,19.7,244.45,Delivered,1435,6,43:57.3
+SH10470,Warehouse_CHI,Houston,UPS,4/21/2023,1/1/1900,8.7,35.59,Delayed,195,1,43:57.3
+SH10471,Warehouse_MIA,Los Angeles,LaserShip,10/16/2023,10/22/2023,10.5,133.36,Delivered,1072,6,43:57.3
+SH10472,Warehouse_HOU,Denver,DHL,12/17/2023,12/20/2023,52.6,258.14,Delivered,1030,3,43:57.3
+SH10473,Warehouse_MIA,Atlanta,FedEx,6/4/2023,6/9/2023,27.7,237.6,Delivered,1363,5,43:57.3
+SH10474,Warehouse_NYC,Minneapolis,USPS,4/25/2023,4/27/2023,29.6,84.55,Lost,515,2,43:57.3
+SH10475,Warehouse_SEA,Detroit,OnTrac,9/3/2023,9/6/2023,10.8,48.75,Delivered,262,3,43:57.3
+SH10476,Warehouse_SEA,New York,Amazon Logistics,2/19/2023,2/23/2023,10.6,217.45,Delivered,1866,4,43:57.3
+SH10477,Warehouse_CHI,Phoenix,DHL,12/20/2023,1/6/2024,17.9,373.8,Delayed,1998,5,43:57.3
+SH10478,Warehouse_DEN,Chicago,UPS,7/16/2023,7/21/2023,14.8,182.07,Delivered,1304,5,43:57.3
+SH10479,Warehouse_SEA,Dallas,UPS,4/19/2023,4/21/2023,11.9,41.55,Delivered,187,2,43:57.3
+SH10480,Warehouse_LA,Chicago,USPS,3/31/2023,4/5/2023,26.7,209.87,Delivered,1486,5,43:57.3
+SH10481,Warehouse_SF,New York,Amazon Logistics,1/8/2023,1/12/2023,7.7,170.97,Delivered,1468,4,43:57.3
+SH10482,Warehouse_CHI,Seattle,Amazon Logistics,3/27/2023,4/1/2023,17.8,323.01,Delivered,2283,5,43:57.3
+SH10483,Warehouse_SF,Houston,UPS,1/19/2023,1/23/2023,57.6,346.17,Delivered,1950,4,43:57.3
+SH10484,Warehouse_MIA,Detroit,LaserShip,8/24/2023,9/2/2023,13.4,31.36,Delayed,119,2,43:57.3
+SH10485,Warehouse_MIA,Chicago,LaserShip,3/7/2023,3/10/2023,11.5,143.87,Delivered,983,3,43:57.3
+SH10486,Warehouse_DEN,Los Angeles,USPS,2/18/2023,2/20/2023,18.6,64.53,Lost,344,2,43:57.3
+SH10487,Warehouse_BOS,Detroit,Amazon Logistics,8/23/2023,8/28/2023,26.8,280.97,Delivered,1996,5,43:57.3
+SH10488,Warehouse_DEN,Los Angeles,OnTrac,6/25/2023,7/1/2023,8.6,219.42,Delayed,1671,5,43:57.3
+SH10489,Warehouse_NYC,Miami,FedEx,12/22/2023,12/26/2023,53.2,204.86,Delivered,829,4,43:57.3
+SH10490,Warehouse_SF,Los Angeles,Amazon Logistics,8/31/2023,9/6/2023,14.9,186.3,Delivered,1508,6,43:57.3
+SH10491,Warehouse_LA,Boston,DHL,6/17/2023,6/20/2023,59.4,316.73,Delivered,1504,3,43:57.3
+SH10492,Warehouse_CHI,Seattle,USPS,6/9/2023,6/13/2023,16.9,213.15,Delivered,1844,4,43:57.3
+SH10493,Warehouse_HOU,Denver,FedEx,2/6/2023,2/10/2023,13.4,139.6,Delivered,1030,4,43:57.3
+SH10494,Warehouse_SEA,New York,DHL,8/30/2023,9/1/2023,11.4,65.29,Delivered,319,2,43:57.3
+SH10495,Warehouse_SEA,Chicago,DHL,4/18/2023,4/24/2023,10.8,256.45,Delivered,1635,6,43:57.3
+SH10496,Warehouse_MIA,Denver,FedEx,9/3/2023,9/6/2023,68.5,235.28,Delivered,1058,3,43:57.3
+SH10497,Warehouse_MIA,Denver,FedEx,1/2/2023,1/3/2023,22.1,69.52,Delivered,309,1,43:57.3
+SH10498,Warehouse_DEN,Houston,Amazon Logistics,12/28/2023,12/30/2023,9,149.84,Delivered,1002,2,43:57.3
+SH10499,Warehouse_SF,Denver,DHL,9/28/2023,9/30/2023,10.7,51.05,Delivered,295,2,43:57.3
+SH10500,Warehouse_ATL,Seattle,UPS,8/10/2023,8/15/2023,4.4,316.41,Delivered,2252,5,43:57.3
+SH10501,Warehouse_LA,Seattle,UPS,7/16/2023,7/21/2023,39,195.48,Delivered,1135,5,43:57.3
+SH10502,Warehouse_LA,Los Angeles,Amazon Logistics,6/27/2023,7/3/2023,15.9,331.92,Delivered,2378,6,43:57.3
+SH10503,Warehouse_SEA,Minneapolis,USPS,11/30/2023,12/4/2023,10.3,227.04,Delivered,1473,4,43:57.3
+SH10504,Warehouse_MIA,Detroit,LaserShip,12/28/2023,1/1/2024,26.9,260.4,Delivered,1433,4,43:57.3
+SH10505,Warehouse_MIA,Houston,FedEx,10/20/2023,10/22/2023,51.6,103.41,Delivered,239,2,43:57.3
+SH10506,Warehouse_ATL,Atlanta,UPS,9/13/2023,9/18/2023,8.9,298.41,Delivered,2461,5,43:57.3
+SH10507,Warehouse_NYC,Miami,DHL,11/30/2023,12/5/2023,12.5,283.78,Delivered,1588,5,43:57.3
+SH10508,Warehouse_BOS,Denver,USPS,8/30/2023,8/31/2023,9.9,52.96,Delivered,328,1,43:57.3
+SH10509,Warehouse_BOS,Los Angeles,UPS,9/19/2023,9/24/2023,11.2,306.47,Delivered,2213,5,43:57.3
+SH10510,Warehouse_SF,Phoenix,USPS,1/8/2023,1/20/2023,19.8,263.66,Delayed,2186,6,43:57.3
+SH10511,Warehouse_LA,Denver,FedEx,7/7/2023,7/18/2023,16.5,196.73,Delayed,1228,4,43:57.3
+SH10512,Warehouse_CHI,Portland,LaserShip,9/3/2023,9/7/2023,12.1,206.41,Delivered,1553,4,43:57.3
+SH10513,Warehouse_ATL,Los Angeles,OnTrac,3/20/2023,3/24/2023,50.9,224.98,Delivered,1225,4,43:57.3
+SH10514,Warehouse_ATL,Atlanta,Amazon Logistics,7/20/2023,7/23/2023,20.5,202.83,Delivered,1428,3,43:57.3
+SH10515,Warehouse_HOU,Portland,LaserShip,12/26/2023,12/27/2023,24.1,79.56,Delivered,267,1,43:57.3
+SH10516,Warehouse_ATL,Minneapolis,UPS,3/13/2023,3/14/2023,8.9,89.78,Delivered,650,1,43:57.3
+SH10517,Warehouse_HOU,Boston,USPS,11/27/2023,12/3/2023,80,485.62,Delivered,2479,6,43:57.3
+SH10518,Warehouse_MIA,Houston,UPS,3/30/2023,4/4/2023,15.4,241.05,Delivered,1859,5,43:57.3
+SH10519,Warehouse_LA,Phoenix,USPS,2/1/2023,2/9/2023,21.4,68.02,Delayed,373,3,43:57.3
+SH10520,Warehouse_LA,Boston,OnTrac,7/2/2023,7/4/2023,6.6,115.73,Delivered,912,2,43:57.3
+SH10521,Warehouse_BOS,Atlanta,DHL,6/16/2023,6/18/2023,27.4,98.31,Delivered,490,2,43:57.3
+SH10522,Warehouse_CHI,Miami,LaserShip,6/15/2023,6/18/2023,20.1,195.91,Delivered,1350,3,43:57.3
+SH10523,Warehouse_ATL,Portland,Amazon Logistics,4/18/2023,5/2/2023,24.7,221.91,Delayed,1572,6,43:57.3
+SH10524,Warehouse_ATL,Detroit,Amazon Logistics,11/12/2023,11/16/2023,6.9,213.81,Delivered,1517,4,43:57.3
+SH10525,Warehouse_SF,Denver,DHL,7/7/2023,7/11/2023,34.7,304.3,Delivered,1785,4,43:57.3
+SH10526,Warehouse_SF,Minneapolis,OnTrac,4/24/2023,4/27/2023,20.3,89.33,Delivered,543,3,43:57.3
+SH10527,Warehouse_LA,Phoenix,OnTrac,2/3/2023,2/6/2023,32.2,83.7,Delivered,373,3,43:57.3
+SH10528,Warehouse_ATL,San Francisco,OnTrac,6/13/2023,6/16/2023,34.7,183.65,Delivered,1055,3,43:57.3
+SH10529,Warehouse_MIA,Atlanta,FedEx,7/20/2023,7/26/2023,19.4,323.37,Delivered,2177,6,43:57.3
+SH10530,Warehouse_NYC,Houston,UPS,11/13/2023,11/18/2023,5.5,248.81,Delivered,1769,5,43:57.3
+SH10531,Warehouse_HOU,Boston,Amazon Logistics,10/4/2023,10/7/2023,37.9,186.54,Delivered,1126,3,43:57.3
+SH10532,Warehouse_LA,Minneapolis,LaserShip,7/15/2023,7/20/2023,36.4,257.54,Delivered,1685,5,43:57.3
+SH10533,Warehouse_ATL,Dallas,OnTrac,3/1/2023,3/6/2023,31.4,130.31,Delivered,838,5,43:57.3
+SH10534,Warehouse_ATL,Miami,OnTrac,3/3/2023,3/9/2023,13.3,236.71,In Transit,2025,6,43:57.3
+SH10535,Warehouse_NYC,Seattle,LaserShip,4/13/2023,4/14/2023,15.4,33.51,Delivered,121,1,43:57.3
+SH10536,Warehouse_NYC,Chicago,FedEx,3/25/2023,4/8/2023,11.1,113.5,Delayed,790,4,43:57.3
+SH10537,Warehouse_ATL,Houston,LaserShip,4/14/2023,4/17/2023,51.4,143.25,Delivered,582,3,43:57.3
+SH10538,Warehouse_ATL,New York,LaserShip,5/17/2023,5/18/2023,55.6,101.32,Delivered,357,1,43:57.3
+SH10539,Warehouse_SF,Dallas,Amazon Logistics,3/14/2023,3/18/2023,30.9,151.63,Delivered,961,4,43:57.3
+SH10540,Warehouse_HOU,Miami,FedEx,6/16/2023,6/23/2023,5.4,187.36,Delivered,1292,7,43:57.3
+SH10541,Warehouse_MIA,Los Angeles,FedEx,4/20/2023,4/21/2023,35.4,88.87,Delivered,320,1,43:57.3
+SH10542,Warehouse_MIA,Atlanta,Amazon Logistics,1/8/2023,1/11/2023,42.8,0,Delivered,900,3,43:57.3
+SH10543,Warehouse_SEA,Seattle,LaserShip,9/23/2023,9/28/2023,27.5,227.05,Delivered,1611,5,43:57.3
+SH10544,Warehouse_ATL,Phoenix,LaserShip,10/14/2023,10/19/2023,22.8,184.9,Delivered,1288,5,43:57.3
+SH10545,Warehouse_SF,Portland,FedEx,1/19/2023,1/23/2023,21.7,139.26,Delivered,896,4,43:57.3
+SH10546,Warehouse_LA,Boston,UPS,6/25/2023,7/2/2023,37,208.58,Delivered,1452,7,43:57.3
+SH10547,Warehouse_SF,Dallas,UPS,5/4/2023,5/6/2023,20.1,50.48,In Transit,210,2,43:57.3
+SH10548,Warehouse_CHI,Portland,FedEx,1/12/2023,1/14/2023,20.8,74.77,Delivered,389,2,43:57.3
+SH10549,Warehouse_LA,New York,USPS,4/2/2023,4/4/2023,7.4,88.25,Returned,643,2,43:57.3
+SH10550,Warehouse_ATL,Boston,USPS,8/27/2023,8/29/2023,21.4,109.1,Delivered,838,2,43:57.3
+SH10551,Warehouse_DEN,Detroit,FedEx,5/12/2023,5/16/2023,20.3,228.9,Delivered,1383,4,43:57.3
+SH10552,Warehouse_MIA,New York,UPS,5/8/2023,5/11/2023,12.6,32.18,Delivered,121,3,43:57.3
+SH10553,Warehouse_DEN,Atlanta,DHL,11/21/2023,11/30/2023,17.5,402.56,Delivered,2146,9,43:57.3
+SH10554,Warehouse_LA,Boston,LaserShip,11/27/2023,11/28/2023,33,73.97,Delivered,223,1,43:57.3
+SH10555,Warehouse_MIA,Boston,USPS,7/15/2023,7/18/2023,69.3,244.01,In Transit,1337,3,43:57.3
+SH10556,Warehouse_HOU,Minneapolis,DHL,9/15/2023,9/20/2023,10.8,200.6,Delivered,1255,5,43:57.3
+SH10557,Warehouse_BOS,Phoenix,USPS,8/21/2023,8/25/2023,12.9,101.44,In Transit,825,4,43:57.3
+SH10558,Warehouse_SF,Minneapolis,USPS,9/10/2023,9/14/2023,23.6,229.43,Delivered,1852,4,43:57.3
+SH10559,Warehouse_SF,Dallas,FedEx,12/21/2023,12/25/2023,41,324.91,Returned,1764,4,43:57.3
+SH10560,Warehouse_MIA,Phoenix,Amazon Logistics,7/16/2023,7/19/2023,19.5,114.24,Delivered,713,3,43:57.3
+SH10561,Warehouse_LA,Chicago,UPS,3/24/2023,3/29/2023,17.8,235.64,Delivered,1898,5,43:57.3
+SH10562,Warehouse_CHI,San Francisco,LaserShip,2/24/2023,2/27/2023,67.5,220.77,Delivered,1083,3,43:57.3
+SH10563,Warehouse_DEN,Portland,FedEx,12/9/2023,12/13/2023,17.7,320.45,Delivered,1681,4,43:57.3
+SH10564,Warehouse_ATL,Miami,USPS,11/19/2023,11/22/2023,23.2,208.01,Delivered,1256,3,43:57.3
+SH10565,Warehouse_BOS,Los Angeles,UPS,6/15/2023,6/22/2023,17.2,251.79,Delivered,1984,7,43:57.3
+SH10566,Warehouse_MIA,Phoenix,USPS,11/29/2023,12/7/2023,61.6,384.1,Delivered,2445,8,43:57.3
+SH10567,Warehouse_CHI,Miami,OnTrac,7/13/2023,7/17/2023,25.3,191.72,Delivered,1350,4,43:57.3
+SH10568,Warehouse_LA,Houston,LaserShip,3/13/2023,3/23/2023,45.8,313.91,Delayed,2318,7,43:57.3
+SH10569,Warehouse_LA,Miami,OnTrac,4/19/2023,4/26/2023,28.4,304.15,Delivered,2243,7,43:57.3
+SH10570,Warehouse_MIA,Chicago,UPS,7/24/2023,7/31/2023,31.7,333.27,Delivered,2201,7,43:57.3
+SH10571,Warehouse_MIA,Boston,DHL,4/29/2023,5/6/2023,33.7,363.72,Delivered,2255,7,43:57.3
+SH10572,Warehouse_SF,Atlanta,UPS,5/13/2023,5/22/2023,58.4,196.37,Delivered,962,9,43:57.3
+SH10573,Warehouse_SF,Miami,LaserShip,6/30/2023,7/4/2023,28.7,255.28,In Transit,1681,4,43:57.3
+SH10574,Warehouse_CHI,Detroit,LaserShip,5/16/2023,5/17/2023,37.4,72.51,Delivered,283,1,43:57.3
+SH10575,Warehouse_SF,Boston,USPS,8/28/2023,8/31/2023,26.9,103.85,Delivered,640,3,43:57.3
+SH10576,Warehouse_CHI,Phoenix,OnTrac,10/18/2023,10/24/2023,27.8,294.98,Delivered,2409,6,43:57.3
+SH10577,Warehouse_ATL,San Francisco,FedEx,11/18/2023,11/22/2023,23.3,228.28,Lost,1203,4,43:57.3
+SH10578,Warehouse_CHI,Atlanta,Amazon Logistics,4/3/2023,4/4/2023,17.9,45.26,Delivered,231,1,43:57.3
+SH10579,Warehouse_ATL,Miami,LaserShip,9/12/2023,9/26/2023,32.5,308.35,Delayed,2136,5,43:57.3
+SH10580,Warehouse_SEA,Portland,OnTrac,3/4/2023,3/8/2023,19.8,265.4,Delivered,1886,4,43:57.3
+SH10581,Warehouse_MIA,Chicago,FedEx,1/20/2023,1/30/2023,11.9,287.05,Delivered,1896,10,43:57.3
+SH10582,Warehouse_CHI,Minneapolis,LaserShip,10/11/2023,10/16/2023,108.6,221.52,Delivered,1869,5,43:57.3
+SH10583,Warehouse_CHI,San Francisco,FedEx,6/4/2023,6/7/2023,15.9,200.58,Delivered,1412,3,43:57.3
+SH10584,Warehouse_ATL,Chicago,DHL,6/4/2023,6/7/2023,19.8,44,Delivered,110,3,43:57.3
+SH10585,Warehouse_HOU,Miami,LaserShip,2/5/2023,2/7/2023,14.6,107.88,Delivered,682,2,43:57.3
+SH10586,Warehouse_DEN,San Francisco,OnTrac,3/1/2023,3/7/2023,46.5,334.7,Delivered,2264,6,43:57.3
+SH10587,Warehouse_CHI,Boston,UPS,11/15/2023,11/18/2023,43.9,133.41,Delivered,413,3,43:57.3
+SH10588,Warehouse_MIA,Seattle,Amazon Logistics,5/26/2023,6/9/2023,17.5,144.25,Delayed,1003,3,43:57.3
+SH10589,Warehouse_SF,Houston,OnTrac,7/29/2023,8/1/2023,82.9,189.53,Delivered,893,3,43:57.3
+SH10590,Warehouse_HOU,Boston,DHL,5/23/2023,6/4/2023,16.2,219.44,Delayed,1509,4,43:57.3
+SH10591,Warehouse_BOS,Seattle,DHL,7/12/2023,7/25/2023,17.1,265.04,Delayed,1749,5,43:57.3
+SH10592,Warehouse_MIA,Los Angeles,OnTrac,6/14/2023,6/15/2023,9.4,59.03,Delivered,377,1,43:57.3
+SH10593,Warehouse_SF,Phoenix,FedEx,10/21/2023,10/26/2023,15.3,343.33,Delivered,2483,5,43:57.3
+SH10594,Warehouse_SEA,Seattle,OnTrac,3/10/2023,3/24/2023,17.4,231.71,Delayed,1606,5,43:57.3
+SH10595,Warehouse_NYC,Atlanta,OnTrac,7/25/2023,7/30/2023,11.8,119.5,Delivered,870,5,43:57.3
+SH10596,Warehouse_ATL,San Francisco,UPS,12/8/2023,12/13/2023,56.8,315.36,Delivered,1705,5,43:57.3
+SH10597,Warehouse_SEA,Atlanta,UPS,6/19/2023,1/1/1900,28.5,77.76,Delivered,290,2,43:57.3
+SH10598,Warehouse_DEN,Dallas,Amazon Logistics,5/22/2023,5/26/2023,14.6,187.56,Delivered,1525,4,43:57.3
+SH10599,Warehouse_MIA,Phoenix,DHL,6/23/2023,6/26/2023,9.9,180.22,Delivered,1178,3,43:57.3
+SH10600,Warehouse_SF,Houston,FedEx,2/26/2023,3/2/2023,45.7,247.43,Delivered,1612,4,43:57.3
+SH10601,Warehouse_LA,New York,Amazon Logistics,5/29/2023,6/4/2023,19.9,316.03,Delivered,2488,6,43:57.3
+SH10602,Warehouse_HOU,Dallas,Amazon Logistics,11/20/2023,11/30/2023,10.5,325.38,Delivered,2144,10,43:57.3
+SH10603,Warehouse_NYC,Dallas,FedEx,6/3/2023,6/6/2023,4.2,45.59,Delivered,341,3,43:57.3
+SH10604,Warehouse_BOS,Boston,LaserShip,2/17/2023,2/21/2023,17.9,77.71,Delivered,484,4,43:57.3
+SH10605,Warehouse_SEA,Detroit,DHL,7/28/2023,8/2/2023,6.9,218.92,Delivered,1461,5,43:57.3
+SH10606,Warehouse_LA,Chicago,Amazon Logistics,12/18/2023,12/23/2023,29.7,149.52,Delivered,766,5,43:57.3
+SH10607,Warehouse_ATL,Dallas,FedEx,6/5/2023,6/10/2023,11.4,179.35,Delivered,1151,5,43:57.3
+SH10608,Warehouse_MIA,San Francisco,LaserShip,7/26/2023,7/28/2023,11,59.43,Delivered,412,2,43:57.3
+SH10609,Warehouse_MIA,Dallas,Amazon Logistics,2/8/2023,2/12/2023,19.7,254.01,Delivered,1858,4,43:57.3
+SH10610,Warehouse_HOU,San Francisco,LaserShip,10/18/2023,11/3/2023,24.2,284.17,Delayed,2188,5,43:57.3
+SH10611,Warehouse_HOU,Dallas,FedEx,9/7/2023,9/10/2023,58.1,217.03,Delivered,1113,3,43:57.3
+SH10612,Warehouse_HOU,Seattle,FedEx,11/11/2023,11/16/2023,0.3,333.92,Delivered,1775,5,43:57.3
+SH10613,Warehouse_DEN,New York,Amazon Logistics,10/26/2023,10/30/2023,39,61.95,Delivered,109,4,43:57.3
+SH10614,Warehouse_CHI,Denver,UPS,9/25/2023,9/29/2023,16.5,143.91,Delivered,1000,4,43:57.3
+SH10615,Warehouse_ATL,Portland,UPS,4/16/2023,4/22/2023,12.9,56.83,Delayed,354,1,43:57.3
+SH10616,Warehouse_ATL,Miami,FedEx,4/24/2023,4/26/2023,11.5,114.38,Delivered,752,2,43:57.3
+SH10617,Warehouse_ATL,Denver,Amazon Logistics,9/26/2023,10/2/2023,37.7,286.4,Delivered,2253,6,43:57.3
+SH10618,Warehouse_CHI,Denver,LaserShip,6/17/2023,6/21/2023,8.6,119.7,Delivered,1000,4,43:57.3
+SH10619,Warehouse_SF,Phoenix,LaserShip,12/16/2023,12/25/2023,43.2,416.42,Delayed,2266,7,43:57.3
+SH10620,Warehouse_ATL,Minneapolis,DHL,9/18/2023,9/27/2023,51.8,201.57,Delayed,1014,3,43:57.3
+SH10621,Warehouse_BOS,Portland,USPS,11/14/2023,11/22/2023,21.4,276.47,Delivered,1837,8,43:57.3
+SH10622,Warehouse_HOU,Chicago,OnTrac,2/17/2023,2/20/2023,34.2,73.58,Delivered,264,3,43:57.3
+SH10623,Warehouse_LA,Detroit,FedEx,9/30/2023,10/3/2023,27.8,172.58,Delivered,920,3,43:57.3
+SH10624,Warehouse_BOS,Dallas,FedEx,4/5/2023,4/9/2023,3.3,52.34,Delivered,385,4,43:57.3
+SH10625,Warehouse_CHI,San Francisco,DHL,6/17/2023,6/21/2023,22.5,252.88,Delivered,1650,4,43:57.3
+SH10626,Warehouse_MIA,Minneapolis,OnTrac,9/24/2023,9/30/2023,16.3,274.15,Delivered,2133,6,43:57.3
+SH10627,Warehouse_SF,San Francisco,FedEx,11/15/2023,11/20/2023,7,194.75,In Transit,1191,5,43:57.3
+SH10628,Warehouse_LA,Miami,USPS,1/5/2023,1/8/2023,27.1,133.42,Lost,836,3,43:57.3
+SH10629,Warehouse_CHI,Denver,FedEx,10/4/2023,10/6/2023,11.9,149.7,Delivered,1000,2,43:57.3
+SH10630,Warehouse_SF,Los Angeles,DHL,8/12/2023,8/14/2023,54.7,191.49,Delivered,723,2,43:57.3
+SH10631,Warehouse_MIA,Los Angeles,FedEx,7/26/2023,8/1/2023,26,304.66,Lost,1990,6,43:57.3
+SH10632,Warehouse_BOS,Minneapolis,UPS,11/7/2023,11/9/2023,6.9,107.24,Delivered,660,2,43:57.3
+SH10633,Warehouse_ATL,Houston,UPS,7/21/2023,7/27/2023,44.1,340.74,Delivered,2174,6,43:57.3
+SH10634,Warehouse_ATL,Minneapolis,USPS,8/3/2023,8/6/2023,16.2,93.12,Delivered,651,3,43:57.3
+SH10635,Warehouse_CHI,Denver,FedEx,11/11/2023,11/14/2023,65.2,264.64,Delivered,1000,3,43:57.3
+SH10636,Warehouse_CHI,Minneapolis,DHL,5/18/2023,1/1/1900,8,164.55,Delivered,1019,3,43:57.3
+SH10637,Warehouse_DEN,Boston,LaserShip,5/18/2023,5/20/2023,29.9,95.19,Delivered,508,2,43:57.3
+SH10638,Warehouse_CHI,Houston,LaserShip,5/31/2023,6/6/2023,22.5,304.07,Delivered,2165,6,43:57.3
+SH10639,Warehouse_HOU,Portland,USPS,9/25/2023,9/30/2023,27.2,158.38,Delivered,1038,5,43:57.3
+SH10640,Warehouse_HOU,Minneapolis,UPS,2/22/2023,1/1/1900,27.7,129.49,Delivered,730,3,43:57.3
+SH10641,Warehouse_SF,Los Angeles,Amazon Logistics,3/19/2023,3/26/2023,37.7,339.21,Delivered,2201,7,43:57.3
+SH10642,Warehouse_DEN,Detroit,FedEx,3/20/2023,3/25/2023,10.2,265.15,Delivered,1808,5,43:57.3
+SH10643,Warehouse_SEA,Phoenix,OnTrac,10/3/2023,10/5/2023,10.2,79.74,Delivered,553,2,43:57.3
+SH10644,Warehouse_SEA,New York,DHL,3/18/2023,3/22/2023,44.4,151.2,Delivered,560,4,43:57.3
+SH10645,Warehouse_MIA,Atlanta,USPS,7/28/2023,8/2/2023,21.9,289.79,Delivered,2189,5,43:57.3
+SH10646,Warehouse_ATL,Detroit,LaserShip,11/17/2023,11/19/2023,23.1,98.82,Delivered,393,2,43:57.3
+SH10647,Warehouse_SEA,Minneapolis,DHL,12/13/2023,12/16/2023,37.7,336.06,Delivered,1505,3,43:57.3
+SH10648,Warehouse_DEN,New York,OnTrac,9/25/2023,10/1/2023,37.1,236.03,Delivered,1673,6,43:57.3
+SH10649,Warehouse_LA,Portland,OnTrac,8/4/2023,8/8/2023,12.1,144.44,Delivered,1029,4,43:57.3
+SH10650,Warehouse_SF,Miami,Amazon Logistics,9/29/2023,10/6/2023,6.9,294.86,Delivered,2487,7,43:57.3
+SH10651,Warehouse_SEA,Los Angeles,OnTrac,7/4/2023,7/8/2023,14.6,204.47,Delivered,1495,4,43:57.3
+SH10652,Warehouse_BOS,Chicago,DHL,7/1/2023,7/6/2023,54.9,243.58,Delivered,1121,5,43:57.3
+SH10653,Warehouse_NYC,Chicago,DHL,8/22/2023,8/24/2023,31.7,163.48,Delivered,790,2,43:57.3
+SH10654,Warehouse_BOS,Minneapolis,OnTrac,10/4/2023,10/8/2023,15.7,191.45,Delivered,1457,4,43:57.3
+SH10655,Warehouse_HOU,Miami,UPS,1/7/2023,1/12/2023,6.6,261.19,Delivered,1832,5,43:57.3
+SH10656,Warehouse_SF,Los Angeles,LaserShip,7/25/2023,7/28/2023,53.1,197.62,Delivered,1208,3,43:57.3
+SH10657,Warehouse_SF,Denver,LaserShip,12/16/2023,12/17/2023,32.3,115.94,Delivered,531,1,43:57.3
+SH10658,Warehouse_LA,Dallas,Amazon Logistics,12/23/2023,12/30/2023,67.3,275.71,Delivered,1435,7,43:57.3
+SH10659,Warehouse_SF,Portland,UPS,9/17/2023,9/22/2023,11.7,241.13,Delivered,1803,5,43:57.3
+SH10660,Warehouse_SEA,Los Angeles,Amazon Logistics,8/17/2023,8/22/2023,6.3,315.26,Delivered,2363,5,43:57.3
+SH10661,Warehouse_ATL,Chicago,Amazon Logistics,10/5/2023,10/8/2023,57.7,243.19,Delivered,1274,3,43:57.3
+SH10662,Warehouse_CHI,New York,OnTrac,2/9/2023,2/14/2023,5.9,199.78,Delivered,1678,5,43:57.3
+SH10663,Warehouse_CHI,Seattle,DHL,10/17/2023,11/3/2023,38,416.88,Delayed,2447,6,43:57.3
+SH10664,Warehouse_SF,Minneapolis,Amazon Logistics,3/3/2023,3/8/2023,9.7,230.69,Delivered,1667,5,43:57.3
+SH10665,Warehouse_LA,Dallas,Amazon Logistics,6/2/2023,6/6/2023,25,220.62,Delivered,1435,4,43:57.3
+SH10666,Warehouse_DEN,Houston,OnTrac,1/7/2023,1/12/2023,9.7,260.86,Delivered,1937,5,43:57.3
+SH10667,Warehouse_ATL,Dallas,UPS,3/28/2023,3/31/2023,5.6,94.63,Returned,659,3,43:57.3
+SH10668,Warehouse_SEA,Miami,UPS,3/3/2023,3/8/2023,18.1,102.98,Delivered,663,5,43:57.3
+SH10669,Warehouse_LA,Dallas,LaserShip,11/16/2023,11/21/2023,39,280.22,Delivered,1435,5,43:57.3
+SH10670,Warehouse_BOS,New York,LaserShip,3/20/2023,3/28/2023,28.1,192.15,Delivered,1431,8,43:57.3
+SH10671,Warehouse_MIA,Minneapolis,DHL,10/20/2023,11/3/2023,22.8,362.33,Delayed,2452,5,43:57.3
+SH10672,Warehouse_HOU,Detroit,LaserShip,7/9/2023,7/23/2023,25.5,298.33,Delayed,2427,6,43:57.3
+SH10673,Warehouse_NYC,Seattle,LaserShip,6/12/2023,6/17/2023,13.9,131.13,Delivered,872,5,43:57.3
+SH10674,Warehouse_ATL,Houston,DHL,4/15/2023,4/21/2023,7.7,234.65,Delivered,1747,6,43:57.3
+SH10675,Warehouse_LA,Houston,LaserShip,4/25/2023,4/29/2023,37.8,199.44,Delivered,1314,4,43:57.3
+SH10676,Warehouse_MIA,Los Angeles,DHL,10/27/2023,11/1/2023,43.7,401.12,Delivered,2460,5,43:57.3
+SH10677,Warehouse_MIA,New York,OnTrac,9/8/2023,9/13/2023,20.6,259.44,Delivered,2189,5,43:57.3
+SH10678,Warehouse_SEA,Denver,FedEx,10/2/2023,10/8/2023,14,295.69,Delivered,2105,6,43:57.3
+SH10679,Warehouse_BOS,Miami,FedEx,3/3/2023,3/9/2023,6.5,297.79,Delivered,2185,6,43:57.3
+SH10680,Warehouse_ATL,Houston,FedEx,8/15/2023,8/20/2023,122.7,432.92,Delivered,1984,5,43:57.3
+SH10681,Warehouse_BOS,Phoenix,OnTrac,10/19/2023,10/22/2023,13.6,141.3,Delivered,1123,3,43:57.3
+SH10682,Warehouse_ATL,San Francisco,OnTrac,5/4/2023,5/6/2023,35.9,89.84,Delivered,348,2,43:57.3
+SH10683,Warehouse_LA,Dallas,Amazon Logistics,1/2/2023,1/5/2023,52.3,222.33,Delivered,1435,3,43:57.3
+SH10684,Warehouse_HOU,Detroit,DHL,2/28/2023,3/1/2023,14.6,58.01,Delivered,265,1,43:57.3
+SH10685,Warehouse_NYC,Atlanta,FedEx,3/14/2023,3/17/2023,36.8,166.16,Delivered,870,3,43:57.3
+SH10686,Warehouse_BOS,Portland,LaserShip,11/25/2023,12/1/2023,25.8,319.09,Lost,2008,6,43:57.3
+SH10687,Warehouse_LA,Chicago,USPS,6/19/2023,6/22/2023,17.5,165.72,Delivered,1305,3,43:57.3
+SH10688,Warehouse_SF,Portland,OnTrac,10/26/2023,10/30/2023,50.1,282.69,Delivered,1646,4,43:57.3
+SH10689,Warehouse_CHI,Atlanta,LaserShip,3/16/2023,3/21/2023,54,326.08,Delivered,2448,5,43:57.3
+SH10690,Warehouse_BOS,Dallas,DHL,1/14/2023,1/18/2023,9.6,243.91,Delivered,1854,4,43:57.3
+SH10691,Warehouse_BOS,Minneapolis,Amazon Logistics,6/7/2023,6/10/2023,14.5,174.22,Delivered,1208,3,43:57.3
+SH10692,Warehouse_MIA,Dallas,USPS,1/15/2023,1/19/2023,14.5,230.05,Delivered,1753,4,43:57.3
+SH10693,Warehouse_MIA,Chicago,USPS,3/17/2023,4/3/2023,3.1,124.09,Delayed,1098,6,43:57.3
+SH10694,Warehouse_DEN,Denver,FedEx,2/16/2023,2/21/2023,108.4,397.96,Delivered,1964,5,43:57.3
+SH10695,Warehouse_DEN,Houston,Amazon Logistics,6/15/2023,6/20/2023,26.6,231.19,Delivered,1615,5,43:57.3
+SH10696,Warehouse_NYC,Atlanta,FedEx,11/19/2023,11/22/2023,7.2,158.85,Delivered,870,3,43:57.3
+SH10697,Warehouse_SF,Detroit,DHL,3/31/2023,4/1/2023,17.1,34.45,Delivered,105,1,43:57.3
+SH10698,Warehouse_SF,Atlanta,UPS,1/18/2023,1/20/2023,21.9,83.7,Delivered,472,2,43:57.3
+SH10699,Warehouse_HOU,Dallas,UPS,2/28/2023,3/5/2023,78.2,195.05,Delayed,860,3,43:57.3
+SH10700,Warehouse_ATL,Seattle,LaserShip,1/4/2023,1/7/2023,14.5,83.98,Delivered,530,3,43:57.3
+SH10701,Warehouse_SEA,Seattle,UPS,9/16/2023,9/20/2023,17.7,198.87,Delivered,1498,4,43:57.3
+SH10702,Warehouse_CHI,Portland,OnTrac,2/5/2023,2/6/2023,14.1,33.49,Delivered,154,1,43:57.3
+SH10703,Warehouse_ATL,Chicago,USPS,8/27/2023,8/28/2023,6.7,52,Delivered,357,1,43:57.3
+SH10704,Warehouse_BOS,San Francisco,FedEx,5/17/2023,5/22/2023,11.9,34.31,Delivered,2440,5,43:57.3
+SH10705,Warehouse_NYC,Portland,UPS,11/15/2023,11/20/2023,60.4,370.75,Delivered,1846,5,43:57.3
+SH10706,Warehouse_NYC,Detroit,USPS,7/22/2023,7/25/2023,12.6,75.73,Delivered,497,3,43:57.3
+SH10707,Warehouse_BOS,Houston,DHL,4/28/2023,5/1/2023,43.8,143.51,Delivered,632,3,43:57.3
+SH10708,Warehouse_SEA,Denver,OnTrac,11/30/2023,1/1/1900,17,174.48,Delivered,1143,5,43:57.3
+SH10709,Warehouse_DEN,Boston,LaserShip,8/14/2023,8/18/2023,27.5,172.21,Delivered,1086,4,43:57.3
+SH10710,Warehouse_ATL,Chicago,UPS,11/30/2023,12/2/2023,30.6,89.12,Delivered,284,2,43:57.3
+SH10711,Warehouse_NYC,Los Angeles,LaserShip,10/30/2023,11/3/2023,139.4,415.94,Delivered,1881,4,43:57.3
+SH10712,Warehouse_LA,Detroit,USPS,11/19/2023,11/26/2023,3.8,206.23,Delivered,1465,7,43:57.3
+SH10713,Warehouse_SEA,Denver,UPS,2/23/2023,2/27/2023,24.1,148.09,Delivered,1000,4,43:57.3
+SH10714,Warehouse_HOU,New York,LaserShip,1/28/2023,2/6/2023,66.5,345.16,Delayed,2301,7,43:57.3
+SH10715,Warehouse_LA,Minneapolis,LaserShip,3/12/2023,3/18/2023,21.4,92.29,Delivered,623,6,43:57.3
+SH10716,Warehouse_CHI,Houston,LaserShip,8/31/2023,9/8/2023,12,321.79,Delivered,2422,8,43:57.3
+SH10717,Warehouse_ATL,Detroit,FedEx,6/23/2023,6/28/2023,19.7,201.01,Delivered,1284,5,43:57.3
+SH10718,Warehouse_LA,Seattle,Amazon Logistics,8/5/2023,7/6/2023,35,0,Delivered,1135,3,43:57.3
+SH10719,Warehouse_DEN,Chicago,DHL,9/17/2023,9/23/2023,21.9,0,Delivered,2344,6,43:57.3
+SH10720,Warehouse_SEA,Chicago,DHL,1/4/2023,1/10/2023,19,117.94,Delayed,593,5,43:57.3
+SH10721,Warehouse_NYC,Phoenix,DHL,2/22/2023,2/27/2023,66.1,181.39,Delivered,796,5,43:57.3
+SH10722,Warehouse_SF,San Francisco,USPS,12/31/2023,1/5/2024,23.2,295.97,Delivered,2164,5,43:57.3
+SH10723,Warehouse_CHI,Boston,UPS,10/4/2023,10/7/2023,16.2,157.6,Delivered,1217,3,43:57.3
+SH10724,Warehouse_CHI,San Francisco,USPS,1/8/2023,1/10/2023,14.4,34.45,Delivered,140,2,43:57.3
+SH10725,Warehouse_NYC,Minneapolis,USPS,7/14/2023,7/19/2023,27.4,178.29,Delivered,1367,5,43:57.3
+SH10726,Warehouse_LA,Chicago,UPS,7/16/2023,7/23/2023,27.4,286.48,Delivered,2072,7,43:57.3
+SH10727,Warehouse_DEN,Atlanta,USPS,5/7/2023,5/12/2023,6.2,25.02,Delivered,150,5,43:57.3
+SH10728,Warehouse_BOS,Phoenix,DHL,10/12/2023,10/15/2023,24.1,204.04,Delivered,1168,3,43:57.3
+SH10729,Warehouse_MIA,Denver,OnTrac,10/13/2023,10/14/2023,28.8,54.72,Delivered,147,1,43:57.3
+SH10730,Warehouse_NYC,Chicago,LaserShip,9/6/2023,9/9/2023,12.5,106.43,Delivered,790,3,43:57.3
+SH10731,Warehouse_LA,Los Angeles,DHL,2/28/2023,3/2/2023,48.5,84.38,Delivered,159,2,43:57.3
+SH10732,Warehouse_SF,Dallas,LaserShip,11/24/2023,12/3/2023,15,266.53,Delayed,1632,5,43:57.3
+SH10733,Warehouse_DEN,Los Angeles,OnTrac,1/13/2023,1/15/2023,12,95.74,Delivered,607,2,43:57.3
+SH10734,Warehouse_SF,Detroit,FedEx,11/7/2023,11/12/2023,39.9,138.47,Delivered,475,5,43:57.3
+SH10735,Warehouse_BOS,Houston,FedEx,5/25/2023,5/29/2023,6.6,199.12,Delivered,1370,4,43:57.3
+SH10736,Warehouse_DEN,Los Angeles,LaserShip,10/27/2023,11/2/2023,474.2,341.15,Delivered,2200,6,43:57.3
+SH10737,Warehouse_ATL,Miami,USPS,7/12/2023,7/18/2023,15.1,236.63,In Transit,1795,6,43:57.3
+SH10738,Warehouse_DEN,Phoenix,FedEx,2/24/2023,3/1/2023,32,340.57,Delivered,2208,5,43:57.3
+SH10739,Warehouse_HOU,Boston,USPS,10/31/2023,11/2/2023,14.5,86.35,Delivered,585,2,43:57.3
+SH10740,Warehouse_DEN,Phoenix,Amazon Logistics,12/18/2023,12/27/2023,9.2,141.68,Delayed,974,3,43:57.3
+SH10741,Warehouse_LA,Atlanta,FedEx,6/29/2023,7/4/2023,32.2,247.76,Delivered,1610,5,43:57.3
+SH10742,Warehouse_HOU,Denver,FedEx,10/27/2023,10/31/2023,27.1,165.65,Delivered,1030,4,43:57.3
+SH10743,Warehouse_HOU,Boston,LaserShip,5/2/2023,5/11/2023,22.8,342.44,Delivered,2380,9,43:57.3
+SH10744,Warehouse_HOU,Atlanta,FedEx,3/10/2023,3/12/2023,10.2,111.08,Delivered,800,2,43:57.3
+SH10745,Warehouse_NYC,Miami,Amazon Logistics,8/10/2023,8/14/2023,30.8,255.81,Delivered,1692,4,43:57.3
+SH10746,Warehouse_BOS,Miami,USPS,4/3/2023,4/5/2023,11.9,139.28,Delivered,1032,2,43:57.3
+SH10747,Warehouse_ATL,Los Angeles,USPS,1/25/2023,1/27/2023,16.8,124.3,Delivered,1003,2,43:57.3
+SH10748,Warehouse_SF,Phoenix,UPS,10/13/2023,10/15/2023,7.2,59.98,Delivered,367,2,43:57.3
+SH10749,Warehouse_SEA,Miami,LaserShip,12/30/2023,1/6/2024,11.6,264.5,Delivered,1614,7,43:57.3
+SH10750,Warehouse_LA,Portland,LaserShip,5/6/2023,5/11/2023,7.8,53.18,Delivered,402,5,43:57.3
+SH10751,Warehouse_BOS,Phoenix,LaserShip,8/22/2023,9/2/2023,43.8,138.23,Delayed,691,3,43:57.3
+SH10752,Warehouse_DEN,Miami,USPS,7/20/2023,7/22/2023,10.1,61.2,Delivered,469,2,43:57.3
+SH10753,Warehouse_MIA,Detroit,USPS,8/22/2023,8/30/2023,24.7,280.23,Delivered,2030,8,43:57.3
+SH10754,Warehouse_DEN,Minneapolis,FedEx,10/7/2023,10/10/2023,26.5,155.2,Delivered,810,3,43:57.3
+SH10755,Warehouse_LA,San Francisco,LaserShip,12/6/2023,12/9/2023,6.2,111.44,Delivered,735,3,43:57.3
+SH10756,Warehouse_DEN,Minneapolis,DHL,4/13/2023,4/15/2023,10,45.28,Delivered,236,2,43:57.3
+SH10757,Warehouse_SEA,Phoenix,DHL,4/12/2023,4/17/2023,9.5,194.71,Delivered,1346,5,43:57.3
+SH10758,Warehouse_HOU,Denver,UPS,4/27/2023,1/1/1900,12.1,140.94,Delivered,1030,3,43:57.3
+SH10759,Warehouse_SEA,Chicago,USPS,8/24/2023,8/28/2023,71,148.26,Delivered,706,4,43:57.3
+SH10760,Warehouse_BOS,Miami,DHL,8/18/2023,8/26/2023,35.3,212.84,Delivered,1056,8,43:57.3
+SH10761,Warehouse_DEN,Miami,DHL,7/7/2023,7/12/2023,18.1,229.06,Delivered,1660,5,43:57.3
+SH10762,Warehouse_HOU,Los Angeles,UPS,11/4/2023,11/10/2023,10.3,332.84,Delivered,2174,6,43:57.3
+SH10763,Warehouse_LA,Chicago,Amazon Logistics,4/19/2023,4/23/2023,72.9,236.99,Delivered,1270,4,43:57.3
+SH10764,Warehouse_DEN,Portland,USPS,1/20/2023,1/25/2023,18.7,312.02,Delivered,2308,5,43:57.3
+SH10765,Warehouse_BOS,Houston,LaserShip,1/14/2023,1/16/2023,39.6,90.47,Delivered,307,2,43:57.3
+SH10766,Warehouse_MIA,Phoenix,LaserShip,5/17/2023,5/21/2023,10.8,125.78,Delivered,912,4,43:57.3
+SH10767,Warehouse_LA,Dallas,FedEx,1/16/2023,1/21/2023,48.5,261.64,Delivered,1435,5,43:57.3
+SH10768,Warehouse_MIA,Chicago,DHL,8/24/2023,8/29/2023,57.5,257.6,Delayed,1260,3,43:57.3
+SH10769,Warehouse_DEN,New York,USPS,7/6/2023,7/10/2023,13.6,204.17,Delivered,1646,4,43:57.3
+SH10770,Warehouse_CHI,Boston,UPS,4/15/2023,4/21/2023,7.7,284.59,Delivered,2012,6,43:57.3
+SH10771,Warehouse_CHI,Detroit,FedEx,8/16/2023,8/18/2023,41.8,84.62,Delivered,283,2,43:57.3
+SH10772,Warehouse_LA,San Francisco,USPS,6/1/2023,6/4/2023,43.9,222.74,Delivered,1342,3,43:57.3
+SH10773,Warehouse_SEA,Phoenix,UPS,7/29/2023,8/4/2023,30,266.62,Delivered,2030,6,43:57.3
+SH10774,Warehouse_SEA,New York,DHL,4/11/2023,4/27/2023,73.6,437.29,Delayed,2241,6,43:57.3
+SH10775,Warehouse_MIA,Miami,LaserShip,11/2/2023,11/7/2023,23.2,51.9,Delivered,147,5,43:57.3
+SH10776,Warehouse_SF,Chicago,Amazon Logistics,9/9/2023,9/13/2023,23.2,191.94,Delivered,1277,4,43:57.3
+SH10777,Warehouse_ATL,Boston,UPS,10/1/2023,10/13/2023,38,108.83,Delayed,527,2,43:57.3
+SH10778,Warehouse_BOS,Portland,OnTrac,9/26/2023,9/30/2023,12.8,147.18,Delivered,1012,4,43:57.3
+SH10779,Warehouse_ATL,Portland,USPS,2/24/2023,2/27/2023,103.4,226.95,Delivered,779,3,43:57.3
+SH10780,Warehouse_ATL,Chicago,Amazon Logistics,10/12/2023,10/21/2023,44.1,319.84,Delivered,2372,9,43:57.3
+SH10781,Warehouse_SF,Dallas,LaserShip,12/22/2023,12/26/2023,22.3,223.83,Delivered,1234,4,43:57.3
+SH10782,Warehouse_NYC,Houston,OnTrac,12/3/2023,12/7/2023,17.3,218.41,Delivered,1246,4,43:57.3
+SH10783,Warehouse_BOS,Dallas,LaserShip,8/16/2023,8/19/2023,19.3,147.73,Delivered,1068,3,43:57.3
+SH10784,Warehouse_DEN,Phoenix,USPS,3/16/2023,3/21/2023,22.5,0,Delivered,1164,5,43:57.3
+SH10785,Warehouse_ATL,Denver,LaserShip,2/1/2023,2/5/2023,34,193.6,Lost,1192,4,43:57.3
+SH10786,Warehouse_DEN,Dallas,DHL,4/20/2023,4/24/2023,18.6,144.95,Returned,923,4,43:57.3
+SH10787,Warehouse_ATL,Houston,DHL,2/18/2023,2/21/2023,16.9,208.26,Delivered,1434,3,43:57.3
+SH10788,Warehouse_BOS,Phoenix,LaserShip,11/25/2023,12/2/2023,36.9,307.4,Delivered,1682,7,43:57.3
+SH10789,Warehouse_LA,Dallas,OnTrac,4/26/2023,4/30/2023,26.3,200.48,Delivered,1435,4,43:57.3
+SH10790,Warehouse_LA,Denver,FedEx,4/3/2023,4/8/2023,12.5,326.12,Delivered,2386,5,43:57.3
+SH10791,Warehouse_NYC,Los Angeles,FedEx,8/29/2023,9/2/2023,6.8,155.95,Delivered,1007,4,43:57.3
+SH10792,Warehouse_MIA,New York,UPS,6/28/2023,7/2/2023,15.4,238.58,Delivered,1636,4,43:57.3
+SH10793,Warehouse_ATL,Boston,LaserShip,10/2/2023,10/17/2023,46.9,180.87,Delayed,993,3,43:57.3
+SH10794,Warehouse_MIA,Detroit,LaserShip,5/3/2023,5/7/2023,19.2,132.01,Delivered,810,4,43:57.3
+SH10795,Warehouse_HOU,Chicago,DHL,2/7/2023,2/15/2023,77.7,0,Delivered,2113,8,43:57.3
+SH10796,Warehouse_LA,Chicago,Amazon Logistics,8/21/2023,8/25/2023,12.4,228.09,Delivered,1640,4,43:57.3
+SH10797,Warehouse_HOU,Seattle,DHL,6/20/2023,6/24/2023,9.7,233.83,Delivered,1517,4,43:57.3
+SH10798,Warehouse_HOU,Minneapolis,Amazon Logistics,5/10/2023,5/16/2023,12.3,306.2,Delivered,2458,6,43:57.3
+SH10799,Warehouse_CHI,Detroit,OnTrac,1/20/2023,1/1/1900,70,123.86,Delivered,283,3,43:57.3
+SH10800,Warehouse_HOU,Miami,UPS,6/12/2023,6/17/2023,9.9,282.29,Delivered,2114,5,43:57.3
+SH10801,Warehouse_SF,Boston,Amazon Logistics,6/1/2023,6/7/2023,24.8,213.13,Delivered,1683,6,43:57.3
+SH10802,Warehouse_DEN,Dallas,USPS,10/27/2023,10/29/2023,4.6,44.35,Delivered,345,2,43:57.3
+SH10803,Warehouse_MIA,Detroit,OnTrac,3/31/2023,4/6/2023,4.8,287.6,Delivered,2470,6,43:57.3
+SH10804,Warehouse_BOS,Chicago,DHL,6/3/2023,6/5/2023,19.2,0,Delivered,285,2,43:57.3
+SH10805,Warehouse_HOU,Chicago,UPS,2/8/2023,2/15/2023,40.1,104.23,Delayed,428,2,43:57.3
+SH10806,Warehouse_MIA,Chicago,Amazon Logistics,2/22/2023,2/28/2023,38.4,276.83,Delivered,1780,6,43:57.3
+SH10807,Warehouse_SF,Seattle,USPS,8/11/2023,8/16/2023,30.3,247.69,Delivered,2049,5,43:57.3
+SH10808,Warehouse_SEA,Phoenix,FedEx,12/25/2023,1/3/2024,14.1,430.99,Delivered,2363,9,43:57.3
+SH10809,Warehouse_SEA,Chicago,OnTrac,11/26/2023,12/3/2023,6.2,314.26,Delivered,2315,7,43:57.3
+SH10810,Warehouse_MIA,Detroit,Amazon Logistics,3/31/2023,4/3/2023,51.8,231.8,Delivered,1415,3,43:57.3
+SH10811,Warehouse_MIA,Chicago,USPS,9/8/2023,9/11/2023,24.6,87.65,In Transit,454,3,43:57.3
+SH10812,Warehouse_MIA,Portland,LaserShip,11/2/2023,11/4/2023,18.4,151.67,Delivered,862,2,43:57.3
+SH10813,Warehouse_DEN,Boston,OnTrac,11/26/2023,12/2/2023,14.5,301.8,Delivered,1889,6,43:57.3
+SH10814,Warehouse_NYC,Los Angeles,LaserShip,8/19/2023,8/22/2023,14.7,124.34,Delivered,909,3,43:57.3
+SH10815,Warehouse_CHI,Portland,LaserShip,9/25/2023,9/27/2023,46.3,140.84,Delivered,675,2,43:57.3
+SH10816,Warehouse_BOS,New York,LaserShip,11/24/2023,11/28/2023,17,113.42,Lost,677,4,43:57.3
+SH10817,Warehouse_ATL,Phoenix,USPS,11/7/2023,11/12/2023,36.1,234.42,Delivered,1315,5,43:57.3
+SH10818,Warehouse_CHI,Seattle,LaserShip,9/21/2023,9/23/2023,57.5,82.81,Delivered,105,2,43:57.3
+SH10819,Warehouse_LA,New York,USPS,11/13/2023,11/18/2023,25.2,283.73,Delivered,1791,5,43:57.3
+SH10820,Warehouse_HOU,Houston,USPS,7/24/2023,7/29/2023,97.3,286.39,Delivered,1778,5,43:57.3
+SH10821,Warehouse_ATL,Miami,USPS,3/12/2023,3/14/2023,7.3,35.27,Delivered,209,2,43:57.3
+SH10822,Warehouse_NYC,Dallas,OnTrac,5/31/2023,6/4/2023,21.4,73.84,Delivered,350,4,43:57.3
+SH10823,Warehouse_DEN,Minneapolis,DHL,1/18/2023,1/24/2023,50.2,326.57,Delivered,1802,6,43:57.3
+SH10824,Warehouse_ATL,Minneapolis,USPS,10/19/2023,10/22/2023,5.8,120.42,Delivered,1093,3,43:57.3
+SH10825,Warehouse_NYC,Atlanta,FedEx,11/13/2023,11/19/2023,9.7,162.42,Delivered,870,6,43:57.3
+SH10826,Warehouse_LA,Los Angeles,FedEx,9/10/2023,9/14/2023,39.1,277.98,Delivered,1645,4,43:57.3
+SH10827,Warehouse_NYC,Detroit,DHL,8/24/2023,8/26/2023,27.7,51.34,Delivered,121,2,43:57.3
+SH10828,Warehouse_HOU,Atlanta,USPS,1/16/2023,1/18/2023,38.4,125.03,Delivered,800,2,43:57.3
+SH10829,Warehouse_CHI,Detroit,OnTrac,2/3/2023,2/4/2023,15,35.85,Delivered,283,1,43:57.3
+SH10830,Warehouse_HOU,Minneapolis,OnTrac,3/5/2023,3/6/2023,12.8,41.3,Delivered,205,1,43:57.3
+SH10831,Warehouse_CHI,Chicago,USPS,4/22/2023,4/26/2023,42.2,271.44,Delivered,1943,4,43:57.3
+SH10832,Warehouse_LA,Houston,Amazon Logistics,9/7/2023,9/10/2023,13.3,179.74,Delivered,1317,3,43:57.3
+SH10833,Warehouse_MIA,New York,DHL,7/10/2023,7/11/2023,12.4,47.25,Delivered,237,1,43:57.3
+SH10834,Warehouse_BOS,Detroit,USPS,2/25/2023,2/27/2023,12.2,70.06,Delivered,489,2,43:57.3
+SH10835,Warehouse_CHI,Phoenix,LaserShip,6/20/2023,6/24/2023,28.6,223.2,Delivered,1752,4,43:57.3
+SH10836,Warehouse_CHI,Miami,FedEx,5/22/2023,5/25/2023,12.3,199.26,Delivered,1350,3,43:57.3
+SH10837,Warehouse_DEN,San Francisco,USPS,6/12/2023,6/16/2023,7.5,165.29,Delivered,1323,4,43:57.3
+SH10838,Warehouse_BOS,San Francisco,OnTrac,8/19/2023,8/25/2023,10.4,45.53,Delivered,255,6,43:57.3
+SH10839,Warehouse_LA,New York,UPS,9/24/2023,9/27/2023,33.5,88.12,Delivered,420,3,43:57.3
+SH10840,Warehouse_CHI,Atlanta,LaserShip,8/13/2023,8/19/2023,16.9,192.93,Delivered,1506,6,43:57.3
+SH10841,Warehouse_MIA,Phoenix,LaserShip,11/8/2023,11/13/2023,25.9,272,Delivered,1763,5,43:57.3
+SH10842,Warehouse_BOS,Boston,FedEx,3/20/2023,3/24/2023,6.2,217.1,Delivered,1483,4,43:57.3
+SH10843,Warehouse_ATL,Boston,FedEx,3/25/2023,3/30/2023,7.3,238.37,Delivered,1921,5,43:57.3
+SH10844,Warehouse_SF,Atlanta,LaserShip,8/14/2023,8/19/2023,30.8,251.75,Delivered,1737,5,43:57.3
+SH10845,Warehouse_BOS,Miami,OnTrac,1/20/2023,1/23/2023,3.6,68.65,Returned,560,3,43:57.3
+SH10846,Warehouse_HOU,Dallas,OnTrac,1/8/2023,1/11/2023,63.5,192.27,Delivered,1118,3,43:57.3
+SH10847,Warehouse_CHI,Detroit,FedEx,2/15/2023,2/16/2023,53.7,113.89,Delivered,283,1,43:57.3
+SH10848,Warehouse_DEN,Seattle,Amazon Logistics,3/23/2023,3/29/2023,10.3,312.01,Delivered,2287,6,43:57.3
+SH10849,Warehouse_NYC,Minneapolis,DHL,3/16/2023,3/19/2023,23.7,105.39,Delivered,475,3,43:57.3
+SH10850,Warehouse_MIA,Atlanta,FedEx,12/16/2023,12/30/2023,12.4,55.37,Delayed,253,1,43:57.3
+SH10851,Warehouse_CHI,Atlanta,UPS,10/15/2023,10/19/2023,21.5,163.13,Delivered,976,4,43:57.3
+SH10852,Warehouse_HOU,Denver,FedEx,10/9/2023,10/12/2023,13.7,151.52,Delivered,1030,3,43:57.3
+SH10853,Warehouse_BOS,Chicago,USPS,2/16/2023,2/20/2023,11.5,215.48,Delivered,1702,4,43:57.3
+SH10854,Warehouse_DEN,Los Angeles,FedEx,12/24/2023,12/28/2023,7.2,340.75,Returned,2010,4,43:57.3
+SH10855,Warehouse_HOU,Seattle,Amazon Logistics,2/27/2023,3/5/2023,12.9,311.31,Delivered,2323,6,43:57.3
+SH10856,Warehouse_NYC,Detroit,Amazon Logistics,3/8/2023,3/13/2023,16.3,299.25,Delivered,2263,5,43:57.3
+SH10857,Warehouse_SEA,Minneapolis,FedEx,11/14/2023,11/17/2023,8.3,166.12,Delivered,1054,3,43:57.3
+SH10858,Warehouse_SF,Phoenix,FedEx,10/25/2023,10/29/2023,11.6,147.12,Delivered,905,4,43:57.3
+SH10859,Warehouse_DEN,Atlanta,USPS,8/4/2023,8/9/2023,9.1,144.68,Delivered,1069,5,43:57.3
+SH10860,Warehouse_BOS,Dallas,UPS,2/11/2023,2/17/2023,26.8,317.7,Delivered,2274,6,43:57.3
+SH10861,Warehouse_SF,Atlanta,UPS,11/3/2023,11/5/2023,14.9,50,Delivered,161,2,43:57.3
+SH10862,Warehouse_MIA,Houston,OnTrac,9/20/2023,9/24/2023,139.3,235.27,Delivered,547,4,43:57.3
+SH10863,Warehouse_NYC,Boston,Amazon Logistics,5/13/2023,5/15/2023,85.2,135.67,Delivered,215,2,43:57.3
+SH10864,Warehouse_HOU,Boston,FedEx,10/3/2023,10/9/2023,61.4,405.09,Delivered,2282,6,43:57.3
+SH10865,Warehouse_ATL,Chicago,Amazon Logistics,8/23/2023,9/3/2023,72.5,350.54,Delayed,2411,7,43:57.3
+SH10866,Warehouse_SEA,Dallas,DHL,6/29/2023,7/2/2023,26.8,176.88,Delivered,1008,3,43:57.3
+SH10867,Warehouse_ATL,San Francisco,FedEx,7/8/2023,7/18/2023,34.2,93.52,Delayed,439,3,43:57.3
+SH10868,Warehouse_ATL,Chicago,FedEx,3/9/2023,1/1/1900,45.4,84.91,Delivered,151,2,43:57.3
+SH10869,Warehouse_MIA,Seattle,LaserShip,7/8/2023,7/13/2023,64,233.21,Delivered,1235,5,43:57.3
+SH10870,Warehouse_ATL,Boston,Amazon Logistics,9/9/2023,9/13/2023,32.9,227.09,In Transit,1512,4,43:57.3
+SH10871,Warehouse_MIA,Seattle,Amazon Logistics,6/4/2023,6/10/2023,81.9,300.38,Delivered,1836,6,43:57.3
+SH10872,Warehouse_MIA,Boston,OnTrac,4/1/2023,4/8/2023,16.7,340.65,Delivered,2415,7,43:57.3
+SH10873,Warehouse_SF,Seattle,Amazon Logistics,1/26/2023,2/1/2023,17.4,249.13,Delayed,1969,5,43:57.3
+SH10874,Warehouse_DEN,Atlanta,OnTrac,7/30/2023,8/2/2023,108.8,204.71,Delivered,784,3,43:57.3
+SH10875,Warehouse_ATL,San Francisco,LaserShip,1/28/2023,2/2/2023,25.7,227.68,Delivered,1687,5,43:57.3
+SH10876,Warehouse_BOS,Houston,USPS,6/3/2023,6/8/2023,11.6,214.12,Delivered,1624,5,43:57.3
+SH10877,Warehouse_ATL,San Francisco,Amazon Logistics,7/30/2023,8/1/2023,27.3,70.85,Delivered,337,2,43:57.3
+SH10878,Warehouse_SF,Portland,Amazon Logistics,4/3/2023,4/8/2023,11.9,260.02,Delivered,2131,5,43:57.3
+SH10879,Warehouse_ATL,Los Angeles,OnTrac,10/4/2023,10/9/2023,125.8,154.81,Delivered,144,5,43:57.3
+SH10880,Warehouse_HOU,Phoenix,LaserShip,3/17/2023,3/21/2023,24.7,73.47,Delivered,371,4,43:57.3
+SH10881,Warehouse_DEN,Minneapolis,USPS,7/26/2023,7/31/2023,22.8,287.85,Delivered,2393,5,43:57.3
+SH10882,Warehouse_SF,Boston,DHL,5/8/2023,5/13/2023,18.1,236.64,Delivered,1504,5,43:57.3
+SH10883,Warehouse_DEN,Chicago,Amazon Logistics,10/23/2023,10/30/2023,8.7,296.81,Delivered,2333,7,43:57.3
+SH10884,Warehouse_SEA,Dallas,FedEx,10/26/2023,10/27/2023,27.5,68.71,Delivered,303,1,43:57.3
+SH10885,Warehouse_HOU,Seattle,LaserShip,12/10/2023,12/15/2023,10.5,308.36,In Transit,2147,5,43:57.3
+SH10886,Warehouse_DEN,New York,USPS,12/25/2023,1/6/2024,24.8,54.1,Delayed,118,1,43:57.3
+SH10887,Warehouse_ATL,Boston,Amazon Logistics,11/17/2023,11/23/2023,42.3,378.62,Delivered,2282,6,43:57.3
+SH10888,Warehouse_CHI,Atlanta,USPS,2/25/2023,3/4/2023,13.5,246,Delivered,2106,7,43:57.3
+SH10889,Warehouse_LA,Phoenix,OnTrac,5/30/2023,6/2/2023,9.4,61.04,Delivered,373,3,43:57.3
+SH10890,Warehouse_DEN,San Francisco,OnTrac,5/17/2023,5/21/2023,20.6,219.02,Delivered,1611,4,43:57.3
+SH10891,Warehouse_NYC,Atlanta,LaserShip,10/15/2023,10/19/2023,75.7,211.3,Delivered,870,4,43:57.3
+SH10892,Warehouse_SF,New York,LaserShip,11/30/2023,12/1/2023,11.3,29.98,Delivered,104,1,43:57.3
+SH10893,Warehouse_SF,Dallas,OnTrac,11/17/2023,11/20/2023,10.5,154.75,Delivered,917,3,43:57.3
+SH10894,Warehouse_LA,Houston,USPS,11/3/2023,11/6/2023,21,186.14,Delivered,1090,3,43:57.3
+SH10895,Warehouse_CHI,Denver,UPS,12/24/2023,12/26/2023,28.7,188.12,Delivered,1000,2,43:57.3
+SH10896,Warehouse_MIA,Portland,LaserShip,6/6/2023,6/8/2023,14.1,42.48,Delivered,181,2,43:57.3
+SH10897,Warehouse_HOU,Phoenix,UPS,3/20/2023,3/27/2023,35.7,341.41,Delivered,2300,7,43:57.3
+SH10898,Warehouse_SF,Denver,OnTrac,9/11/2023,9/16/2023,40.5,175.32,Delivered,1176,5,43:57.3
+SH10899,Warehouse_HOU,Los Angeles,UPS,3/21/2023,4/5/2023,18.2,150.78,Delayed,915,3,43:57.3
+SH10900,Warehouse_LA,Los Angeles,DHL,11/8/2023,11/23/2023,11.9,103,Delayed,495,6,43:57.3
+SH10901,Warehouse_MIA,Minneapolis,DHL,11/15/2023,11/17/2023,24.4,146.91,Delivered,605,2,43:57.3
+SH10902,Warehouse_LA,Dallas,DHL,11/25/2023,11/28/2023,18,271.66,Delivered,1435,3,43:57.3
+SH10903,Warehouse_MIA,Los Angeles,Amazon Logistics,9/20/2023,9/25/2023,11.8,268.59,Delivered,1973,5,43:57.3
+SH10904,Warehouse_CHI,Minneapolis,LaserShip,4/3/2023,4/6/2023,30.9,46.94,Delivered,106,3,43:57.3
+SH10905,Warehouse_HOU,Miami,OnTrac,10/23/2023,10/26/2023,59.4,192.19,Delivered,1118,3,43:57.3
+SH10906,Warehouse_SF,San Francisco,Amazon Logistics,11/28/2023,12/3/2023,40.3,208.84,Delivered,1034,5,43:57.3
+SH10907,Warehouse_CHI,Seattle,FedEx,11/14/2023,11/19/2023,14,337,Delivered,1878,5,43:57.3
+SH10908,Warehouse_SF,Seattle,DHL,4/15/2023,4/19/2023,33.7,302.22,Delivered,1819,4,43:57.3
+SH10909,Warehouse_SF,Dallas,LaserShip,1/4/2023,1/12/2023,32,327.1,Delivered,2355,8,43:57.3
+SH10910,Warehouse_SF,Boston,Amazon Logistics,2/12/2023,2/17/2023,15.9,308.5,Delivered,2282,5,43:57.3
+SH10911,Warehouse_BOS,New York,LaserShip,10/20/2023,10/22/2023,31.6,74.81,Delivered,308,2,43:57.3
+SH10912,Warehouse_SF,Portland,Amazon Logistics,10/9/2023,10/13/2023,16.5,169.6,Lost,1221,4,43:57.3
+SH10913,Warehouse_BOS,Los Angeles,UPS,10/15/2023,10/29/2023,24.6,150.37,Delayed,852,4,43:57.3
+SH10914,Warehouse_ATL,Houston,OnTrac,11/13/2023,11/16/2023,22.5,172.21,Delivered,945,3,43:57.3
+SH10915,Warehouse_BOS,Phoenix,UPS,7/24/2023,7/30/2023,14,295.74,Delivered,2256,6,43:57.3
+SH10916,Warehouse_NYC,Minneapolis,FedEx,10/28/2023,10/29/2023,8.1,81.18,Delivered,481,1,43:57.3
+SH10917,Warehouse_BOS,Portland,Amazon Logistics,5/20/2023,5/24/2023,20,254.01,Delivered,1767,4,43:57.3
+SH10918,Warehouse_MIA,Phoenix,FedEx,5/31/2023,6/7/2023,35.9,140.38,Delivered,788,7,43:57.3
+SH10919,Warehouse_HOU,Minneapolis,DHL,8/9/2023,8/12/2023,22.5,171.17,Delivered,1017,3,43:57.3
+SH10920,Warehouse_DEN,Seattle,UPS,1/8/2023,1/12/2023,17.6,242.22,Delivered,1577,4,43:57.3
+SH10921,Warehouse_ATL,Detroit,DHL,3/18/2023,3/20/2023,12.9,74.16,In Transit,419,2,43:57.3
+SH10922,Warehouse_HOU,Detroit,UPS,8/17/2023,8/23/2023,12.8,6229.12,Delivered,2490,6,43:57.3
+SH10923,Warehouse_MIA,Phoenix,OnTrac,1/25/2023,1/26/2023,71.1,114.32,Delivered,167,1,43:57.3
+SH10924,Warehouse_BOS,Houston,FedEx,8/23/2023,8/29/2023,13.6,326.71,Delivered,2328,6,43:57.3
+SH10925,Warehouse_ATL,New York,OnTrac,4/29/2023,5/2/2023,24.2,107.33,Delivered,669,3,43:57.3
+SH10926,Warehouse_SF,Denver,OnTrac,12/31/2023,1/2/2024,39.7,130.73,Delivered,468,2,43:57.3
+SH10927,Warehouse_DEN,San Francisco,Amazon Logistics,3/6/2023,3/9/2023,9.4,84.83,Delivered,563,3,43:57.3
+SH10928,Warehouse_MIA,Phoenix,Amazon Logistics,10/24/2023,10/28/2023,13.6,187.79,Delivered,1584,4,43:57.3
+SH10929,Warehouse_SEA,Minneapolis,USPS,5/21/2023,5/26/2023,32.5,252.22,Delivered,2107,5,43:57.3
+SH10930,Warehouse_MIA,Los Angeles,UPS,12/1/2023,12/5/2023,23.3,266.08,Delivered,1473,4,43:57.3
+SH10931,Warehouse_NYC,Denver,DHL,6/23/2023,6/26/2023,88.7,196.15,Delivered,509,3,43:57.3
+SH10932,Warehouse_ATL,Minneapolis,OnTrac,4/4/2023,4/6/2023,36.3,74.96,Delivered,253,2,43:57.3
+SH10933,Warehouse_SF,Boston,OnTrac,9/2/2023,9/5/2023,36.5,128,Delivered,757,3,43:57.3
+SH10934,Warehouse_SEA,San Francisco,USPS,4/27/2023,5/1/2023,26.9,221.1,Delivered,1796,4,43:57.3
+SH10935,Warehouse_SEA,Seattle,FedEx,6/27/2023,7/2/2023,4.4,301.81,Delivered,2087,5,43:57.3
+SH10936,Warehouse_BOS,Chicago,LaserShip,3/31/2023,4/3/2023,16.5,152.12,Delivered,1027,3,43:57.3
+SH10937,Warehouse_ATL,Denver,FedEx,2/2/2023,2/9/2023,11.8,306.43,Delivered,2442,7,43:57.3
+SH10938,Warehouse_SF,San Francisco,FedEx,12/6/2023,12/10/2023,22.4,162.76,Delivered,862,4,43:57.3
+SH10939,Warehouse_HOU,Dallas,FedEx,7/17/2023,7/30/2023,9.3,108.95,Delayed,813,3,43:57.3
+SH10940,Warehouse_DEN,Minneapolis,FedEx,1/29/2023,2/7/2023,40.9,307.96,Delivered,1805,9,43:57.3
+SH10941,Warehouse_NYC,Minneapolis,FedEx,12/28/2023,1/7/2024,11.8,345.46,Delayed,1958,5,43:57.3
+SH10942,Warehouse_SF,New York,Amazon Logistics,4/28/2023,5/4/2023,10.1,221.55,Delivered,1943,6,43:57.3
+SH10943,Warehouse_CHI,Chicago,Amazon Logistics,11/1/2023,11/8/2023,8.9,390.8,Delivered,2441,7,43:57.3
+SH10944,Warehouse_NYC,Phoenix,USPS,5/18/2023,4/18/2023,55.4,237.06,In Transit,1644,5,43:57.3
+SH10945,Warehouse_HOU,Portland,LaserShip,10/7/2023,10/10/2023,7.1,164.49,Delivered,1336,3,43:57.3
+SH10946,Warehouse_LA,Portland,UPS,1/23/2023,1/27/2023,45.4,172.09,Delivered,1050,4,43:57.3
+SH10947,Warehouse_ATL,Atlanta,UPS,10/17/2023,10/23/2023,53.8,334.19,Delivered,2107,6,43:57.3
+SH10948,Warehouse_MIA,Dallas,UPS,4/17/2023,4/19/2023,20,96.84,Delivered,517,2,43:57.3
+SH10949,Warehouse_ATL,Dallas,UPS,11/17/2023,12/3/2023,47.6,267.76,Delayed,1263,4,43:57.3
+SH10950,Warehouse_SF,Dallas,LaserShip,3/4/2023,3/7/2023,14.9,148,Delivered,1154,3,43:57.3
+SH10951,Warehouse_ATL,San Francisco,OnTrac,7/20/2023,7/24/2023,62.4,118.11,Delivered,407,4,43:57.3
+SH10952,Warehouse_NYC,Los Angeles,FedEx,8/21/2023,8/27/2023,28.3,318.34,Delivered,2076,6,43:57.3
+SH10953,Warehouse_NYC,Denver,USPS,9/27/2023,10/3/2023,26.6,295.92,Delivered,2346,6,43:57.3
+SH10954,Warehouse_BOS,Portland,Amazon Logistics,2/7/2023,2/9/2023,29.9,108.93,Delivered,576,2,43:57.3
+SH10955,Warehouse_MIA,Atlanta,DHL,1/28/2023,2/2/2023,5.1,236.05,Delivered,1773,5,43:57.3
+SH10956,Warehouse_DEN,Atlanta,LaserShip,6/21/2023,6/24/2023,24.3,160.77,In Transit,1144,3,43:57.3
+SH10957,Warehouse_SEA,Boston,FedEx,9/6/2023,9/11/2023,75,402.46,Delivered,2200,5,43:57.3
+SH10958,Warehouse_SEA,Denver,OnTrac,7/16/2023,7/21/2023,29.6,276.98,Delivered,2049,5,43:57.3
+SH10959,Warehouse_HOU,Denver,OnTrac,12/4/2023,12/11/2023,3.2,140.8,Delivered,1030,7,43:57.3
+SH10960,Warehouse_NYC,Dallas,DHL,4/5/2023,4/15/2023,18.9,196.91,Delivered,1319,10,43:57.3
+SH10961,Warehouse_ATL,Miami,UPS,10/20/2023,10/22/2023,16.1,102.41,Delivered,625,2,43:57.3
+SH10962,Warehouse_CHI,Detroit,OnTrac,2/19/2023,2/22/2023,36.7,80.24,Delivered,283,3,43:57.3
+SH10963,Warehouse_DEN,Boston,LaserShip,8/25/2023,8/30/2023,49.6,169.64,Delivered,820,5,43:57.3
+SH10964,Warehouse_CHI,Chicago,USPS,5/27/2023,5/29/2023,7.2,0,Delivered,858,2,43:57.3
+SH10965,Warehouse_ATL,San Francisco,DHL,6/13/2023,6/20/2023,24.2,318.03,In Transit,2036,7,43:57.3
+SH10966,Warehouse_CHI,Atlanta,UPS,3/11/2023,3/15/2023,18.6,264.57,Delivered,1771,4,43:57.3
+SH10967,Warehouse_BOS,Seattle,FedEx,5/19/2023,5/24/2023,26.6,302.89,Delivered,1841,5,43:57.3
+SH10968,Warehouse_SEA,Denver,UPS,1/13/2023,1/17/2023,27.5,272.07,Delivered,1875,4,43:57.3
+SH10969,Warehouse_HOU,Miami,FedEx,6/30/2023,7/2/2023,30.9,81.65,Delivered,297,2,43:57.3
+SH10970,Warehouse_ATL,Phoenix,UPS,9/5/2023,9/9/2023,11.9,193.89,Delivered,1290,4,43:57.3
+SH10971,Warehouse_BOS,Denver,OnTrac,8/13/2023,8/18/2023,16.3,25.2,Delivered,2033,5,43:57.3
+SH10972,Warehouse_HOU,Houston,UPS,12/16/2023,12/23/2023,24.7,179.53,Delivered,974,7,43:57.3
+SH10973,Warehouse_MIA,Portland,FedEx,10/21/2023,10/25/2023,32.3,233.32,Delivered,1492,4,43:57.3
+SH10974,Warehouse_MIA,Miami,UPS,11/22/2023,12/11/2023,32,348,Delayed,2060,8,43:57.3
+SH10975,Warehouse_DEN,New York,Amazon Logistics,7/8/2023,7/21/2023,20.2,248.02,Delayed,2051,5,43:57.3
+SH10976,Warehouse_HOU,New York,UPS,6/3/2023,6/9/2023,17.7,309.3,Delivered,2198,6,43:57.3
+SH10977,Warehouse_LA,Dallas,LaserShip,3/28/2023,3/31/2023,19.7,199,Delivered,1435,3,43:57.3
+SH10978,Warehouse_DEN,Detroit,Amazon Logistics,12/13/2023,12/17/2023,23.1,221.08,Delivered,1280,4,43:57.3
+SH10979,Warehouse_LA,New York,DHL,3/23/2023,4/7/2023,9.6,82.64,Delayed,490,4,43:57.3
+SH10980,Warehouse_SEA,Los Angeles,USPS,9/15/2023,9/19/2023,7.9,161.43,Delivered,1355,4,43:57.3
+SH10981,Warehouse_MIA,Portland,FedEx,3/22/2023,3/25/2023,16,178.47,Delivered,1288,3,43:57.3
+SH10982,Warehouse_MIA,Seattle,DHL,4/4/2023,4/7/2023,66.1,217.51,Delivered,779,3,43:57.3
+SH10983,Warehouse_MIA,Chicago,USPS,8/11/2023,8/17/2023,27,210.66,Lost,1555,6,43:57.3
+SH10984,Warehouse_HOU,Miami,DHL,10/4/2023,10/8/2023,20,276.56,Delivered,1631,4,43:57.3
+SH10985,Warehouse_CHI,Chicago,UPS,7/12/2023,7/16/2023,45,108.75,Delivered,400,4,43:57.3
+SH10986,Warehouse_LA,Los Angeles,OnTrac,12/18/2023,12/24/2023,42.1,285.71,Delivered,1460,6,43:57.3
+SH10987,Warehouse_SEA,Denver,LaserShip,5/2/2023,5/6/2023,27.6,151.22,Delayed,1095,3,43:57.3
+SH10988,Warehouse_DEN,Atlanta,FedEx,5/16/2023,5/18/2023,16,70.65,Delivered,336,2,43:57.3
+SH10989,Warehouse_LA,San Francisco,Amazon Logistics,12/18/2023,12/23/2023,19,224,Delivered,1524,5,43:57.3
+SH10990,Warehouse_ATL,San Francisco,OnTrac,1/23/2023,1/26/2023,10.4,96.85,Delivered,762,3,43:57.3
+SH10991,Warehouse_DEN,Seattle,FedEx,5/20/2023,5/26/2023,24.2,223.55,In Transit,1524,6,43:57.3
+SH10992,Warehouse_HOU,Minneapolis,USPS,9/11/2023,9/13/2023,25.5,109.88,Delivered,688,2,43:57.3
+SH10993,Warehouse_ATL,Detroit,DHL,6/25/2023,6/30/2023,20,357.86,Delivered,2339,5,43:57.3
+SH10994,Warehouse_MIA,Portland,DHL,4/23/2023,4/29/2023,19.1,302.52,Delivered,2132,6,43:57.3
+SH10995,Warehouse_BOS,Boston,OnTrac,12/27/2023,12/31/2023,8,211.44,Delivered,1257,4,43:57.3
+SH10996,Warehouse_SEA,San Francisco,OnTrac,11/29/2023,12/3/2023,25.4,145.24,Delivered,749,4,43:57.3
+SH10997,Warehouse_HOU,New York,Amazon Logistics,2/13/2023,2/16/2023,11.6,99.14,Delivered,773,3,43:57.3
+SH10998,Warehouse_ATL,Denver,DHL,5/13/2023,5/16/2023,14.9,55.89,Delayed,228,2,43:57.3
+SH10999,Warehouse_HOU,New York,LaserShip,11/14/2023,11/21/2023,19.4,348.76,Delivered,2417,7,43:57.3
+SH11000,Warehouse_DEN,Chicago,FedEx,10/26/2023,10/29/2023,3.4,77.16,Delivered,500,3,43:57.3
+SH11001,Warehouse_BOS,Detroit,USPS,1/16/2023,1/19/2023,50.5,116.2,Delivered,493,3,43:57.3
+SH11002,Warehouse_ATL,Minneapolis,DHL,8/5/2023,8/19/2023,29.7,98.25,Delayed,456,1,43:57.3
+SH11003,Warehouse_MIA,Los Angeles,Amazon Logistics,12/31/2023,1/5/2024,11.7,108.46,Delivered,612,5,43:57.3
+SH11004,Warehouse_ATL,Atlanta,OnTrac,10/10/2023,10/15/2023,0.3,281.6,Delivered,2137,5,43:57.3
+SH11005,Warehouse_SEA,Atlanta,DHL,10/27/2023,10/30/2023,27.6,157,Delivered,850,3,43:57.3
+SH11006,Warehouse_CHI,Detroit,Amazon Logistics,8/20/2023,8/25/2023,6.9,39.81,Delayed,283,3,43:57.3
+SH11007,Warehouse_DEN,Minneapolis,FedEx,3/7/2023,3/19/2023,5.4,184.97,Delayed,1364,6,43:57.3
+SH11008,Warehouse_BOS,Phoenix,DHL,8/9/2023,8/15/2023,20.6,317.6,Delivered,1975,6,43:57.3
+SH11009,Warehouse_NYC,Chicago,LaserShip,4/19/2023,4/22/2023,10.1,104.49,Delivered,790,3,43:57.3
+SH11010,Warehouse_MIA,New York,DHL,10/30/2023,11/4/2023,17,252.92,Delivered,1685,5,43:57.3
+SH11011,Warehouse_CHI,Denver,FedEx,9/15/2023,9/18/2023,30.9,179.89,Delivered,1000,3,43:57.3
+SH11012,Warehouse_SEA,Houston,OnTrac,4/26/2023,5/2/2023,8.2,306.04,Delivered,2254,6,43:57.3
+SH11013,Warehouse_LA,Atlanta,FedEx,6/11/2023,6/16/2023,37.6,305.62,Delivered,1761,5,43:57.3
+SH11014,Warehouse_ATL,Denver,FedEx,5/28/2023,6/3/2023,78.7,309.33,Delivered,1394,6,43:57.3
+SH11015,Warehouse_CHI,Los Angeles,USPS,11/26/2023,11/30/2023,59.8,203.1,Delivered,789,4,43:57.3
+SH11016,Warehouse_MIA,Houston,LaserShip,8/14/2023,8/19/2023,21.4,113.32,Lost,790,5,43:57.3
+SH11017,Warehouse_ATL,Dallas,OnTrac,5/12/2023,5/18/2023,50.3,257.68,Delivered,1485,6,43:57.3
+SH11018,Warehouse_SEA,San Francisco,Amazon Logistics,8/6/2023,8/10/2023,23.7,280.45,Returned,2017,4,43:57.3
+SH11019,Warehouse_MIA,Detroit,UPS,2/22/2023,2/27/2023,43.5,324.49,Delivered,2021,5,43:57.3
+SH11020,Warehouse_NYC,Boston,UPS,9/23/2023,9/28/2023,14.9,0,Delayed,215,1,43:57.3
+SH11021,Warehouse_NYC,Denver,OnTrac,3/28/2023,4/4/2023,16.7,200.43,Delivered,1466,7,43:57.3
+SH11022,Warehouse_BOS,Boston,FedEx,3/15/2023,3/17/2023,12.8,94.48,Delivered,626,2,43:57.3
+SH11023,Warehouse_DEN,Atlanta,OnTrac,2/20/2023,2/23/2023,3.5,138.85,Delivered,1063,3,43:57.3
+SH11024,Warehouse_NYC,Atlanta,UPS,4/16/2023,4/18/2023,166.1,337.18,Delivered,870,2,43:57.3
+SH11025,Warehouse_BOS,Chicago,FedEx,8/23/2023,8/28/2023,21.8,325.09,Delivered,2387,5,43:57.3
+SH11026,Warehouse_LA,San Francisco,Amazon Logistics,4/29/2023,5/3/2023,25.3,172.77,Delivered,1260,4,43:57.3
+SH11027,Warehouse_DEN,Dallas,OnTrac,2/16/2023,3/2/2023,8.5,228.43,Delayed,1754,4,43:57.3
+SH11028,Warehouse_SF,Detroit,UPS,8/29/2023,9/1/2023,12.4,129.81,In Transit,842,3,43:57.3
+SH11029,Warehouse_SF,New York,FedEx,6/21/2023,6/25/2023,40.7,240.08,Delivered,1457,4,43:57.3
+SH11030,Warehouse_SF,Detroit,OnTrac,6/10/2023,6/17/2023,17.3,300.85,Delivered,2372,7,43:57.3
+SH11031,Warehouse_BOS,Denver,OnTrac,7/26/2023,7/31/2023,12.9,276.52,Delivered,1986,5,43:57.3
+SH11032,Warehouse_SF,Seattle,UPS,6/10/2023,6/12/2023,27.3,54.83,Delivered,128,2,43:57.3
+SH11033,Warehouse_NYC,Phoenix,OnTrac,12/23/2023,12/25/2023,20.2,82.02,Delivered,426,2,43:57.3
+SH11034,Warehouse_DEN,San Francisco,FedEx,5/22/2023,5/27/2023,22.6,256.62,In Transit,1708,5,43:57.3
+SH11035,Warehouse_BOS,New York,OnTrac,12/23/2023,1/1/2024,15.2,261.44,Delayed,1561,3,43:57.3
+SH11036,Warehouse_CHI,Phoenix,OnTrac,6/9/2023,6/23/2023,18.4,156.75,Delayed,1064,5,43:57.3
+SH11037,Warehouse_LA,Chicago,DHL,3/15/2023,3/20/2023,14.7,292.83,Delivered,1842,5,43:57.3
+SH11038,Warehouse_ATL,Seattle,LaserShip,10/5/2023,10/11/2023,41.9,129.64,Delivered,670,6,43:57.3
+SH11039,Warehouse_SF,Atlanta,UPS,10/4/2023,10/8/2023,9.4,208.22,Delivered,1675,4,43:57.3
+SH11040,Warehouse_CHI,Boston,FedEx,9/5/2023,9/15/2023,8.4,237.7,Delayed,1854,5,43:57.3
+SH11041,Warehouse_MIA,San Francisco,DHL,4/8/2023,4/15/2023,20.5,369.7,Delivered,2249,7,43:57.3
+SH11042,Warehouse_SF,Miami,OnTrac,6/15/2023,6/23/2023,16.4,264.86,Delayed,1947,4,43:57.3
+SH11043,Warehouse_ATL,Portland,UPS,12/30/2023,12/31/2023,19.9,66.41,Delivered,229,1,43:57.3
+SH11044,Warehouse_SF,Minneapolis,USPS,3/26/2023,3/28/2023,45.5,87.93,Delivered,399,2,43:57.3
+SH11045,Warehouse_SEA,Los Angeles,LaserShip,8/23/2023,8/26/2023,31.8,101.3,In Transit,519,3,43:57.3
+SH11046,Warehouse_LA,Houston,FedEx,2/20/2023,2/24/2023,20.3,232.45,Delivered,1505,4,43:57.3
+SH11047,Warehouse_SEA,Denver,UPS,6/7/2023,6/12/2023,34.3,295.73,Delivered,2017,5,43:57.3
+SH11048,Warehouse_NYC,Phoenix,Amazon Logistics,4/11/2023,4/18/2023,12.7,285.48,Lost,2264,7,43:57.3
+SH11049,Warehouse_SF,San Francisco,USPS,11/6/2023,11/11/2023,53.3,343.47,Delivered,2222,5,43:57.3
+SH11050,Warehouse_DEN,Dallas,OnTrac,10/4/2023,10/10/2023,85.3,406.22,Delivered,2470,6,43:57.3
+SH11051,Warehouse_SF,Denver,DHL,8/16/2023,8/20/2023,18.1,205.49,Delivered,1418,4,43:57.3
+SH11052,Warehouse_NYC,Dallas,DHL,8/16/2023,8/23/2023,8.2,257.45,Delivered,1838,7,43:57.3
+SH11053,Warehouse_DEN,Atlanta,LaserShip,1/14/2023,1/15/2023,14.4,50.76,Delivered,253,1,43:57.3
+SH11054,Warehouse_DEN,Houston,LaserShip,12/23/2023,12/27/2023,4.3,218.11,Delivered,1565,4,43:57.3
+SH11055,Warehouse_ATL,Atlanta,OnTrac,9/10/2023,9/14/2023,57.1,259.94,Delivered,1447,4,43:57.3
+SH11056,Warehouse_BOS,New York,UPS,8/5/2023,8/8/2023,18,63.23,Delivered,312,3,43:57.3
+SH11057,Warehouse_BOS,Phoenix,LaserShip,7/18/2023,7/19/2023,27.5,41.66,Delivered,101,1,43:57.3
+SH11058,Warehouse_DEN,Denver,OnTrac,1/17/2023,1/21/2023,20.7,179.54,Delivered,1413,4,43:57.3
+SH11059,Warehouse_HOU,Seattle,FedEx,5/2/2023,5/6/2023,14.5,88.92,Delivered,581,4,43:57.3
+SH11060,Warehouse_NYC,Houston,DHL,12/25/2023,1/3/2024,9.3,223.05,Delayed,1331,3,43:57.3
+SH11061,Warehouse_SF,Dallas,UPS,1/22/2023,1/27/2023,10.3,237.92,Delivered,1737,5,43:57.3
+SH11062,Warehouse_HOU,Detroit,DHL,5/10/2023,5/22/2023,31.3,323.1,Delayed,1873,5,43:57.3
+SH11063,Warehouse_MIA,Denver,LaserShip,12/12/2023,12/15/2023,14.3,88.88,Delivered,489,3,43:57.3
+SH11064,Warehouse_ATL,Miami,LaserShip,7/6/2023,7/12/2023,42.3,297.4,Delivered,2310,6,43:57.3
+SH11065,Warehouse_LA,Atlanta,DHL,1/4/2023,1/9/2023,55.9,321.41,Delivered,1931,5,43:57.3
+SH11066,Warehouse_CHI,Portland,Amazon Logistics,10/14/2023,10/17/2023,8,33.03,Delivered,207,3,43:57.3
+SH11067,Warehouse_BOS,Denver,UPS,7/19/2023,8/1/2023,25.9,323.47,Delayed,2279,7,43:57.3
+SH11068,Warehouse_SEA,Dallas,UPS,5/4/2023,5/9/2023,11.6,196.42,Delivered,1463,5,43:57.3
+SH11069,Warehouse_CHI,Portland,Amazon Logistics,7/2/2023,7/4/2023,20.2,129.06,Delivered,780,2,43:57.3
+SH11070,Warehouse_ATL,Minneapolis,FedEx,5/9/2023,5/11/2023,21.9,101.98,Delivered,506,2,43:57.3
+SH11071,Warehouse_DEN,Dallas,Amazon Logistics,1/20/2023,1/29/2023,10.3,310.92,Delivered,2349,9,43:57.3
+SH11072,Warehouse_ATL,New York,LaserShip,12/5/2023,12/7/2023,7,114.15,Delivered,704,2,43:57.3
+SH11073,Warehouse_NYC,Portland,USPS,10/1/2023,10/7/2023,37.4,165.48,Delivered,1209,6,43:57.3
+SH11074,Warehouse_CHI,Miami,Amazon Logistics,8/23/2023,8/27/2023,13.9,163.87,Delivered,1350,4,43:57.3
+SH11075,Warehouse_LA,Boston,Amazon Logistics,10/15/2023,10/21/2023,6,162.4,Delivered,1231,6,43:57.3
+SH11076,Warehouse_NYC,Dallas,OnTrac,4/17/2023,4/19/2023,32.4,81.15,Delivered,415,2,43:57.3
+SH11077,Warehouse_ATL,Phoenix,USPS,5/31/2023,6/2/2023,21.1,49.8,Delivered,270,2,43:57.3
+SH11078,Warehouse_ATL,Houston,Amazon Logistics,7/5/2023,7/10/2023,66.5,94.15,Delivered,155,5,43:57.3
+SH11079,Warehouse_NYC,Detroit,UPS,12/15/2023,12/21/2023,19.5,354.28,Delivered,2393,6,43:57.3
+SH11080,Warehouse_HOU,Dallas,UPS,10/9/2023,10/14/2023,7.6,108.9,Delivered,772,5,43:57.3
+SH11081,Warehouse_CHI,Miami,Amazon Logistics,7/23/2023,7/26/2023,84.6,260.78,In Transit,1350,3,43:57.3
+SH11082,Warehouse_DEN,San Francisco,DHL,9/5/2023,9/16/2023,26.7,243.13,Delayed,1505,5,43:57.3
+SH11083,Warehouse_SF,Portland,Amazon Logistics,6/29/2023,7/1/2023,22.6,115.12,Delivered,719,2,43:57.3
+SH11084,Warehouse_DEN,Phoenix,FedEx,12/18/2023,12/21/2023,31,227.94,Delivered,1045,3,43:57.3
+SH11085,Warehouse_SF,Atlanta,FedEx,10/17/2023,10/21/2023,22.9,178.45,Delivered,1185,4,43:57.3
+SH11086,Warehouse_ATL,Boston,UPS,9/11/2023,9/17/2023,41.5,338.34,Delivered,2120,6,43:57.3
+SH11087,Warehouse_BOS,Portland,OnTrac,11/7/2023,11/12/2023,40,437.26,Delivered,2431,5,43:57.3
+SH11088,Warehouse_BOS,New York,DHL,10/24/2023,10/26/2023,3.5,105.56,Delivered,799,2,43:57.3
+SH11089,Warehouse_LA,Detroit,LaserShip,10/28/2023,10/31/2023,70.4,166.43,Delivered,795,3,43:57.3
+SH11090,Warehouse_LA,Detroit,DHL,12/22/2023,12/25/2023,17.5,100.77,Delivered,427,3,43:57.3
+SH11091,Warehouse_SF,Atlanta,LaserShip,7/26/2023,8/7/2023,15.5,130.67,Delayed,1035,3,43:57.3
+SH11092,Warehouse_NYC,Portland,DHL,7/29/2023,8/2/2023,26.5,292.13,Delivered,1670,4,43:57.3
+SH11093,Warehouse_BOS,Portland,Amazon Logistics,5/3/2023,5/15/2023,7.7,226.92,Delivered,1895,12,43:57.3
+SH11094,Warehouse_ATL,Miami,Amazon Logistics,5/24/2023,5/28/2023,31.7,134.57,Delivered,862,4,43:57.3
+SH11095,Warehouse_SF,New York,DHL,5/24/2023,5/28/2023,15.3,271.25,Delivered,1709,4,43:57.3
+SH11096,Warehouse_NYC,Phoenix,FedEx,5/15/2023,5/21/2023,7.1,304.96,Delivered,2397,6,43:57.3
+SH11097,Warehouse_HOU,Portland,FedEx,1/11/2023,1/17/2023,90.3,248.01,Delivered,1076,6,43:57.3
+SH11098,Warehouse_LA,San Francisco,LaserShip,3/31/2023,4/4/2023,30.3,127.04,Delivered,862,4,43:57.3
+SH11099,Warehouse_DEN,Atlanta,OnTrac,10/25/2023,10/31/2023,12.6,158.56,Delivered,1256,6,43:57.3
+SH11100,Warehouse_NYC,Miami,FedEx,9/9/2023,9/13/2023,15,185.82,Delivered,1368,4,43:57.3
+SH11101,Warehouse_CHI,Miami,OnTrac,1/2/2023,1/20/2023,57.4,222.36,Delayed,1350,5,43:57.3
+SH11102,Warehouse_ATL,Houston,UPS,11/22/2023,11/27/2023,61.5,383.67,Delivered,1976,5,43:57.3
+SH11103,Warehouse_LA,San Francisco,FedEx,8/18/2023,8/24/2023,7.7,49.02,In Transit,313,6,43:57.3
+SH11104,Warehouse_HOU,Denver,FedEx,12/2/2023,12/5/2023,53.7,255.13,Delivered,1030,3,43:57.3
+SH11105,Warehouse_LA,San Francisco,LaserShip,8/3/2023,8/10/2023,54.6,6562.21,Delivered,1942,7,43:57.3
+SH11106,Warehouse_DEN,San Francisco,UPS,3/12/2023,3/15/2023,19,180.68,Delivered,1291,3,43:57.3
+SH11107,Warehouse_SEA,Portland,FedEx,11/25/2023,12/4/2023,12.6,291.61,Delayed,1899,5,43:57.3
+SH11108,Warehouse_BOS,Miami,UPS,6/26/2023,7/1/2023,54.3,314.48,Delivered,1853,5,43:57.3
+SH11109,Warehouse_LA,Dallas,DHL,1/8/2023,1/11/2023,11.8,193.89,Delivered,1435,3,43:57.3
+SH11110,Warehouse_NYC,Portland,FedEx,8/1/2023,8/7/2023,22.9,358.05,Delivered,2443,6,43:57.3
+SH11111,Warehouse_SEA,San Francisco,USPS,2/8/2023,2/10/2023,24.1,80.77,Delivered,531,2,43:57.3
+SH11112,Warehouse_HOU,Houston,USPS,5/30/2023,5/31/2023,24.2,44.49,Delivered,134,1,43:57.3
+SH11113,Warehouse_SF,Seattle,FedEx,6/28/2023,7/3/2023,54.5,373.97,Delivered,2490,5,43:57.3
+SH11114,Warehouse_CHI,Los Angeles,Amazon Logistics,2/26/2023,3/7/2023,26.2,282.94,Delivered,2291,9,43:57.3
+SH11115,Warehouse_HOU,Atlanta,DHL,3/2/2023,3/7/2023,17.8,123.19,Delivered,800,5,43:57.3
+SH11116,Warehouse_LA,Miami,LaserShip,12/17/2023,12/21/2023,16.4,316.52,Returned,1914,4,43:57.3
+SH11117,Warehouse_DEN,Detroit,USPS,4/1/2023,1/1/1900,10.8,218.34,Delivered,1937,5,43:57.3
+SH11118,Warehouse_ATL,Dallas,Amazon Logistics,1/25/2023,1/30/2023,44.6,209.38,Delivered,1333,5,43:57.3
+SH11119,Warehouse_BOS,Seattle,USPS,12/29/2023,1/4/2024,6.7,88.73,Delivered,627,6,43:57.3
+SH11120,Warehouse_NYC,Houston,FedEx,11/28/2023,12/2/2023,54.5,232.49,Delivered,866,4,43:57.3
+SH11121,Warehouse_SEA,Boston,FedEx,8/27/2023,9/1/2023,17.2,248.83,Delivered,1896,5,43:57.3
+SH11122,Warehouse_LA,San Francisco,FedEx,9/12/2023,9/18/2023,30.8,314.99,Delivered,1981,6,43:57.3
+SH11123,Warehouse_MIA,Houston,UPS,3/2/2023,3/3/2023,14,50.83,In Transit,266,1,43:57.3
+SH11124,Warehouse_NYC,Houston,UPS,3/31/2023,4/4/2023,7.9,219.09,Delivered,1665,4,43:57.3
+SH11125,Warehouse_DEN,New York,DHL,12/25/2023,12/29/2023,14.3,256.96,Delivered,1446,4,43:57.3
+SH11126,Warehouse_HOU,Miami,UPS,8/31/2023,9/2/2023,40.7,140.21,Delivered,807,2,43:57.3
+SH11127,Warehouse_NYC,Phoenix,FedEx,9/17/2023,9/23/2023,24.5,300.24,Delivered,1863,6,43:57.3
+SH11128,Warehouse_DEN,Phoenix,LaserShip,8/12/2023,8/19/2023,28.4,95.99,Delayed,496,1,43:57.3
+SH11129,Warehouse_SEA,Phoenix,USPS,10/24/2023,10/28/2023,21.5,200.39,Delivered,1391,4,43:57.3
+SH11130,Warehouse_NYC,Dallas,DHL,6/10/2023,6/11/2023,18.2,77.4,Delivered,361,1,43:57.3
+SH11131,Warehouse_HOU,Minneapolis,UPS,11/29/2023,12/5/2023,1.1,394.62,Delivered,2484,6,43:57.3
+SH11132,Warehouse_BOS,Minneapolis,LaserShip,12/17/2023,12/31/2023,35.4,212.98,Delayed,1171,5,43:57.3
+SH11133,Warehouse_BOS,Chicago,UPS,7/12/2023,7/17/2023,10.4,107.97,Delivered,810,5,43:57.3
+SH11134,Warehouse_BOS,Atlanta,USPS,2/7/2023,2/11/2023,15.6,159.13,Delivered,1230,4,43:57.3
+SH11135,Warehouse_NYC,Los Angeles,USPS,11/30/2023,12/7/2023,9.6,0,Delivered,1000,7,43:57.3
+SH11136,Warehouse_ATL,Detroit,DHL,11/28/2023,11/29/2023,15,48.67,Delivered,173,1,43:57.3
+SH11137,Warehouse_SEA,Boston,LaserShip,2/21/2023,2/26/2023,15.1,223.5,Delivered,1689,5,43:57.3
+SH11138,Warehouse_CHI,Denver,USPS,2/27/2023,3/3/2023,26.1,147.22,In Transit,1000,4,43:57.3
+SH11139,Warehouse_DEN,New York,FedEx,7/23/2023,7/26/2023,49.8,191.95,Delivered,910,3,43:57.3
+SH11140,Warehouse_SEA,Phoenix,Amazon Logistics,6/29/2023,7/1/2023,21.1,42.11,Delivered,111,2,43:57.3
+SH11141,Warehouse_LA,San Francisco,UPS,11/6/2023,11/18/2023,49.6,245.62,Delayed,1043,5,43:57.3
+SH11142,Warehouse_SEA,San Francisco,FedEx,3/6/2023,3/9/2023,51.1,221.01,Delivered,1170,3,43:57.3
+SH11143,Warehouse_HOU,Phoenix,Amazon Logistics,12/16/2023,12/18/2023,1.9,119.85,Delivered,796,2,43:57.3
+SH11144,Warehouse_BOS,Los Angeles,OnTrac,6/30/2023,7/4/2023,21.2,271.48,Delivered,1849,4,43:57.3
+SH11145,Warehouse_MIA,Los Angeles,OnTrac,12/31/2023,1/8/2024,44.8,183.23,In Transit,716,8,43:57.3
+SH11146,Warehouse_DEN,Los Angeles,LaserShip,1/11/2023,1/12/2023,6.6,39.88,Delivered,265,1,43:57.3
+SH11147,Warehouse_CHI,Seattle,USPS,12/20/2023,12/25/2023,29.9,233.47,Delivered,1576,5,43:57.3
+SH11148,Warehouse_LA,Dallas,FedEx,1/21/2023,1/25/2023,48.1,261.72,Delivered,1435,4,43:57.3
+SH11149,Warehouse_SEA,Chicago,USPS,11/16/2023,11/19/2023,19,782.71,Delivered,870,3,43:57.3
+SH11150,Warehouse_DEN,Houston,UPS,8/25/2023,9/1/2023,25.3,334.33,Delivered,2305,7,43:57.3
+SH11151,Warehouse_NYC,Boston,OnTrac,11/23/2023,11/24/2023,10.7,42.56,Delivered,215,1,43:57.3
+SH11152,Warehouse_DEN,Denver,DHL,9/11/2023,9/17/2023,9.2,225.24,In Transit,1505,6,43:57.3
+SH11153,Warehouse_MIA,San Francisco,LaserShip,8/24/2023,8/31/2023,0.3,273.62,Delivered,2149,7,43:57.3
+SH11154,Warehouse_SEA,Chicago,Amazon Logistics,10/11/2023,10/17/2023,18.5,225.53,Delivered,1585,6,43:57.3
+SH11155,Warehouse_LA,Chicago,DHL,9/19/2023,9/22/2023,10.2,31.86,Delivered,112,3,43:57.3
+SH11156,Warehouse_SF,Minneapolis,LaserShip,8/21/2023,8/28/2023,72.2,354.2,Delivered,2135,7,43:57.3
+SH11157,Warehouse_DEN,Boston,FedEx,9/4/2023,9/10/2023,25,316.11,Delivered,2154,6,43:57.3
+SH11158,Warehouse_MIA,Boston,OnTrac,9/14/2023,9/19/2023,9.6,202.87,In Transit,1608,5,43:57.3
+SH11159,Warehouse_BOS,Atlanta,DHL,8/20/2023,8/23/2023,6.9,149.93,Delivered,1077,3,43:57.3
+SH11160,Warehouse_SEA,Denver,USPS,11/29/2023,12/1/2023,15.1,99.27,Delivered,565,2,43:57.3
+SH11161,Warehouse_CHI,Denver,LaserShip,5/9/2023,5/12/2023,67.4,220.93,Delivered,1000,3,43:57.3
+SH11162,Warehouse_MIA,Chicago,DHL,10/14/2023,10/15/2023,18.3,87.07,Delivered,453,1,43:57.3
+SH11163,Warehouse_DEN,Minneapolis,Amazon Logistics,2/6/2023,2/9/2023,94.1,117.26,Delivered,132,3,43:57.3
+SH11164,Warehouse_LA,Dallas,DHL,1/18/2023,1/21/2023,8.2,207.39,Delivered,1435,3,43:57.3
+SH11165,Warehouse_HOU,New York,UPS,4/16/2023,4/21/2023,7,291.75,Delivered,2078,5,43:57.3
+SH11166,Warehouse_LA,Houston,USPS,1/25/2023,1/29/2023,53.6,196.98,Delivered,1047,4,43:57.3
+SH11167,Warehouse_SF,Boston,DHL,8/14/2023,8/19/2023,5.7,241.01,Delivered,1582,5,43:57.3
+SH11168,Warehouse_LA,Phoenix,UPS,8/6/2023,8/11/2023,27.1,75.57,Delivered,373,5,43:57.3
+SH11169,Warehouse_ATL,Boston,Amazon Logistics,10/4/2023,10/17/2023,15.9,216.07,Delayed,1814,6,43:57.3
+SH11170,Warehouse_HOU,Miami,Amazon Logistics,7/8/2023,7/12/2023,6.5,156,Delivered,1302,4,43:57.3
+SH11171,Warehouse_HOU,Atlanta,UPS,12/26/2023,12/29/2023,4.7,116.83,Delivered,800,3,43:57.3
+SH11172,Warehouse_LA,Seattle,OnTrac,10/19/2023,11/2/2023,17.3,156.7,Delayed,1135,5,43:57.3
+SH11173,Warehouse_SF,Minneapolis,LaserShip,8/11/2023,8/14/2023,60.8,217.77,Delivered,1157,3,43:57.3
+SH11174,Warehouse_DEN,Portland,FedEx,7/10/2023,7/15/2023,17.1,278.83,Delivered,1989,5,43:57.3
+SH11175,Warehouse_SEA,Portland,USPS,2/22/2023,2/23/2023,21.6,64.62,Delivered,374,1,43:57.3
+SH11176,Warehouse_ATL,Portland,FedEx,6/9/2023,6/10/2023,13.1,32.11,In Transit,131,1,43:57.3
+SH11177,Warehouse_DEN,Minneapolis,LaserShip,8/11/2023,8/13/2023,31.4,92.42,Delivered,422,2,43:57.3
+SH11178,Warehouse_ATL,Atlanta,FedEx,7/5/2023,7/10/2023,38,329.04,Delivered,1940,5,43:57.3
+SH11179,Warehouse_NYC,Chicago,DHL,12/26/2023,1/12/2024,13.4,137.91,Delayed,790,4,43:57.3
+SH11180,Warehouse_NYC,Seattle,DHL,4/7/2023,4/10/2023,13,123.25,Delivered,860,3,43:57.3
+SH11181,Warehouse_SF,Miami,OnTrac,7/18/2023,7/21/2023,7.2,139.61,Delivered,1122,3,43:57.3
+SH11182,Warehouse_SF,Minneapolis,FedEx,4/15/2023,4/19/2023,8.4,214.35,In Transit,1640,4,43:57.3
+SH11183,Warehouse_NYC,San Francisco,DHL,11/10/2023,11/18/2023,9.5,353.39,Delivered,2274,8,43:57.3
+SH11184,Warehouse_NYC,Denver,USPS,1/28/2023,1/29/2023,21.7,78.83,Delivered,461,1,43:57.3
+SH11185,Warehouse_CHI,Boston,UPS,6/27/2023,7/2/2023,10.2,0,Delivered,1924,5,43:57.3
+SH11186,Warehouse_LA,Houston,FedEx,2/12/2023,1/13/2023,22.1,301.23,Delayed,1879,5,43:57.3
+SH11187,Warehouse_MIA,Detroit,DHL,1/8/2023,1/11/2023,13.5,116.78,In Transit,702,3,43:57.3
+SH11188,Warehouse_HOU,Denver,LaserShip,2/26/2023,1/27/2023,45,182.33,Returned,1030,3,43:57.3
+SH11189,Warehouse_SF,San Francisco,FedEx,11/21/2023,11/24/2023,43.7,135.18,Delivered,462,3,43:57.3
+SH11190,Warehouse_CHI,Minneapolis,FedEx,3/22/2023,3/24/2023,152.7,290.77,Delivered,841,2,43:57.3
+SH11191,Warehouse_SF,San Francisco,OnTrac,5/11/2023,5/16/2023,39.3,186.59,Delivered,1317,5,43:57.3
+SH11192,Warehouse_LA,San Francisco,OnTrac,12/4/2023,12/9/2023,19,416.08,Delivered,2473,5,43:57.3
+SH11193,Warehouse_NYC,Chicago,FedEx,7/18/2023,7/21/2023,9.7,0,Delivered,790,3,43:57.3
+SH11194,Warehouse_DEN,Phoenix,Amazon Logistics,2/21/2023,2/26/2023,8.3,181.52,Delivered,1457,5,43:57.3
+SH11195,Warehouse_MIA,Phoenix,LaserShip,6/17/2023,6/21/2023,9.9,202.54,Delivered,1493,4,43:57.3
+SH11196,Warehouse_SEA,San Francisco,UPS,11/21/2023,11/27/2023,27.3,317.02,Returned,1876,6,43:57.3
+SH11197,Warehouse_MIA,Detroit,USPS,7/24/2023,7/26/2023,27.9,146.44,Delivered,1067,2,43:57.3
+SH11198,Warehouse_DEN,Chicago,USPS,1/24/2023,2/1/2023,58.9,257.07,Delivered,1762,8,43:57.3
+SH11199,Warehouse_SF,Chicago,DHL,6/19/2023,6/24/2023,83.7,296.97,Delivered,1417,5,43:57.3
+SH11200,Warehouse_HOU,Los Angeles,LaserShip,5/13/2023,5/19/2023,19.8,271.24,Delivered,1945,6,43:57.3
+SH11201,Warehouse_MIA,Denver,UPS,10/13/2023,10/16/2023,17.5,90.05,Delivered,591,3,43:57.3
+SH11202,Warehouse_DEN,Atlanta,FedEx,12/30/2023,1/2/2024,19,153.23,Delivered,850,3,43:57.3
+SH11203,Warehouse_BOS,Los Angeles,OnTrac,12/9/2023,12/12/2023,10.9,201.11,Delivered,1413,3,43:57.3
+SH11204,Warehouse_LA,Seattle,OnTrac,2/9/2023,2/20/2023,28.6,180.9,Delayed,1135,3,43:57.3
+SH11205,Warehouse_SEA,Houston,DHL,6/27/2023,7/12/2023,17,217.08,Delayed,1396,7,43:57.3
+SH11206,Warehouse_SEA,Boston,FedEx,8/24/2023,8/29/2023,34.1,328.13,Delivered,2324,5,43:57.3
+SH11207,Warehouse_BOS,Portland,DHL,3/26/2023,3/31/2023,10.5,366.13,Delivered,2421,5,43:57.3
+SH11208,Warehouse_DEN,Denver,UPS,2/18/2023,2/23/2023,6.5,158.31,Delivered,1109,5,43:57.3
+SH11209,Warehouse_SEA,Minneapolis,OnTrac,7/30/2023,8/5/2023,27.1,259.17,Delivered,2087,6,43:57.3
+SH11210,Warehouse_CHI,Dallas,FedEx,1/18/2023,1/24/2023,30,343.66,Delivered,2379,6,43:57.3
+SH11211,Warehouse_LA,San Francisco,FedEx,6/16/2023,6/28/2023,250.9,395,Delayed,239,1,43:57.3
+SH11212,Warehouse_NYC,Atlanta,OnTrac,6/26/2023,6/29/2023,23.5,119.58,Delivered,870,3,43:57.3
+SH11213,Warehouse_CHI,Minneapolis,DHL,2/18/2023,1/1/1900,18.5,171.77,Delayed,1073,3,43:57.3
+SH11214,Warehouse_CHI,Miami,FedEx,3/26/2023,3/31/2023,81.7,289.48,Delivered,1350,5,43:57.3
+SH11215,Warehouse_DEN,Dallas,LaserShip,2/1/2023,2/3/2023,17.5,66.25,Delivered,438,2,43:57.3
+SH11216,Warehouse_MIA,Dallas,Amazon Logistics,11/2/2023,11/11/2023,26.1,286.32,Delayed,1611,4,43:57.3
+SH11217,Warehouse_SEA,Seattle,LaserShip,6/11/2023,6/16/2023,80.8,209.48,Delivered,805,5,43:57.3
+SH11218,Warehouse_BOS,Phoenix,FedEx,2/25/2023,2/27/2023,36.8,78.75,Delivered,196,2,43:57.3
+SH11219,Warehouse_HOU,Minneapolis,DHL,4/29/2023,5/3/2023,48.2,262.05,Delivered,1272,4,43:57.3
+SH11220,Warehouse_ATL,Phoenix,UPS,8/5/2023,8/12/2023,42,359.87,Delivered,2255,7,43:57.3
+SH11221,Warehouse_MIA,Los Angeles,LaserShip,11/5/2023,11/7/2023,29.5,109.58,In Transit,409,2,43:57.3
+SH11222,Warehouse_DEN,Atlanta,UPS,10/12/2023,1/1/1900,5.5,49.39,Delivered,338,3,43:57.3
+SH11223,Warehouse_SEA,San Francisco,FedEx,9/5/2023,9/11/2023,24.9,351.21,Delivered,2438,6,43:57.3
+SH11224,Warehouse_MIA,Dallas,UPS,11/25/2023,11/29/2023,17.9,336.25,Delivered,2051,4,43:57.3
+SH11225,Warehouse_HOU,Chicago,USPS,9/2/2023,9/8/2023,15.1,253.23,Delivered,2145,6,43:57.3
+SH11226,Warehouse_ATL,Miami,DHL,8/18/2023,9/2/2023,36.3,266.23,Delayed,1635,4,43:57.3
+SH11227,Warehouse_MIA,New York,UPS,6/9/2023,6/16/2023,17.4,250.19,Delivered,1839,7,43:57.3
+SH11228,Warehouse_DEN,Los Angeles,Amazon Logistics,10/26/2023,10/30/2023,18.4,115.48,Delivered,723,4,43:57.3
+SH11229,Warehouse_ATL,Boston,LaserShip,8/13/2023,8/15/2023,10.4,80.42,Delivered,615,2,43:57.3
+SH11230,Warehouse_HOU,Chicago,Amazon Logistics,5/13/2023,5/16/2023,17.8,122.76,Delivered,809,3,43:57.3
+SH11231,Warehouse_ATL,Phoenix,USPS,12/5/2023,12/14/2023,65.6,368.43,Delivered,2255,9,43:57.3
+SH11232,Warehouse_CHI,Dallas,Amazon Logistics,5/1/2023,5/5/2023,9.7,120.4,Delivered,997,4,43:57.3
+SH11233,Warehouse_ATL,Seattle,USPS,1/11/2023,1/12/2023,36.2,0,Delivered,101,1,43:57.3
+SH11234,Warehouse_LA,Dallas,DHL,5/17/2023,5/23/2023,6.2,210.74,Delayed,1435,5,43:57.3
+SH11235,Warehouse_SF,Minneapolis,LaserShip,7/7/2023,7/14/2023,42.8,322.49,Delivered,2389,7,43:57.3
+SH11236,Warehouse_SEA,Dallas,OnTrac,3/22/2023,3/28/2023,10.6,256.26,Returned,2001,6,43:57.3
+SH11237,Warehouse_MIA,Detroit,USPS,1/27/2023,1/31/2023,10.6,107.5,Delivered,788,4,43:57.3
+SH11238,Warehouse_DEN,Los Angeles,USPS,4/29/2023,5/4/2023,81.2,243.39,Delivered,1220,5,43:57.3
+SH11239,Warehouse_DEN,Dallas,LaserShip,1/24/2023,1/26/2023,25.9,66.72,Delivered,300,2,43:57.3
+SH11240,Warehouse_ATL,Denver,DHL,1/15/2023,1/21/2023,10.3,310.05,Delivered,2006,6,43:57.3
+SH11241,Warehouse_ATL,Denver,LaserShip,8/8/2023,8/10/2023,22.8,46.91,Delivered,203,2,43:57.3
+SH11242,Warehouse_DEN,Houston,DHL,1/20/2023,1/22/2023,10.2,112.82,Delivered,751,2,43:57.3
+SH11243,Warehouse_HOU,Seattle,DHL,5/22/2023,5/27/2023,37.4,350.17,In Transit,2290,5,43:57.3
+SH11244,Warehouse_SF,Minneapolis,DHL,10/1/2023,10/3/2023,13.8,60.56,Delivered,261,2,43:57.3
+SH11245,Warehouse_MIA,Seattle,UPS,9/11/2023,9/16/2023,45.4,270.54,Delivered,1794,5,43:57.3
+SH11246,Warehouse_NYC,Chicago,OnTrac,2/16/2023,2/18/2023,10.8,105.44,Delivered,790,2,43:57.3
+SH11247,Warehouse_CHI,Houston,DHL,6/29/2023,7/4/2023,47.3,347.27,Delivered,2055,5,43:57.3
+SH11248,Warehouse_SEA,Denver,DHL,9/10/2023,9/17/2023,58,389.41,Delayed,2199,6,43:57.3
+SH11249,Warehouse_SF,Minneapolis,FedEx,2/26/2023,3/1/2023,21.4,136.39,In Transit,799,3,43:57.3
+SH11250,Warehouse_LA,Portland,LaserShip,1/27/2023,1/28/2023,15.8,48.13,Delivered,250,1,43:57.3
+SH11251,Warehouse_BOS,Houston,DHL,7/11/2023,7/16/2023,10.8,224.13,Delivered,1409,5,43:57.3
+SH11252,Warehouse_SF,Atlanta,Amazon Logistics,5/4/2023,5/12/2023,40.5,236.11,Delayed,1756,4,43:57.3
+SH11253,Warehouse_CHI,Portland,USPS,5/28/2023,6/1/2023,9.9,150.46,Delivered,1129,4,43:57.3
+SH11254,Warehouse_HOU,Atlanta,LaserShip,9/29/2023,10/4/2023,44.4,152.04,Delivered,800,5,43:57.3
+SH11255,Warehouse_NYC,New York,UPS,10/29/2023,11/1/2023,15.5,159.84,Delivered,1090,3,43:57.3
+SH11256,Warehouse_NYC,Chicago,OnTrac,12/19/2023,12/23/2023,13.5,123.13,Delivered,790,4,43:57.3
+SH11257,Warehouse_HOU,Minneapolis,USPS,10/13/2023,1/1/1900,6.4,191.61,Delivered,1770,6,43:57.3
+SH11258,Warehouse_CHI,Dallas,Amazon Logistics,10/21/2023,10/26/2023,14.5,202.38,Delivered,1704,5,43:57.3
+SH11259,Warehouse_BOS,Los Angeles,LaserShip,4/21/2023,4/27/2023,45.4,102.09,Delayed,473,2,43:57.3
+SH11260,Warehouse_MIA,Chicago,UPS,2/4/2023,2/7/2023,13.1,195.45,Delivered,1331,3,43:57.3
+SH11261,Warehouse_NYC,Seattle,LaserShip,2/22/2023,2/25/2023,25.7,159.21,Delivered,1023,3,43:57.3
+SH11262,Warehouse_LA,Portland,USPS,5/31/2023,6/3/2023,70.5,159.12,Delivered,800,3,43:57.3
+SH11263,Warehouse_HOU,Detroit,LaserShip,9/3/2023,9/7/2023,17,257.86,Delivered,1985,4,43:57.3
+SH11264,Warehouse_SEA,Portland,LaserShip,8/9/2023,8/12/2023,36.4,77.58,Delivered,243,3,43:57.3
+SH11265,Warehouse_BOS,Portland,UPS,7/10/2023,7/17/2023,16.4,265.38,Delivered,1834,7,43:57.3
+SH11266,Warehouse_SEA,Portland,FedEx,8/26/2023,8/30/2023,16.4,240.73,Delivered,1726,4,43:57.3
+SH11267,Warehouse_LA,Portland,Amazon Logistics,1/31/2023,2/3/2023,9.6,153.95,Delivered,1168,3,43:57.3
+SH11268,Warehouse_HOU,Houston,Amazon Logistics,6/25/2023,6/27/2023,26.1,142.55,Delivered,880,2,43:57.3
+SH11269,Warehouse_CHI,Minneapolis,OnTrac,2/10/2023,2/12/2023,21.6,60.18,Delivered,267,2,43:57.3
+SH11270,Warehouse_CHI,Boston,LaserShip,7/4/2023,7/7/2023,19.3,163.73,Delivered,1097,3,43:57.3
+SH11271,Warehouse_BOS,Detroit,UPS,6/8/2023,6/10/2023,10.5,56.72,Delivered,329,2,43:57.3
+SH11272,Warehouse_ATL,Seattle,FedEx,12/2/2023,12/6/2023,30.9,196.94,Delivered,880,4,43:57.3
+SH11273,Warehouse_HOU,Los Angeles,LaserShip,1/17/2023,1/20/2023,12,59.08,In Transit,376,3,43:57.3
+SH11274,Warehouse_HOU,Detroit,FedEx,12/11/2023,12/19/2023,13.7,383.07,Delivered,2205,8,43:57.3
+SH11275,Warehouse_LA,Chicago,FedEx,1/8/2023,1/10/2023,48.3,146.26,In Transit,545,2,43:57.3
+SH11276,Warehouse_CHI,Boston,Amazon Logistics,9/11/2023,9/22/2023,63.6,171.47,Delayed,737,2,43:57.3
+SH11277,Warehouse_LA,Minneapolis,USPS,5/16/2023,5/23/2023,24,307.61,Delivered,2479,7,43:57.3
+SH11278,Warehouse_LA,Dallas,LaserShip,11/3/2023,11/8/2023,35.7,268.47,Delivered,1435,5,43:57.3
+SH11279,Warehouse_HOU,Detroit,UPS,7/23/2023,7/27/2023,33.4,131.33,Delivered,662,4,43:57.3
+SH11280,Warehouse_HOU,Portland,USPS,11/25/2023,12/3/2023,110.7,429.91,Returned,1985,8,43:57.3
+SH11281,Warehouse_NYC,Detroit,OnTrac,9/22/2023,10/12/2023,22.5,304.34,Delayed,2161,7,43:57.3
+SH11282,Warehouse_ATL,Miami,USPS,10/11/2023,9/11/2023,3.3,80,Delivered,677,4,43:57.3
+SH11283,Warehouse_ATL,Minneapolis,FedEx,1/30/2023,2/3/2023,40.1,122.44,Delivered,454,4,43:57.3
+SH11284,Warehouse_HOU,Phoenix,OnTrac,11/6/2023,11/10/2023,13.6,233.78,Delivered,1402,4,43:57.3
+SH11285,Warehouse_SF,Miami,DHL,7/26/2023,7/29/2023,24.5,70.28,Delivered,244,3,43:57.3
+SH11286,Warehouse_LA,Chicago,OnTrac,8/31/2023,9/3/2023,23.1,157.08,Delivered,1139,3,43:57.3
+SH11287,Warehouse_HOU,San Francisco,LaserShip,7/5/2023,7/6/2023,56.4,141.61,Delivered,531,1,43:57.3
+SH11288,Warehouse_ATL,Atlanta,UPS,3/5/2023,3/8/2023,29.4,124.1,Delivered,796,3,43:57.3
+SH11289,Warehouse_SF,Chicago,LaserShip,11/3/2023,11/4/2023,10.3,40.65,Lost,188,1,43:57.3
+SH11290,Warehouse_CHI,Denver,FedEx,3/6/2023,3/9/2023,10.9,138.79,Delivered,1000,3,43:57.3
+SH11291,Warehouse_MIA,Minneapolis,Amazon Logistics,5/4/2023,5/9/2023,42.1,344.29,Returned,2219,5,43:57.3
+SH11292,Warehouse_CHI,Minneapolis,FedEx,11/7/2023,10/8/2023,53,355.09,Delayed,1709,4,43:57.3
+SH11293,Warehouse_ATL,Dallas,USPS,1/13/2023,1/18/2023,25.4,245.02,Delivered,2110,5,43:57.3
+SH11294,Warehouse_CHI,Minneapolis,LaserShip,1/1/2023,1/3/2023,19.7,106.66,Delivered,784,2,43:57.3
+SH11295,Warehouse_ATL,Houston,USPS,1/2/2023,1/5/2023,31.8,134.96,Delivered,786,3,43:57.3
+SH11296,Warehouse_HOU,Dallas,LaserShip,11/9/2023,11/12/2023,22.8,260.19,Delivered,1512,3,43:57.3
+SH11297,Warehouse_SEA,Portland,LaserShip,8/24/2023,8/29/2023,10.1,185.32,Delivered,1310,5,43:57.3
+SH11298,Warehouse_NYC,Detroit,FedEx,6/8/2023,6/16/2023,17.3,325.14,Delivered,2398,8,43:57.3
+SH11299,Warehouse_MIA,San Francisco,Amazon Logistics,8/11/2023,8/15/2023,24.5,191.05,Delivered,1373,4,43:57.3
+SH11300,Warehouse_MIA,Atlanta,Amazon Logistics,9/5/2023,9/9/2023,6.8,141.35,Delivered,1036,4,43:57.3
+SH11301,Warehouse_MIA,San Francisco,OnTrac,9/26/2023,9/30/2023,40.5,147.62,Delivered,894,4,43:57.3
+SH11302,Warehouse_BOS,New York,DHL,1/2/2023,1/6/2023,41.8,254.48,Delivered,1261,4,43:57.3
+SH11303,Warehouse_BOS,Minneapolis,LaserShip,8/1/2023,8/3/2023,78.9,171.25,Delivered,729,2,43:57.3
+SH11304,Warehouse_NYC,Miami,USPS,12/25/2023,12/30/2023,12.3,325.51,Delivered,2145,5,43:57.3
+SH11305,Warehouse_HOU,Minneapolis,OnTrac,12/31/2023,1/5/2024,55.7,335.88,Delivered,1737,5,43:57.3
+SH11306,Warehouse_ATL,Atlanta,UPS,1/15/2023,1/20/2023,8.3,275.36,Delivered,1965,5,43:57.3
+SH11307,Warehouse_BOS,Chicago,FedEx,10/16/2023,10/20/2023,42.3,221.5,Delivered,1178,4,43:57.3
+SH11308,Warehouse_LA,Phoenix,DHL,3/14/2023,3/18/2023,7.6,61.28,Delivered,373,4,43:57.3
+SH11309,Warehouse_SF,Boston,LaserShip,7/25/2023,8/6/2023,4.6,209.12,Delayed,1868,6,43:57.3
+SH11310,Warehouse_SF,Chicago,DHL,10/27/2023,10/31/2023,11.1,100.08,Delivered,640,4,43:57.3
+SH11311,Warehouse_SF,New York,LaserShip,9/3/2023,9/6/2023,7,204.47,Delivered,1503,3,43:57.3
+SH11312,Warehouse_DEN,Phoenix,Amazon Logistics,11/4/2023,11/8/2023,25.6,270.11,Delivered,1671,4,43:57.3
+SH11313,Warehouse_ATL,Houston,OnTrac,5/2/2023,5/9/2023,16,322.6,Delivered,2289,7,43:57.3
+SH11314,Warehouse_HOU,Phoenix,DHL,8/16/2023,8/23/2023,9.6,248.88,Delivered,1664,7,43:57.3
+SH11315,Warehouse_BOS,Houston,Amazon Logistics,3/18/2023,3/20/2023,28.8,93.05,Lost,499,2,43:57.3
+SH11316,Warehouse_SEA,Chicago,USPS,1/31/2023,2/6/2023,34.6,280.53,Delivered,2109,6,43:57.3
+SH11317,Warehouse_SF,Denver,UPS,4/12/2023,4/13/2023,21,88.46,Delivered,510,1,43:57.3
+SH11318,Warehouse_CHI,Seattle,USPS,6/10/2023,6/16/2023,16.9,281.93,Delivered,2329,6,43:57.3
+SH11319,Warehouse_CHI,Houston,UPS,9/2/2023,9/7/2023,21.6,251.91,Delivered,2001,5,43:57.3
+SH11320,Warehouse_LA,Detroit,Amazon Logistics,9/26/2023,9/27/2023,11.8,45.15,In Transit,278,1,43:57.3
+SH11321,Warehouse_DEN,San Francisco,FedEx,12/29/2023,1/2/2024,17.2,226.51,Delivered,1179,4,43:57.3
+SH11322,Warehouse_BOS,Detroit,LaserShip,8/30/2023,9/4/2023,25.7,62.58,Delivered,251,5,43:57.3
+SH11323,Warehouse_SEA,Detroit,UPS,2/12/2023,2/27/2023,48.2,79.74,Delayed,205,2,43:57.3
+SH11324,Warehouse_LA,Los Angeles,UPS,1/28/2023,1/31/2023,51.5,165.79,Delivered,926,3,43:57.3
+SH11325,Warehouse_SF,Detroit,OnTrac,4/14/2023,4/17/2023,26.6,68.27,Returned,365,3,43:57.3
+SH11326,Warehouse_SF,Portland,UPS,3/30/2023,4/3/2023,127,342.1,Delivered,1334,4,43:57.3
+SH11327,Warehouse_ATL,Dallas,UPS,4/11/2023,4/13/2023,25.9,70.31,Delivered,326,2,43:57.3
+SH11328,Warehouse_BOS,Seattle,OnTrac,2/23/2023,3/2/2023,13.2,300.36,Delivered,2207,7,43:57.3
+SH11329,Warehouse_SEA,Houston,OnTrac,12/29/2023,1/1/2024,14.2,109.64,Delivered,656,3,43:57.3
+SH11330,Warehouse_SEA,Portland,LaserShip,6/26/2023,6/29/2023,16.6,105.6,Delivered,761,3,43:57.3
+SH11331,Warehouse_NYC,Houston,FedEx,1/2/2023,1/7/2023,17.8,196.28,Delivered,1322,5,43:57.3
+SH11332,Warehouse_LA,Houston,DHL,7/21/2023,7/27/2023,57.2,339.55,Delivered,1933,6,43:57.3
+SH11333,Warehouse_CHI,San Francisco,Amazon Logistics,4/1/2023,1/1/1900,9,67.94,Delayed,435,2,43:57.3
+SH11334,Warehouse_CHI,Phoenix,DHL,4/17/2023,4/22/2023,52.4,339.51,Delivered,1949,5,43:57.3
+SH11335,Warehouse_LA,Denver,LaserShip,8/28/2023,9/3/2023,20.5,105.64,Delivered,638,6,43:57.3
+SH11336,Warehouse_CHI,Denver,USPS,8/10/2023,8/13/2023,21.5,127.75,In Transit,1000,3,43:57.3
+SH11337,Warehouse_DEN,Chicago,Amazon Logistics,12/10/2023,12/15/2023,34.9,296.79,Delivered,1876,5,43:57.3
+SH11338,Warehouse_HOU,San Francisco,FedEx,10/18/2023,10/24/2023,73,347.07,Delivered,1762,6,43:57.3
+SH11339,Warehouse_ATL,Miami,Amazon Logistics,9/26/2023,9/30/2023,37.9,183.19,Delivered,1274,4,43:57.3
+SH11340,Warehouse_ATL,Boston,USPS,12/19/2023,12/24/2023,80.1,423.48,Lost,2412,5,43:57.3
+SH11341,Warehouse_NYC,Houston,FedEx,3/9/2023,3/11/2023,28.5,54.64,Delivered,131,2,43:57.3
+SH11342,Warehouse_BOS,Minneapolis,Amazon Logistics,1/13/2023,1/19/2023,27.9,311.69,Delivered,2297,6,43:57.3
+SH11343,Warehouse_SEA,Atlanta,FedEx,9/20/2023,9/26/2023,11.9,263.5,Delivered,1772,6,43:57.3
+SH11344,Warehouse_BOS,Detroit,USPS,5/4/2023,5/10/2023,18.7,264.01,Delivered,2316,6,43:57.3
+SH11345,Warehouse_NYC,Chicago,USPS,4/8/2023,4/11/2023,26.3,113.91,Delivered,790,3,43:57.3
+SH11346,Warehouse_NYC,Minneapolis,FedEx,7/21/2023,7/26/2023,50.9,324.7,Delivered,2180,5,43:57.3
+SH11347,Warehouse_HOU,San Francisco,UPS,3/2/2023,3/7/2023,47.2,231.01,Delivered,1362,5,43:57.3
+SH11348,Warehouse_LA,Phoenix,UPS,1/9/2023,1/13/2023,13,59.81,Delivered,373,4,43:57.3
+SH11349,Warehouse_LA,Chicago,LaserShip,11/22/2023,11/27/2023,43.7,283.67,Delivered,1750,5,43:57.3
+SH11350,Warehouse_LA,Denver,DHL,5/6/2023,5/9/2023,4.1,168.66,Delivered,1178,3,43:57.3
+SH11351,Warehouse_SF,Detroit,DHL,4/7/2023,4/23/2023,22.1,381.8,Delayed,2348,7,43:57.3
+SH11352,Warehouse_BOS,Los Angeles,USPS,1/1/2023,1/6/2023,10.7,246.62,In Transit,2185,5,43:57.3
+SH11353,Warehouse_DEN,Seattle,OnTrac,2/20/2023,2/26/2023,25.1,298.55,Delivered,2095,6,43:57.3
+SH11354,Warehouse_HOU,Seattle,OnTrac,1/29/2023,1/30/2023,24.3,115.18,Delivered,663,1,43:57.3
+SH11355,Warehouse_MIA,Denver,USPS,4/27/2023,5/2/2023,8.6,232.52,Delivered,2054,5,43:57.3
+SH11356,Warehouse_SEA,Seattle,LaserShip,12/7/2023,12/13/2023,5.3,325.32,Delivered,2197,6,43:57.3
+SH11357,Warehouse_CHI,Minneapolis,LaserShip,1/6/2023,1/12/2023,5.7,29.11,Delivered,2368,6,43:57.3
+SH11358,Warehouse_BOS,Chicago,USPS,2/25/2023,3/3/2023,29.3,277.17,Delivered,1989,6,43:57.3
+SH11359,Warehouse_LA,Detroit,UPS,10/10/2023,10/21/2023,47.8,169.45,Delayed,845,5,43:57.3
+SH11360,Warehouse_SF,Phoenix,OnTrac,9/16/2023,9/30/2023,21.2,45.18,Delayed,130,2,43:57.3
+SH11361,Warehouse_HOU,Phoenix,LaserShip,6/20/2023,6/23/2023,20,134.57,Lost,1020,3,43:57.3
+SH11362,Warehouse_SEA,Portland,USPS,4/2/2023,4/7/2023,8.4,83.54,Delivered,598,5,43:57.3
+SH11363,Warehouse_LA,Chicago,DHL,5/7/2023,5/15/2023,18.7,286.31,Delayed,1743,5,43:57.3
+SH11364,Warehouse_SF,Atlanta,DHL,10/4/2023,10/8/2023,35.3,316.54,Delivered,1866,4,43:57.3
+SH11365,Warehouse_SEA,Los Angeles,Amazon Logistics,12/27/2023,12/31/2023,12.7,208.88,Delivered,1413,4,43:57.3
+SH11366,Warehouse_MIA,San Francisco,LaserShip,10/23/2023,10/25/2023,28,146.54,Delivered,956,2,43:57.3
+SH11367,Warehouse_DEN,New York,FedEx,10/20/2023,10/24/2023,12,210.09,Delivered,1580,4,43:57.3
+SH11368,Warehouse_NYC,Minneapolis,USPS,9/3/2023,9/7/2023,15.1,152.29,Delivered,1216,4,43:57.3
+SH11369,Warehouse_BOS,Dallas,FedEx,3/8/2023,3/14/2023,28.6,328.6,Delivered,2066,6,43:57.3
+SH11370,Warehouse_NYC,Los Angeles,OnTrac,12/9/2023,12/12/2023,40.9,186.93,Lost,855,3,43:57.3
+SH11371,Warehouse_MIA,Detroit,USPS,7/22/2023,7/25/2023,20.7,57.14,Delivered,298,3,43:57.3
+SH11372,Warehouse_MIA,Houston,USPS,9/14/2023,9/24/2023,67.2,359.97,Lost,2311,10,43:57.3
+SH11373,Warehouse_ATL,Phoenix,FedEx,11/14/2023,11/17/2023,35.2,87.57,Delivered,214,3,43:57.3
+SH11374,Warehouse_MIA,Boston,USPS,1/23/2023,2/7/2023,14.9,220.29,Delayed,1859,5,43:57.3
+SH11375,Warehouse_CHI,Atlanta,USPS,5/4/2023,5/15/2023,8.6,258.78,Delayed,2199,5,43:57.3
+SH11376,Warehouse_MIA,Detroit,Amazon Logistics,3/8/2023,3/13/2023,40.8,314.97,Delivered,2330,5,43:57.3
+SH11377,Warehouse_ATL,Boston,FedEx,12/29/2023,1/1/2024,26.8,120.06,Delivered,505,3,43:57.3
+SH11378,Warehouse_MIA,Boston,OnTrac,8/16/2023,8/21/2023,12,190.22,Returned,1617,5,43:57.3
+SH11379,Warehouse_DEN,New York,UPS,9/26/2023,9/30/2023,54.5,215.64,Delivered,1270,4,43:57.3
+SH11380,Warehouse_DEN,Atlanta,Amazon Logistics,4/3/2023,4/7/2023,43.5,288.61,Delivered,2007,4,43:57.3
+SH11381,Warehouse_CHI,Denver,USPS,11/17/2023,11/21/2023,12.5,159.23,Delivered,1000,4,43:57.3
+SH11382,Warehouse_LA,New York,USPS,7/25/2023,8/3/2023,4.3,17.89,Delayed,105,4,43:57.3
+SH11383,Warehouse_BOS,Los Angeles,Amazon Logistics,4/30/2023,5/4/2023,41.2,137.96,Delivered,813,4,43:57.3
+SH11384,Warehouse_BOS,Chicago,LaserShip,3/8/2023,3/14/2023,18.3,232.16,Delivered,1746,6,43:57.3
+SH11385,Warehouse_SF,Atlanta,OnTrac,2/9/2023,2/14/2023,25.8,276.98,Delivered,1911,5,43:57.3
+SH11386,Warehouse_SEA,Denver,LaserShip,5/21/2023,5/27/2023,6.5,206.26,Delivered,1816,6,43:57.3
+SH11387,Warehouse_SEA,Boston,OnTrac,8/31/2023,9/16/2023,15.5,191.24,Delayed,1482,4,43:57.3
+SH11388,Warehouse_DEN,Phoenix,DHL,6/2/2023,6/4/2023,23.6,159.12,Delivered,998,2,43:57.3
+SH11389,Warehouse_HOU,Boston,FedEx,5/3/2023,5/5/2023,27.1,105.17,Delivered,470,2,43:57.3
+SH11390,Warehouse_SF,Miami,UPS,9/28/2023,10/3/2023,19.7,305.45,Delivered,2455,5,43:57.3
+SH11391,Warehouse_BOS,Atlanta,LaserShip,2/8/2023,2/11/2023,31.2,114.2,Delivered,559,3,43:57.3
+SH11392,Warehouse_BOS,Phoenix,OnTrac,6/1/2023,6/7/2023,14.8,319.39,Delivered,2384,6,43:57.3
+SH11393,Warehouse_LA,Dallas,OnTrac,12/31/2023,1/3/2024,88,322.1,Delivered,1435,3,43:57.3
+SH11394,Warehouse_MIA,Boston,FedEx,11/26/2023,12/16/2023,17.9,247.56,Delayed,1525,10,43:57.3
+SH11395,Warehouse_DEN,Chicago,LaserShip,1/25/2023,1/29/2023,11,98.73,Delivered,698,4,43:57.3
+SH11396,Warehouse_BOS,Denver,Amazon Logistics,9/29/2023,10/8/2023,16.3,247.24,Delayed,1920,8,43:57.3
+SH11397,Warehouse_BOS,Portland,LaserShip,11/9/2023,11/12/2023,32.7,180.59,Delivered,958,3,43:57.3
+SH11398,Warehouse_HOU,Detroit,OnTrac,10/18/2023,10/22/2023,16.3,248.97,Delivered,2057,4,43:57.3
+SH11399,Warehouse_DEN,San Francisco,UPS,1/4/2023,1/7/2023,10.5,161.38,Delivered,1148,3,43:57.3
+SH11400,Warehouse_BOS,Boston,DHL,7/21/2023,7/28/2023,26.5,373.28,Delivered,2221,7,43:57.3
+SH11401,Warehouse_HOU,Phoenix,FedEx,7/2/2023,7/8/2023,17.2,331.37,Delivered,2287,6,43:57.3
+SH11402,Warehouse_MIA,Seattle,DHL,8/19/2023,8/23/2023,24.1,256.71,Delivered,1807,4,43:57.3
+SH11403,Warehouse_BOS,New York,LaserShip,6/9/2023,6/15/2023,38.8,361.92,Delivered,2362,6,43:57.3
+SH11404,Warehouse_LA,Phoenix,Amazon Logistics,2/20/2023,2/22/2023,12.9,61,Delivered,373,2,43:57.3
+SH11405,Warehouse_SEA,Phoenix,Amazon Logistics,5/19/2023,5/21/2023,20.3,86.78,Delivered,544,2,43:57.3
+SH11406,Warehouse_CHI,Miami,OnTrac,8/14/2023,8/18/2023,39.9,220.09,Delivered,1350,4,43:57.3
+SH11407,Warehouse_CHI,Los Angeles,Amazon Logistics,10/15/2023,10/19/2023,22,86.67,Delivered,544,4,43:57.3
+SH11408,Warehouse_DEN,Los Angeles,Amazon Logistics,8/1/2023,8/3/2023,20.8,99.54,Delivered,637,2,43:57.3
+SH11409,Warehouse_ATL,Minneapolis,LaserShip,1/22/2023,1/24/2023,5.5,70.39,Delivered,507,2,43:57.3
+SH11410,Warehouse_DEN,Atlanta,UPS,7/3/2023,7/10/2023,14,260.56,Delivered,2009,7,43:57.3
+SH11411,Warehouse_DEN,New York,LaserShip,6/25/2023,7/5/2023,12,113.5,Delayed,852,3,43:57.3
+SH11412,Warehouse_ATL,New York,DHL,4/16/2023,4/22/2023,24.9,297.44,Delivered,2010,6,43:57.3
+SH11413,Warehouse_CHI,Chicago,DHL,4/28/2023,4/30/2023,5.8,71.35,Delivered,487,2,43:57.3
+SH11414,Warehouse_MIA,Portland,FedEx,6/19/2023,6/23/2023,20.4,211.34,Delivered,1369,4,43:57.3
+SH11415,Warehouse_SF,Chicago,DHL,11/30/2023,12/7/2023,38,286.58,Delivered,1542,7,43:57.3
+SH11416,Warehouse_HOU,Portland,DHL,11/28/2023,12/4/2023,18.7,326.9,Delivered,1838,6,43:57.3
+SH11417,Warehouse_LA,Denver,OnTrac,3/28/2023,3/31/2023,13.7,175.73,Delivered,1364,3,43:57.3
+SH11418,Warehouse_SEA,Atlanta,DHL,3/26/2023,3/29/2023,38.7,77.84,Delivered,173,3,43:57.3
+SH11419,Warehouse_NYC,Miami,DHL,10/14/2023,10/20/2023,23.4,356.56,Delivered,2343,6,43:57.3
+SH11420,Warehouse_ATL,Detroit,DHL,11/24/2023,11/26/2023,11.1,109.93,Delivered,505,2,43:57.3
+SH11421,Warehouse_SEA,Minneapolis,LaserShip,10/8/2023,10/9/2023,30.6,62.81,Delivered,206,1,43:57.3
+SH11422,Warehouse_SEA,New York,DHL,12/20/2023,12/26/2023,6.6,289.77,Delivered,1656,6,43:57.3
+SH11423,Warehouse_HOU,San Francisco,USPS,1/29/2023,1/31/2023,13.2,57.43,Delivered,377,2,43:57.3
+SH11424,Warehouse_SF,Dallas,OnTrac,9/1/2023,9/6/2023,34,255.91,Delivered,1631,5,43:57.3
+SH11425,Warehouse_ATL,Denver,FedEx,10/17/2023,10/19/2023,11,68.25,Returned,403,2,43:57.3
+SH11426,Warehouse_ATL,San Francisco,UPS,8/10/2023,8/14/2023,4.9,0,Delivered,1591,4,43:57.3
+SH11427,Warehouse_CHI,Atlanta,DHL,1/21/2023,1/24/2023,19.8,117.68,Delivered,611,3,43:57.3
+SH11428,Warehouse_CHI,Seattle,UPS,6/5/2023,1/1/1900,17.7,258.44,Delivered,1911,9,43:57.3
+SH11429,Warehouse_SF,Chicago,LaserShip,3/20/2023,3/24/2023,42.4,171.56,Delivered,1111,4,43:57.3
+SH11430,Warehouse_CHI,Seattle,LaserShip,7/29/2023,8/1/2023,14.5,160.17,Delivered,1162,3,43:57.3
+SH11431,Warehouse_LA,Houston,OnTrac,5/25/2023,5/26/2023,30.6,48.89,Delivered,146,1,43:57.3
+SH11432,Warehouse_HOU,Houston,LaserShip,8/5/2023,8/9/2023,11.3,181.83,In Transit,1541,4,43:57.3
+SH11433,Warehouse_CHI,Atlanta,LaserShip,2/14/2023,2/18/2023,12.1,228.01,Returned,1865,4,43:57.3
+SH11434,Warehouse_DEN,Los Angeles,OnTrac,4/19/2023,5/4/2023,10.2,201.85,Delayed,1659,5,43:57.3
+SH11435,Warehouse_DEN,Boston,DHL,4/18/2023,4/22/2023,10.4,266.13,Delivered,1924,4,43:57.3
+SH11436,Warehouse_BOS,Minneapolis,DHL,2/18/2023,2/28/2023,19.1,70.45,Delayed,302,2,43:57.3
+SH11437,Warehouse_BOS,Boston,USPS,1/5/2023,1/9/2023,111,301.2,Delivered,1782,4,43:57.3
+SH11438,Warehouse_HOU,San Francisco,Amazon Logistics,5/19/2023,5/22/2023,47.3,144.28,Lost,854,3,43:57.3
+SH11439,Warehouse_CHI,Portland,LaserShip,1/11/2023,1/17/2023,24.2,314.11,Delivered,2469,6,43:57.3
+SH11440,Warehouse_SEA,Dallas,UPS,1/28/2023,1/29/2023,7.7,30.59,In Transit,166,1,43:57.3
+SH11441,Warehouse_CHI,San Francisco,Amazon Logistics,10/20/2023,10/25/2023,67.2,183.1,Delivered,794,5,43:57.3
+SH11442,Warehouse_HOU,Portland,FedEx,3/8/2023,3/9/2023,5.8,83.76,Lost,528,1,43:57.3
+SH11443,Warehouse_SF,Minneapolis,USPS,4/17/2023,4/23/2023,11.5,219.67,Delivered,1908,6,43:57.3
+SH11444,Warehouse_ATL,Phoenix,OnTrac,4/21/2023,5/7/2023,41.9,260.33,Delayed,1800,4,43:57.3
+SH11445,Warehouse_NYC,Denver,FedEx,7/25/2023,7/27/2023,22.9,123.35,Delivered,713,2,43:57.3
+SH11446,Warehouse_BOS,Denver,FedEx,5/13/2023,5/16/2023,30.6,83.44,Delivered,306,3,43:57.3
+SH11447,Warehouse_NYC,San Francisco,LaserShip,7/8/2023,7/11/2023,41.7,91.23,Delivered,302,3,43:57.3
+SH11448,Warehouse_CHI,Houston,LaserShip,7/7/2023,7/13/2023,35.4,217.42,Delivered,1655,6,43:57.3
+SH11449,Warehouse_CHI,Detroit,UPS,3/7/2023,3/10/2023,36.4,74.25,Delivered,283,3,43:57.3
+SH11450,Warehouse_DEN,Miami,DHL,2/3/2023,2/11/2023,7.4,348.3,Delivered,2239,8,43:57.3
+SH11451,Warehouse_NYC,San Francisco,USPS,12/30/2023,1/6/2024,6.4,256.19,Delivered,2003,7,43:57.3
+SH11452,Warehouse_NYC,San Francisco,UPS,1/3/2023,1/8/2023,9.8,223.01,Delivered,1553,5,43:57.3
+SH11453,Warehouse_MIA,Seattle,LaserShip,7/22/2023,1/1/1900,47.6,156.85,Delivered,717,3,43:57.3
+SH11454,Warehouse_ATL,Minneapolis,Amazon Logistics,8/19/2023,8/26/2023,29.2,279.85,Lost,1843,7,43:57.3
+SH11455,Warehouse_BOS,Phoenix,USPS,4/26/2023,4/29/2023,11.5,62.46,Delivered,487,3,43:57.3
+SH11456,Warehouse_DEN,Miami,USPS,3/27/2023,3/30/2023,7.5,141.08,Delivered,1061,3,43:57.3
+SH11457,Warehouse_NYC,Detroit,OnTrac,10/4/2023,10/6/2023,10,85.04,Delivered,585,2,43:57.3
+SH11458,Warehouse_NYC,Denver,FedEx,3/22/2023,3/24/2023,12.2,109.31,Delivered,691,2,43:57.3
+SH11459,Warehouse_SEA,Detroit,Amazon Logistics,12/31/2023,1/2/2024,12.1,163.06,Delivered,1097,2,43:57.3
+SH11460,Warehouse_ATL,Phoenix,UPS,7/5/2023,7/8/2023,100.9,172.46,Delivered,390,3,43:57.3
+SH11461,Warehouse_ATL,Boston,Amazon Logistics,7/21/2023,7/27/2023,29.2,323.13,Delivered,2216,6,43:57.3
+SH11462,Warehouse_SF,Phoenix,DHL,2/3/2023,2/10/2023,34.4,214.6,Delivered,1229,7,43:57.3
+SH11463,Warehouse_NYC,Minneapolis,Amazon Logistics,7/10/2023,7/15/2023,27.8,239.99,In Transit,1591,5,43:57.3
+SH11464,Warehouse_LA,New York,USPS,12/18/2023,12/23/2023,32.6,164.69,Delivered,807,5,43:57.3
+SH11465,Warehouse_NYC,Dallas,USPS,11/18/2023,11/23/2023,23.1,176.66,Delivered,1065,5,43:57.3
+SH11466,Warehouse_BOS,Minneapolis,LaserShip,5/20/2023,5/23/2023,14,184.53,Delivered,1408,3,43:57.3
+SH11467,Warehouse_BOS,Denver,DHL,4/1/2023,4/4/2023,71.7,188.04,Delivered,635,3,43:57.3
+SH11468,Warehouse_CHI,Denver,USPS,12/24/2023,11/24/2023,10.7,152.15,Delivered,1000,3,43:57.3
+SH11469,Warehouse_DEN,Denver,FedEx,12/11/2023,12/12/2023,70.6,151.86,Delivered,323,1,43:57.3
+SH11470,Warehouse_SF,Phoenix,DHL,8/20/2023,8/25/2023,54.4,266.93,Delivered,1340,5,43:57.3
+SH11471,Warehouse_BOS,Atlanta,OnTrac,5/17/2023,5/21/2023,20.1,74.85,Delivered,451,4,43:57.3
+SH11472,Warehouse_DEN,San Francisco,OnTrac,5/1/2023,5/5/2023,11.3,176.58,Delivered,1360,4,43:57.3
+SH11473,Warehouse_MIA,Los Angeles,OnTrac,12/27/2023,1/1/2024,14.8,318.26,Delivered,2212,5,43:57.3
+SH11474,Warehouse_LA,Portland,DHL,8/2/2023,8/8/2023,28.4,390.3,Delivered,2293,6,43:57.3
+SH11475,Warehouse_MIA,Portland,UPS,11/22/2023,11/28/2023,28.1,303.53,Delivered,1711,6,43:57.3
+SH11476,Warehouse_ATL,Seattle,FedEx,8/5/2023,8/9/2023,153,334.41,Delivered,1058,4,43:57.3
+SH11477,Warehouse_MIA,San Francisco,DHL,8/31/2023,9/3/2023,14.2,101.86,Delivered,580,3,43:57.3
+SH11478,Warehouse_NYC,Detroit,FedEx,10/8/2023,10/13/2023,34,228.26,Delivered,1463,5,43:57.3
+SH11479,Warehouse_SF,New York,LaserShip,3/7/2023,3/20/2023,30.1,101.62,Delayed,615,2,43:57.3
+SH11480,Warehouse_SF,Atlanta,LaserShip,4/15/2023,4/19/2023,79.1,264.42,Delivered,1487,4,43:57.3
+SH11481,Warehouse_HOU,Dallas,OnTrac,7/13/2023,7/16/2023,8.1,188.86,Delivered,1472,3,43:57.3
+SH11482,Warehouse_NYC,Phoenix,OnTrac,9/23/2023,8/24/2023,22.7,110.05,Delivered,787,3,43:57.3
+SH11483,Warehouse_BOS,Houston,DHL,9/8/2023,9/11/2023,21.8,202.57,Delivered,1364,3,43:57.3
+SH11484,Warehouse_LA,Los Angeles,FedEx,5/9/2023,5/13/2023,12,178.39,Delivered,1377,4,43:57.3
+SH11485,Warehouse_SEA,San Francisco,UPS,2/7/2023,2/12/2023,11.3,199.25,Delivered,1332,5,43:57.3
+SH11486,Warehouse_HOU,Phoenix,USPS,8/21/2023,8/25/2023,21.5,154.34,Delivered,1209,4,43:57.3
+SH11487,Warehouse_BOS,Minneapolis,DHL,11/8/2023,11/13/2023,17.8,407.33,Delivered,2300,5,43:57.3
+SH11488,Warehouse_BOS,Phoenix,USPS,2/3/2023,2/4/2023,22.5,63.76,In Transit,289,1,43:57.3
+SH11489,Warehouse_CHI,Denver,UPS,5/28/2023,6/1/2023,15.8,152.2,Delivered,1000,4,43:57.3
+SH11490,Warehouse_SEA,Seattle,LaserShip,9/5/2023,9/9/2023,11.8,88.65,Delivered,670,4,43:57.3
+SH11491,Warehouse_SEA,Boston,DHL,5/1/2023,5/7/2023,11.6,359.48,Delivered,2379,6,43:57.3
+SH11492,Warehouse_BOS,San Francisco,OnTrac,9/27/2023,9/28/2023,13.8,50.83,Delivered,274,1,43:57.3
+SH11493,Warehouse_SF,Boston,UPS,5/6/2023,5/10/2023,33.3,236.83,Returned,1438,4,43:57.3
+SH11494,Warehouse_DEN,Seattle,USPS,8/22/2023,8/27/2023,13.2,269.86,Delivered,2309,5,43:57.3
+SH11495,Warehouse_LA,Chicago,Amazon Logistics,5/24/2023,5/28/2023,29.9,235.86,Delivered,1581,4,43:57.3
+SH11496,Warehouse_NYC,New York,LaserShip,3/30/2023,4/2/2023,16.1,127.74,Delivered,932,3,43:57.3
+SH11497,Warehouse_HOU,Minneapolis,DHL,10/19/2023,10/20/2023,10.8,0,Delivered,185,1,43:57.3
+SH11498,Warehouse_HOU,Boston,UPS,6/30/2023,7/4/2023,19.4,116.18,In Transit,812,4,43:57.3
+SH11499,Warehouse_HOU,Phoenix,UPS,4/16/2023,4/19/2023,37.7,164.72,In Transit,925,3,43:57.3
+SH11500,Warehouse_BOS,Portland,Amazon Logistics,9/12/2023,9/27/2023,16,110.54,Delayed,770,6,43:57.3
+SH11501,Warehouse_BOS,Atlanta,UPS,3/6/2023,3/11/2023,26.2,212.17,Delivered,1541,5,43:57.3
+SH11502,Warehouse_MIA,Chicago,FedEx,7/21/2023,7/24/2023,18.4,149.34,Delivered,974,3,43:57.3
+SH11503,Warehouse_CHI,Denver,FedEx,8/18/2023,8/20/2023,22.3,151.26,Delivered,1000,2,43:57.3
+SH11504,Warehouse_NYC,Miami,Amazon Logistics,9/25/2023,9/26/2023,21.1,49.13,Delivered,190,1,43:57.3
+SH11505,Warehouse_ATL,Minneapolis,OnTrac,6/30/2023,7/11/2023,7.7,157.65,Delayed,1140,3,43:57.3
+SH11506,Warehouse_SF,Miami,LaserShip,3/28/2023,4/3/2023,23.1,232.72,Delayed,1646,5,43:57.3
+SH11507,Warehouse_SEA,Miami,FedEx,10/10/2023,10/17/2023,15.5,303.18,Delivered,2200,7,43:57.3
+SH11508,Warehouse_DEN,Phoenix,OnTrac,12/28/2023,1/2/2024,6.8,343.72,Delivered,2246,5,43:57.3
+SH11509,Warehouse_HOU,Boston,UPS,10/23/2023,10/24/2023,40.9,86.69,Delivered,295,1,43:57.3
+SH11510,Warehouse_ATL,Chicago,LaserShip,4/11/2023,4/18/2023,13.9,302.88,In Transit,2212,7,43:57.3
+SH11511,Warehouse_LA,New York,UPS,5/28/2023,5/30/2023,29.3,95.51,Delivered,458,2,43:57.3
+SH11512,Warehouse_ATL,Detroit,LaserShip,8/19/2023,8/29/2023,23.9,321.25,Delayed,2386,5,43:57.3
+SH11513,Warehouse_BOS,Miami,Amazon Logistics,2/19/2023,2/23/2023,48.5,220.96,Delivered,1396,4,43:57.3
+SH11514,Warehouse_CHI,Phoenix,OnTrac,12/15/2023,12/20/2023,39.7,186.77,Delivered,890,5,43:57.3
+SH11515,Warehouse_HOU,New York,Amazon Logistics,4/28/2023,5/4/2023,27.7,131.18,Delayed,916,3,43:57.3
+SH11516,Warehouse_SF,Chicago,LaserShip,7/25/2023,7/27/2023,18.8,80.05,Delivered,496,2,43:57.3
+SH11517,Warehouse_NYC,San Francisco,USPS,9/18/2023,9/27/2023,9.7,284.71,Delivered,2488,9,43:57.3
+SH11518,Warehouse_BOS,Dallas,DHL,6/16/2023,6/20/2023,34.9,261.45,Delivered,1507,4,43:57.3
+SH11519,Warehouse_DEN,Portland,LaserShip,12/25/2023,12/26/2023,22.3,0,Delivered,148,1,43:57.3
+SH11520,Warehouse_HOU,Dallas,Amazon Logistics,5/31/2023,6/2/2023,28.2,103.67,Delivered,599,2,43:57.3
+SH11521,Warehouse_DEN,Denver,DHL,8/9/2023,8/10/2023,11.4,44.4,Delivered,234,1,43:57.3
+SH11522,Warehouse_SF,San Francisco,DHL,5/31/2023,6/8/2023,10.8,271.64,Delivered,1974,8,43:57.3
+SH11523,Warehouse_CHI,San Francisco,Amazon Logistics,8/25/2023,8/31/2023,12.2,259.25,Delivered,2271,6,43:57.3
+SH11524,Warehouse_SF,Miami,FedEx,8/29/2023,9/2/2023,22.8,221.62,Returned,1599,4,43:57.3
+SH11525,Warehouse_CHI,Minneapolis,DHL,6/17/2023,6/22/2023,15.1,142.08,Delivered,977,5,43:57.3
+SH11526,Warehouse_NYC,Denver,Amazon Logistics,10/3/2023,10/6/2023,11.3,154.45,Delivered,1311,3,43:57.3
+SH11527,Warehouse_CHI,Los Angeles,Amazon Logistics,5/16/2023,5/18/2023,64.7,105.03,Delivered,268,2,43:57.3
+SH11528,Warehouse_DEN,San Francisco,USPS,9/25/2023,9/29/2023,64.8,258.52,Delivered,1466,4,43:57.3
+SH11529,Warehouse_ATL,Chicago,DHL,3/3/2023,3/12/2023,21.2,312.87,Delivered,2181,9,43:57.3
+SH11530,Warehouse_HOU,Houston,OnTrac,1/6/2023,1/8/2023,13.4,62.54,Delivered,379,2,43:57.3
+SH11531,Warehouse_HOU,Portland,USPS,10/31/2023,11/3/2023,9.2,22.1,Delivered,123,3,43:57.3
+SH11532,Warehouse_SF,Houston,LaserShip,6/12/2023,6/15/2023,35.4,0,Delivered,1203,3,43:57.3
+SH11533,Warehouse_ATL,Phoenix,USPS,6/3/2023,6/6/2023,41.9,108.73,Delivered,501,3,43:57.3
+SH11534,Warehouse_SF,Minneapolis,Amazon Logistics,12/28/2023,1/1/2024,10.3,164.78,Lost,1034,4,43:57.3
+SH11535,Warehouse_MIA,Denver,FedEx,11/3/2023,11/4/2023,6,50.96,In Transit,283,1,43:57.3
+SH11536,Warehouse_SF,San Francisco,DHL,12/24/2023,1/8/2024,14.8,137.77,Delayed,655,4,43:57.3
+SH11537,Warehouse_SEA,Minneapolis,OnTrac,9/30/2023,10/2/2023,17.9,87.69,Delivered,552,2,43:57.3
+SH11538,Warehouse_CHI,Miami,FedEx,5/13/2023,5/17/2023,179.1,216.48,Delivered,1350,4,43:57.3
+SH11539,Warehouse_LA,Minneapolis,FedEx,11/23/2023,11/29/2023,36.3,439.48,Delivered,2181,6,43:57.3
+SH11540,Warehouse_ATL,Minneapolis,DHL,6/4/2023,6/10/2023,5.8,338.34,Delivered,2466,6,43:57.3
+SH11541,Warehouse_SF,Phoenix,OnTrac,5/7/2023,5/12/2023,5.6,78.42,Delivered,636,5,43:57.3
+SH11542,Warehouse_CHI,Detroit,USPS,12/2/2023,12/4/2023,14.1,58.04,Delivered,283,2,43:57.3
+SH11543,Warehouse_SF,Miami,Amazon Logistics,4/28/2023,4/30/2023,12,43.35,Delivered,208,2,43:57.3
+SH11544,Warehouse_LA,Seattle,LaserShip,11/23/2023,11/26/2023,51,0,Delivered,1135,3,43:57.3
+SH11545,Warehouse_SEA,Atlanta,OnTrac,6/17/2023,6/20/2023,25.2,190.12,Delivered,1442,3,43:57.3
+SH11546,Warehouse_LA,New York,LaserShip,5/6/2023,5/9/2023,24.1,70.43,Delivered,295,3,43:57.3
+SH11547,Warehouse_BOS,Denver,OnTrac,10/29/2023,11/6/2023,17.5,240.07,Delivered,1720,8,43:57.3
+SH11548,Warehouse_HOU,Boston,OnTrac,6/15/2023,6/18/2023,46.3,155.66,Delivered,912,3,43:57.3
+SH11549,Warehouse_BOS,Miami,LaserShip,6/16/2023,6/23/2023,25.6,287.97,Lost,2129,7,43:57.3
+SH11550,Warehouse_ATL,Miami,OnTrac,3/29/2023,3/30/2023,41.5,85.01,Delivered,305,1,43:57.3
+SH11551,Warehouse_MIA,Seattle,DHL,9/25/2023,1/1/1900,17.4,305.83,Delivered,1894,6,43:57.3
+SH11552,Warehouse_SEA,Boston,OnTrac,1/3/2023,1/1/1900,184.3,497.31,Delayed,1941,7,43:57.3
+SH11553,Warehouse_BOS,Atlanta,LaserShip,8/24/2023,8/30/2023,50.5,323.77,Delivered,2250,6,43:57.3
+SH11554,Warehouse_MIA,Detroit,LaserShip,9/16/2023,9/23/2023,9,261.35,Delivered,2105,7,43:57.3
+SH11555,Warehouse_SF,Houston,DHL,12/20/2023,12/27/2023,10.5,81.73,Delayed,397,2,43:57.3
+SH11556,Warehouse_DEN,Miami,Amazon Logistics,1/10/2023,1/14/2023,6.7,54.04,Delivered,392,4,43:57.3
+SH11557,Warehouse_SF,Houston,OnTrac,7/11/2023,7/25/2023,9,126.74,Delayed,979,4,43:57.3
+SH11558,Warehouse_CHI,Portland,USPS,3/14/2023,3/22/2023,15.1,193.28,Delayed,1427,4,43:57.3
+SH11559,Warehouse_SF,Dallas,OnTrac,1/26/2023,1/31/2023,20.7,254.82,Delivered,1956,5,43:57.3
+SH11560,Warehouse_NYC,Houston,USPS,11/24/2023,11/29/2023,18.1,132.04,Delivered,863,5,43:57.3
+SH11561,Warehouse_SEA,New York,USPS,4/22/2023,4/29/2023,22.1,305.98,Delivered,2347,7,43:57.3
+SH11562,Warehouse_SEA,Houston,DHL,4/27/2023,5/1/2023,28.8,151.25,Delivered,919,4,43:57.3
+SH11563,Warehouse_LA,Boston,OnTrac,11/21/2023,11/24/2023,46.2,94.64,Delivered,176,3,43:57.3
+SH11564,Warehouse_SEA,Detroit,DHL,7/26/2023,7/31/2023,49.5,383.77,Delivered,2055,5,43:57.3
+SH11565,Warehouse_HOU,Chicago,UPS,4/10/2023,1/1/1900,39.2,293.51,Delivered,1732,6,43:57.3
+SH11566,Warehouse_HOU,Los Angeles,USPS,10/4/2023,10/9/2023,17.7,168.61,Delivered,1439,5,43:57.3
+SH11567,Warehouse_HOU,Minneapolis,FedEx,3/30/2023,4/1/2023,27.9,138.4,Delivered,860,2,43:57.3
+SH11568,Warehouse_SF,Atlanta,DHL,1/16/2023,1/21/2023,4.6,291.01,Delivered,2171,5,43:57.3
+SH11569,Warehouse_MIA,Detroit,UPS,3/9/2023,3/16/2023,13.6,261.01,Delivered,2029,7,43:57.3
+SH11570,Warehouse_CHI,Chicago,LaserShip,3/7/2023,3/11/2023,137.5,165.56,Delivered,136,4,43:57.3
+SH11571,Warehouse_DEN,Minneapolis,Amazon Logistics,4/20/2023,4/27/2023,17.1,303.85,Delivered,2247,7,43:57.3
+SH11572,Warehouse_SF,Denver,UPS,12/7/2023,12/8/2023,25.9,60.74,Delivered,131,1,43:57.3
+SH11573,Warehouse_CHI,Denver,DHL,10/3/2023,10/7/2023,18.3,172.23,Delivered,1000,4,43:57.3
+SH11574,Warehouse_DEN,Denver,OnTrac,12/20/2023,12/22/2023,6.8,30.04,Delivered,152,2,43:57.3
+SH11575,Warehouse_DEN,Phoenix,FedEx,12/20/2023,12/21/2023,34.7,86.21,Delivered,224,1,43:57.3
+SH11576,Warehouse_LA,Houston,OnTrac,7/1/2023,7/13/2023,36.8,150.78,Delayed,882,2,43:57.3
+SH11577,Warehouse_MIA,San Francisco,Amazon Logistics,12/7/2023,12/11/2023,28.7,238.39,Delivered,1229,4,43:57.3
+SH11578,Warehouse_ATL,Atlanta,FedEx,1/16/2023,1/19/2023,8.1,171.35,Returned,1305,3,43:57.3
+SH11579,Warehouse_NYC,Seattle,DHL,7/27/2023,7/30/2023,34.6,91.64,Delivered,344,3,43:57.3
+SH11580,Warehouse_SEA,Denver,UPS,8/7/2023,1/1/1900,52.4,194.19,Delivered,1071,4,43:57.3
+SH11581,Warehouse_SEA,Chicago,OnTrac,12/6/2023,12/13/2023,10.8,225.38,Delivered,1369,7,43:57.3
+SH11582,Warehouse_LA,Los Angeles,UPS,4/22/2023,4/27/2023,16.5,282.23,Delivered,2056,5,43:57.3
+SH11583,Warehouse_HOU,Chicago,USPS,12/19/2023,12/23/2023,108.5,299.16,Delivered,1240,4,43:57.3
+SH11584,Warehouse_DEN,Los Angeles,OnTrac,4/2/2023,4/6/2023,5.8,173.56,Delivered,1355,4,43:57.3
+SH11585,Warehouse_HOU,Chicago,DHL,10/21/2023,11/3/2023,31,346.62,Delayed,2201,8,43:57.3
+SH11586,Warehouse_BOS,Atlanta,USPS,10/16/2023,10/17/2023,58.5,83.51,Delivered,122,1,43:57.3
+SH11587,Warehouse_MIA,Denver,Amazon Logistics,10/4/2023,10/6/2023,18.3,119.1,Lost,860,2,43:57.3
+SH11588,Warehouse_HOU,Detroit,Amazon Logistics,8/19/2023,8/24/2023,38.1,172.76,Delivered,1115,5,43:57.3
+SH11589,Warehouse_MIA,San Francisco,DHL,5/6/2023,1/1/1900,42.5,287,Delivered,1527,3,43:57.3
+SH11590,Warehouse_SEA,Atlanta,Amazon Logistics,10/16/2023,10/19/2023,15.2,160.36,Delivered,1098,3,43:57.3
+SH11591,Warehouse_MIA,Los Angeles,OnTrac,8/5/2023,8/11/2023,23.4,311.04,Delivered,2447,6,43:57.3
+SH11592,Warehouse_BOS,Los Angeles,UPS,1/12/2023,1/17/2023,31.7,195.68,Delivered,1114,5,43:57.3
+SH11593,Warehouse_NYC,Dallas,USPS,1/12/2023,1/15/2023,16.3,105.67,Delivered,759,3,43:57.3
+SH11594,Warehouse_SEA,Dallas,USPS,3/14/2023,3/19/2023,34,267.21,Delivered,2176,5,43:57.3
+SH11595,Warehouse_MIA,Dallas,Amazon Logistics,12/19/2023,12/22/2023,10,60.18,Delivered,287,3,43:57.3
+SH11596,Warehouse_LA,New York,UPS,11/7/2023,11/11/2023,17.4,250.16,Delivered,1356,4,43:57.3
+SH11597,Warehouse_DEN,Atlanta,OnTrac,10/24/2023,10/26/2023,20,113.54,Delivered,737,2,43:57.3
+SH11598,Warehouse_SF,Phoenix,Amazon Logistics,7/12/2023,7/15/2023,11.5,148.69,Delivered,1189,3,43:57.3
+SH11599,Warehouse_CHI,Denver,DHL,12/11/2023,12/14/2023,35.1,226.64,Delivered,1000,3,43:57.3
+SH11600,Warehouse_LA,Minneapolis,LaserShip,10/16/2023,10/22/2023,32.3,304.81,Delivered,2156,6,43:57.3
+SH11601,Warehouse_MIA,Miami,UPS,7/16/2023,7/18/2023,38.4,177.3,Delivered,916,2,43:57.3
+SH11602,Warehouse_SF,Seattle,USPS,7/28/2023,8/9/2023,71.9,123.54,Delayed,450,2,43:57.3
+SH11603,Warehouse_CHI,New York,OnTrac,12/15/2023,12/19/2023,10.7,219.96,Delivered,1474,4,43:57.3
+SH11604,Warehouse_SEA,Miami,USPS,1/14/2023,1/18/2023,20.6,181.01,In Transit,1523,4,43:57.3
+SH11605,Warehouse_NYC,Seattle,OnTrac,3/25/2023,3/31/2023,27.4,0,Delivered,986,6,43:57.3
+SH11606,Warehouse_BOS,Detroit,DHL,6/16/2023,7/5/2023,23.1,323.18,Delayed,1989,6,43:57.3
+SH11607,Warehouse_SEA,Houston,LaserShip,3/9/2023,3/14/2023,8.2,212.27,Delivered,1713,5,43:57.3
+SH11608,Warehouse_MIA,Portland,LaserShip,12/7/2023,12/9/2023,30.1,122.82,Delivered,594,2,43:57.3
+SH11609,Warehouse_NYC,Phoenix,FedEx,12/22/2023,12/27/2023,12.6,367.26,Delivered,2151,5,43:57.3
+SH11610,Warehouse_CHI,Boston,Amazon Logistics,2/9/2023,2/13/2023,33.4,160.62,Delivered,989,4,43:57.3
+SH11611,Warehouse_ATL,Denver,UPS,12/21/2023,12/22/2023,17.3,70.13,Delivered,250,1,43:57.3
+SH11612,Warehouse_LA,Boston,OnTrac,5/24/2023,5/27/2023,39.6,95.86,Delivered,378,3,43:57.3
+SH11613,Warehouse_CHI,Detroit,Amazon Logistics,9/27/2023,9/28/2023,58.9,105.74,Delivered,283,1,43:57.3
+SH11614,Warehouse_BOS,Detroit,DHL,9/9/2023,9/12/2023,66.7,268.34,Delivered,1387,3,43:57.3
+SH11615,Warehouse_SEA,Houston,FedEx,4/4/2023,4/10/2023,7,303.42,Delivered,2228,6,43:57.3
+SH11616,Warehouse_DEN,Atlanta,LaserShip,5/19/2023,5/24/2023,49.9,288.11,Delivered,2067,5,43:57.3
+SH11617,Warehouse_HOU,Detroit,USPS,9/4/2023,9/10/2023,7.2,0,Delayed,881,5,43:57.3
+SH11618,Warehouse_SF,Boston,USPS,8/24/2023,8/27/2023,8.8,132.34,Delivered,1021,3,43:57.3
+SH11619,Warehouse_MIA,Minneapolis,LaserShip,9/28/2023,10/1/2023,14.5,183.23,Delivered,1420,3,43:57.3
+SH11620,Warehouse_BOS,Phoenix,LaserShip,3/8/2023,3/12/2023,25.8,137.06,In Transit,896,4,43:57.3
+SH11621,Warehouse_SF,Los Angeles,OnTrac,4/25/2023,4/27/2023,10.6,110.85,Delivered,752,2,43:57.3
+SH11622,Warehouse_ATL,Atlanta,USPS,11/25/2023,11/27/2023,22.1,93,Delivered,398,2,43:57.3
+SH11623,Warehouse_DEN,Miami,Amazon Logistics,4/17/2023,4/22/2023,15.3,157.36,Delivered,1237,5,43:57.3
+SH11624,Warehouse_DEN,Miami,OnTrac,1/30/2023,2/3/2023,16.2,230.74,Delivered,1651,4,43:57.3
+SH11625,Warehouse_LA,Miami,Amazon Logistics,12/31/2023,1/4/2024,37,306.42,Delivered,1658,4,43:57.3
+SH11626,Warehouse_MIA,Denver,USPS,12/11/2023,12/17/2023,42.7,319.58,Delivered,1829,6,43:57.3
+SH11627,Warehouse_NYC,Houston,DHL,2/3/2023,2/8/2023,7.4,252.34,Delivered,1879,5,43:57.3
+SH11628,Warehouse_HOU,Detroit,Amazon Logistics,8/17/2023,8/22/2023,23.4,89.92,Delayed,454,1,43:57.3
+SH11629,Warehouse_NYC,Minneapolis,Amazon Logistics,5/6/2023,5/7/2023,34.9,61.85,Delivered,197,1,43:57.3
+SH11630,Warehouse_DEN,Chicago,OnTrac,5/24/2023,5/29/2023,8.1,174.87,Delivered,1325,5,43:57.3
+SH11631,Warehouse_LA,Portland,FedEx,11/8/2023,11/14/2023,6.2,268.27,Delivered,1538,6,43:57.3
+SH11632,Warehouse_SF,Chicago,OnTrac,1/5/2023,1/10/2023,14,151.05,Delivered,1077,5,43:57.3
+SH11633,Warehouse_HOU,Miami,DHL,11/6/2023,11/10/2023,10,118.15,Delayed,638,2,43:57.3
+SH11634,Warehouse_SF,Boston,USPS,11/19/2023,11/28/2023,43.6,304.3,Delivered,1947,9,43:57.3
+SH11635,Warehouse_DEN,Atlanta,Amazon Logistics,6/22/2023,6/27/2023,16.1,143,Delivered,1074,5,43:57.3
+SH11636,Warehouse_ATL,Chicago,LaserShip,6/12/2023,6/15/2023,21.3,91.45,Delivered,587,3,43:57.3
+SH11637,Warehouse_LA,Seattle,USPS,3/22/2023,3/26/2023,66.3,204.27,Delivered,1135,4,43:57.3
+SH11638,Warehouse_MIA,Atlanta,OnTrac,2/21/2023,2/24/2023,5.9,103.51,Delivered,746,3,43:57.3
+SH11639,Warehouse_BOS,Boston,USPS,10/3/2023,10/7/2023,28.9,227.91,Lost,1675,4,43:57.3
+SH11640,Warehouse_LA,Boston,USPS,10/31/2023,11/7/2023,32.4,226.41,Delivered,1636,7,43:57.3
+SH11641,Warehouse_HOU,San Francisco,USPS,1/19/2023,1/26/2023,53,322.97,Delivered,2490,7,43:57.3
+SH11642,Warehouse_MIA,Portland,USPS,4/30/2023,5/13/2023,37,211.45,Delayed,1433,4,43:57.3
+SH11643,Warehouse_ATL,Detroit,OnTrac,5/15/2023,5/17/2023,33.8,134.61,Lost,775,2,43:57.3
+SH11644,Warehouse_HOU,San Francisco,OnTrac,8/22/2023,8/28/2023,12.3,190.39,Delivered,1393,6,43:57.3
+SH11645,Warehouse_LA,Los Angeles,DHL,2/2/2023,2/8/2023,15.5,351.5,Delivered,2499,6,43:57.3
+SH11646,Warehouse_ATL,Phoenix,OnTrac,5/25/2023,5/28/2023,29.2,126.94,Delivered,680,3,43:57.3
+SH11647,Warehouse_CHI,Houston,DHL,2/28/2023,3/7/2023,39.9,36.45,Delayed,2190,6,43:57.3
+SH11648,Warehouse_LA,Los Angeles,DHL,7/27/2023,8/2/2023,24.6,295.52,Delivered,1899,6,43:57.3
+SH11649,Warehouse_ATL,Phoenix,FedEx,2/22/2023,2/27/2023,27.4,336.51,Delivered,2166,5,43:57.3
+SH11650,Warehouse_CHI,Dallas,OnTrac,8/27/2023,8/30/2023,9.9,67.66,Delivered,520,3,43:57.3
+SH11651,Warehouse_DEN,New York,Amazon Logistics,1/30/2023,2/1/2023,16.2,106.95,Delivered,715,2,43:57.3
+SH11652,Warehouse_ATL,Dallas,LaserShip,10/20/2023,10/25/2023,27.9,261.5,In Transit,1773,5,43:57.3
+SH11653,Warehouse_SEA,Detroit,DHL,5/15/2023,5/17/2023,16.2,75.07,Delivered,369,2,43:57.3
+SH11654,Warehouse_NYC,Los Angeles,FedEx,8/18/2023,8/20/2023,5.3,107.55,Delivered,846,2,43:57.3
+SH11655,Warehouse_LA,Boston,Amazon Logistics,8/29/2023,9/1/2023,23.7,137.37,Delivered,905,3,43:57.3
+SH11656,Warehouse_BOS,Los Angeles,DHL,12/2/2023,12/4/2023,5.6,36.1,Delivered,171,2,43:57.3
+SH11657,Warehouse_MIA,Minneapolis,DHL,2/18/2023,2/24/2023,8.9,296.47,Delivered,2222,6,43:57.3
+SH11658,Warehouse_SEA,Miami,FedEx,2/8/2023,2/14/2023,27.2,375.67,Delivered,2462,6,43:57.3
+SH11659,Warehouse_ATL,Minneapolis,OnTrac,7/6/2023,7/11/2023,9.7,191.62,Delivered,1529,5,43:57.3
+SH11660,Warehouse_BOS,Miami,UPS,4/30/2023,5/5/2023,3,237.95,Delivered,1912,5,43:57.3
+SH11661,Warehouse_LA,New York,LaserShip,12/17/2023,12/20/2023,60.3,272.78,Delivered,1194,3,43:57.3
+SH11662,Warehouse_CHI,Detroit,UPS,12/9/2023,12/20/2023,10.3,0,Delayed,283,1,43:57.3
+SH11663,Warehouse_SF,Portland,LaserShip,6/11/2023,6/17/2023,34.3,296.22,Delivered,1916,6,43:57.3
+SH11664,Warehouse_MIA,Denver,UPS,4/8/2023,4/13/2023,34.2,113.11,Delivered,504,5,43:57.3
+SH11665,Warehouse_SEA,Chicago,Amazon Logistics,8/1/2023,8/9/2023,70.5,367.67,Delivered,2442,8,43:57.3
+SH11666,Warehouse_LA,Seattle,LaserShip,3/27/2023,4/1/2023,13.1,162.21,Delivered,1135,5,43:57.3
+SH11667,Warehouse_CHI,Phoenix,LaserShip,10/30/2023,11/4/2023,26.5,254.13,Delivered,1815,5,43:57.3
+SH11668,Warehouse_DEN,Denver,FedEx,12/27/2023,12/30/2023,13.6,166.26,In Transit,834,3,43:57.3
+SH11669,Warehouse_ATL,Seattle,DHL,11/27/2023,11/30/2023,18.6,202.15,Delivered,997,3,43:57.3
+SH11670,Warehouse_LA,Phoenix,Amazon Logistics,2/27/2023,3/1/2023,32.6,89.42,Delivered,373,2,43:57.3
+SH11671,Warehouse_MIA,Chicago,FedEx,12/6/2023,12/13/2023,9,352.78,Delivered,1993,7,43:57.3
+SH11672,Warehouse_NYC,San Francisco,LaserShip,5/5/2023,5/12/2023,19.4,322.16,Delivered,2423,7,43:57.3
+SH11673,Warehouse_BOS,Dallas,LaserShip,5/23/2023,5/27/2023,4.7,228.78,Delivered,1732,4,43:57.3
+SH11674,Warehouse_MIA,Portland,USPS,6/29/2023,7/1/2023,15.9,119.24,Delivered,928,2,43:57.3
+SH11675,Warehouse_SEA,Detroit,FedEx,4/6/2023,4/10/2023,16,220.43,Delivered,1521,4,43:57.3
+SH11676,Warehouse_ATL,Detroit,Amazon Logistics,8/5/2023,8/12/2023,11.4,263.34,Delivered,2178,7,43:57.3
+SH11677,Warehouse_HOU,Atlanta,OnTrac,6/3/2023,6/17/2023,43.6,155.15,Delayed,800,4,43:57.3
+SH11678,Warehouse_DEN,Boston,LaserShip,8/23/2023,8/28/2023,45.5,293.95,Delivered,2201,5,43:57.3
+SH11679,Warehouse_SF,Phoenix,USPS,5/17/2023,5/18/2023,18.3,31.27,Delivered,117,1,43:57.3
+SH11680,Warehouse_ATL,Boston,DHL,6/15/2023,6/20/2023,29.2,280.92,Delivered,1739,5,43:57.3
+SH11681,Warehouse_MIA,Atlanta,FedEx,4/5/2023,4/21/2023,81.9,247.05,Delayed,1123,3,43:57.3
+SH11682,Warehouse_SF,Chicago,LaserShip,4/16/2023,4/17/2023,43.5,111.47,Delivered,421,1,43:57.3
+SH11683,Warehouse_SF,Seattle,UPS,2/13/2023,2/19/2023,12.5,119.12,Delivered,916,6,43:57.3
+SH11684,Warehouse_NYC,San Francisco,USPS,5/20/2023,5/26/2023,21.5,271.82,Delivered,2202,6,43:57.3
+SH11685,Warehouse_NYC,Boston,OnTrac,8/31/2023,9/2/2023,19,46.94,Delivered,215,2,43:57.3
+SH11686,Warehouse_SEA,Seattle,OnTrac,11/24/2023,11/27/2023,53.8,121.01,Delivered,371,3,43:57.3
+SH11687,Warehouse_SF,Seattle,Amazon Logistics,3/16/2023,3/30/2023,21.6,73.32,Delayed,378,3,43:57.3
+SH11688,Warehouse_SEA,Chicago,FedEx,9/23/2023,10/1/2023,14.8,215.86,Delivered,1456,8,43:57.3
+SH11689,Warehouse_LA,Chicago,FedEx,10/8/2023,10/18/2023,10.7,170.69,Delayed,1114,3,43:57.3
+SH11690,Warehouse_DEN,Portland,UPS,6/16/2023,6/20/2023,42,218.32,Delivered,1417,4,43:57.3
+SH11691,Warehouse_SEA,Houston,DHL,5/5/2023,5/10/2023,19,224.15,Delivered,1402,5,43:57.3
+SH11692,Warehouse_LA,Atlanta,DHL,3/25/2023,3/26/2023,18.4,46.71,Delivered,178,1,43:57.3
+SH11693,Warehouse_DEN,Houston,UPS,1/29/2023,2/3/2023,16,205.32,Delivered,1575,5,43:57.3
+SH11694,Warehouse_NYC,Atlanta,USPS,9/23/2023,9/30/2023,13.9,107.12,Delivered,870,7,43:57.3
+SH11695,Warehouse_ATL,Portland,Amazon Logistics,4/6/2023,4/13/2023,6.3,258.52,Delivered,1995,7,43:57.3
+SH11696,Warehouse_DEN,Portland,USPS,1/27/2023,1/29/2023,20,92.89,Delivered,606,2,43:57.3
+SH11697,Warehouse_NYC,Minneapolis,OnTrac,5/15/2023,5/18/2023,30.8,84.89,Delivered,433,3,43:57.3
+SH11698,Warehouse_SEA,Portland,DHL,11/9/2023,11/13/2023,38.8,192.95,Delivered,755,4,43:57.3
+SH11699,Warehouse_CHI,Portland,LaserShip,2/25/2023,3/2/2023,69.7,267.92,Delivered,1580,5,43:57.3
+SH11700,Warehouse_ATL,Los Angeles,USPS,6/14/2023,6/19/2023,45.3,234.57,Delivered,1464,5,43:57.3
+SH11701,Warehouse_HOU,Minneapolis,Amazon Logistics,10/10/2023,10/29/2023,43.7,350.82,Delayed,2299,6,43:57.3
+SH11702,Warehouse_CHI,Miami,Amazon Logistics,3/1/2023,3/7/2023,16.4,178.38,Delivered,1350,6,43:57.3
+SH11703,Warehouse_HOU,Los Angeles,USPS,6/24/2023,6/25/2023,7,49.21,Returned,386,1,43:57.3
+SH11704,Warehouse_BOS,Portland,UPS,7/2/2023,7/10/2023,13,250.6,Delivered,1899,8,43:57.3
+SH11705,Warehouse_LA,Portland,LaserShip,8/20/2023,8/24/2023,40.5,155.06,Delivered,787,4,43:57.3
+SH11706,Warehouse_NYC,Portland,LaserShip,5/26/2023,6/1/2023,50.6,328.01,Delivered,2388,6,43:57.3
+SH11707,Warehouse_ATL,Dallas,Amazon Logistics,7/29/2023,8/3/2023,35.4,301.47,Delivered,2347,5,43:57.3
+SH11708,Warehouse_SF,San Francisco,FedEx,11/14/2023,11/19/2023,9.7,228.09,Delivered,1364,5,43:57.3
+SH11709,Warehouse_LA,Seattle,UPS,2/27/2023,3/2/2023,7.2,137.16,Delivered,1135,3,43:57.3
+SH11710,Warehouse_CHI,Boston,OnTrac,3/11/2023,3/18/2023,10.7,290.55,Delivered,2200,7,43:57.3
+SH11711,Warehouse_CHI,Denver,FedEx,4/21/2023,4/27/2023,19.5,150.02,Delivered,1000,6,43:57.3
+SH11712,Warehouse_BOS,Chicago,UPS,5/5/2023,5/8/2023,11.7,99.97,Delivered,701,3,43:57.3
+SH11713,Warehouse_NYC,Detroit,DHL,4/12/2023,4/16/2023,28.8,325.2,Delivered,1883,4,43:57.3
+SH11714,Warehouse_BOS,Detroit,UPS,6/30/2023,7/6/2023,7,296.15,Delivered,2424,6,43:57.3
+SH11715,Warehouse_SF,New York,FedEx,5/1/2023,5/9/2023,48.9,354.59,Lost,2059,8,43:57.3
+SH11716,Warehouse_SEA,Portland,OnTrac,6/15/2023,6/24/2023,108.8,368.09,Delayed,1857,5,43:57.3
+SH11717,Warehouse_MIA,Atlanta,USPS,11/4/2023,11/9/2023,12.2,37.96,Delivered,152,5,43:57.3
+SH11718,Warehouse_MIA,Minneapolis,DHL,12/11/2023,12/16/2023,9,287.97,In Transit,1495,5,43:57.3
+SH11719,Warehouse_HOU,Denver,OnTrac,8/14/2023,8/17/2023,17.3,146.14,Delivered,1030,3,43:57.3
+SH11720,Warehouse_SF,Denver,FedEx,5/21/2023,5/24/2023,19.4,143.96,Delivered,854,3,43:57.3
+SH11721,Warehouse_SEA,Portland,USPS,4/25/2023,4/26/2023,22.8,36.24,Delivered,101,1,43:57.3
+SH11722,Warehouse_HOU,Boston,LaserShip,12/31/2023,1/5/2024,27.4,392.67,Delivered,2353,5,43:57.3
+SH11723,Warehouse_HOU,Los Angeles,USPS,7/13/2023,7/16/2023,17.7,170.71,Delivered,1382,3,43:57.3
+SH11724,Warehouse_DEN,Boston,DHL,6/24/2023,7/8/2023,38.5,174.45,Delayed,975,3,43:57.3
+SH11725,Warehouse_LA,Denver,USPS,7/3/2023,7/7/2023,15.2,181.08,Delivered,1453,4,43:57.3
+SH11726,Warehouse_ATL,Houston,UPS,8/19/2023,8/22/2023,9.5,177.71,In Transit,1321,3,43:57.3
+SH11727,Warehouse_ATL,Boston,USPS,10/30/2023,9/30/2023,25.2,295.59,Delivered,2279,7,43:57.3
+SH11728,Warehouse_HOU,New York,FedEx,6/8/2023,6/13/2023,11.8,116.39,Delivered,835,5,43:57.3
+SH11729,Warehouse_LA,Miami,OnTrac,6/3/2023,6/7/2023,8.7,124.66,Delivered,1035,4,43:57.3
+SH11730,Warehouse_DEN,San Francisco,USPS,4/3/2023,4/7/2023,226.6,44.83,Delivered,202,4,43:57.3
+SH11731,Warehouse_CHI,Minneapolis,Amazon Logistics,8/19/2023,8/21/2023,14.3,44.86,Delivered,226,2,43:57.3
+SH11732,Warehouse_HOU,Miami,FedEx,11/18/2023,11/24/2023,47.6,434.73,Delivered,2194,6,43:57.3
+SH11733,Warehouse_HOU,Phoenix,Amazon Logistics,11/5/2023,11/16/2023,22.5,320.2,Delivered,1865,11,43:57.3
+SH11734,Warehouse_CHI,Denver,FedEx,4/3/2023,4/7/2023,19.1,159.14,Delivered,1000,4,43:57.3
+SH11735,Warehouse_BOS,Minneapolis,USPS,3/24/2023,3/29/2023,58.8,177.73,Delivered,892,5,43:57.3
+SH11736,Warehouse_SF,Phoenix,LaserShip,10/24/2023,11/1/2023,32,301.33,Delivered,2356,8,43:57.3
+SH11737,Warehouse_DEN,Miami,LaserShip,12/5/2023,12/6/2023,5,33.88,Delivered,165,1,43:57.3
+SH11738,Warehouse_MIA,Miami,FedEx,5/7/2023,5/9/2023,0.2,88.88,Delivered,403,2,43:57.3
+SH11739,Warehouse_LA,Phoenix,OnTrac,8/1/2023,8/3/2023,9.7,60.27,Delivered,373,2,43:57.3
+SH11740,Warehouse_LA,New York,DHL,4/18/2023,4/22/2023,29.8,248.19,Delivered,1462,4,43:57.3
+SH11741,Warehouse_SF,Minneapolis,USPS,1/28/2023,2/4/2023,15.7,199.62,Delivered,1715,7,43:57.3
+SH11742,Warehouse_NYC,Detroit,OnTrac,2/19/2023,2/24/2023,55,282.54,Delivered,2033,5,43:57.3
+SH11743,Warehouse_MIA,Phoenix,Amazon Logistics,12/3/2023,12/21/2023,31.4,226.08,Delayed,1430,5,43:57.3
+SH11744,Warehouse_ATL,Dallas,LaserShip,9/28/2023,10/2/2023,54.2,240.9,Delivered,1309,4,43:57.3
+SH11745,Warehouse_HOU,Boston,USPS,8/28/2023,9/2/2023,54.6,185.97,Delivered,942,5,43:57.3
+SH11746,Warehouse_LA,Seattle,USPS,12/26/2023,1/3/2024,46.8,230.72,Delayed,1135,3,43:57.3
+SH11747,Warehouse_SF,Portland,USPS,8/26/2023,8/30/2023,36.7,163.14,Delivered,1070,4,43:57.3
+SH11748,Warehouse_ATL,San Francisco,UPS,5/18/2023,5/23/2023,20.9,267.89,Delivered,2032,5,43:57.3
+SH11749,Warehouse_NYC,Portland,FedEx,4/6/2023,4/12/2023,6.6,297.63,Delivered,2132,6,43:57.3
+SH11750,Warehouse_ATL,Seattle,LaserShip,11/6/2023,11/9/2023,12.4,167.33,Lost,1030,3,43:57.3
+SH11751,Warehouse_BOS,Dallas,LaserShip,8/3/2023,8/8/2023,20.2,0,Delivered,1360,5,43:57.3
+SH11752,Warehouse_DEN,Phoenix,Amazon Logistics,11/3/2023,11/6/2023,40.3,158.18,Delivered,645,3,43:57.3
+SH11753,Warehouse_SF,Denver,USPS,10/20/2023,11/6/2023,12.4,256.57,Delayed,2179,6,43:57.3
+SH11754,Warehouse_SEA,Chicago,DHL,2/18/2023,2/20/2023,22.2,83.4,Returned,368,2,43:57.3
+SH11755,Warehouse_SF,Phoenix,USPS,4/30/2023,5/5/2023,24.6,171.1,Delivered,1225,5,43:57.3
+SH11756,Warehouse_LA,Phoenix,OnTrac,7/16/2023,7/17/2023,94,143.2,Delivered,373,1,43:57.3
+SH11757,Warehouse_ATL,Denver,FedEx,10/5/2023,10/10/2023,59.3,388.44,Delivered,2161,5,43:57.3
+SH11758,Warehouse_BOS,Seattle,UPS,6/5/2023,6/7/2023,13.1,85.44,Delivered,610,2,43:57.3
+SH11759,Warehouse_SEA,Los Angeles,FedEx,7/15/2023,7/18/2023,20,140.66,Delivered,847,3,43:57.3
+SH11760,Warehouse_SEA,Minneapolis,Amazon Logistics,6/28/2023,7/6/2023,49.4,333.09,Delivered,2256,8,43:57.3
+SH11761,Warehouse_DEN,Minneapolis,OnTrac,10/20/2023,10/24/2023,23.5,194.11,Delivered,1324,4,43:57.3
+SH11762,Warehouse_CHI,Chicago,USPS,5/31/2023,6/5/2023,85.1,391.46,Delivered,2467,5,43:57.3
+SH11763,Warehouse_LA,Denver,LaserShip,5/24/2023,5/28/2023,41.4,251.14,Delivered,1801,4,43:57.3
+SH11764,Warehouse_SF,Seattle,FedEx,9/12/2023,9/15/2023,5.3,76.55,Delivered,559,3,43:57.3
+SH11765,Warehouse_CHI,Chicago,UPS,2/26/2023,2/28/2023,122.7,288.29,Delivered,962,2,43:57.3
+SH11766,Warehouse_BOS,Los Angeles,OnTrac,5/13/2023,5/18/2023,24.4,321.82,Delivered,2429,5,43:57.3
+SH11767,Warehouse_SF,Detroit,UPS,6/7/2023,6/12/2023,6.1,279.81,Delivered,2102,5,43:57.3
+SH11768,Warehouse_HOU,New York,DHL,10/15/2023,10/18/2023,18.1,148.79,Delivered,914,3,43:57.3
+SH11769,Warehouse_DEN,Miami,OnTrac,3/19/2023,3/24/2023,3.5,215.07,Delivered,1843,5,43:57.3
+SH11770,Warehouse_LA,Detroit,UPS,3/21/2023,3/23/2023,15.8,132.3,Delivered,878,2,43:57.3
+SH11771,Warehouse_SEA,Portland,FedEx,6/19/2023,6/24/2023,40.7,168.17,Delivered,816,5,43:57.3
+SH11772,Warehouse_ATL,Miami,DHL,10/22/2023,10/30/2023,33.7,402.35,Delivered,2414,8,43:57.3
+SH11773,Warehouse_LA,Chicago,OnTrac,4/30/2023,5/1/2023,27,79.51,Delivered,391,1,43:57.3
+SH11774,Warehouse_BOS,Seattle,FedEx,6/19/2023,6/25/2023,9.7,119.44,Delivered,757,6,43:57.3
+SH11775,Warehouse_MIA,Portland,FedEx,3/27/2023,4/5/2023,12.8,331.5,Delivered,2488,9,43:57.3
+SH11776,Warehouse_DEN,Detroit,OnTrac,10/21/2023,10/26/2023,6.3,282.62,Delivered,2188,5,43:57.3
+SH11777,Warehouse_CHI,Minneapolis,USPS,7/12/2023,7/15/2023,23.1,204.7,Delivered,1547,3,43:57.3
+SH11778,Warehouse_SEA,Atlanta,FedEx,8/1/2023,8/3/2023,10.3,47.05,Delivered,224,2,43:57.3
+SH11779,Warehouse_BOS,Houston,DHL,11/7/2023,11/10/2023,73.9,268.7,Delivered,747,3,43:57.3
+SH11780,Warehouse_DEN,Miami,USPS,8/9/2023,8/12/2023,47.3,215.93,Lost,1552,3,43:57.3
+SH11781,Warehouse_HOU,Detroit,OnTrac,9/2/2023,9/8/2023,30.5,322.75,Delivered,2410,6,43:57.3
+SH11782,Warehouse_SF,Denver,UPS,11/2/2023,11/3/2023,14.7,81.27,Delivered,395,1,43:57.3
+SH11783,Warehouse_SEA,San Francisco,DHL,1/21/2023,1/24/2023,12.6,201.27,Delivered,1462,3,43:57.3
+SH11784,Warehouse_NYC,Portland,OnTrac,3/22/2023,3/26/2023,28.8,183.25,Delivered,1399,4,43:57.3
+SH11785,Warehouse_NYC,Seattle,FedEx,5/1/2023,5/6/2023,45.7,206.4,Delivered,1025,5,43:57.3
+SH11786,Warehouse_SEA,New York,OnTrac,3/14/2023,3/15/2023,24.3,45.64,Delivered,118,1,43:57.3
+SH11787,Warehouse_DEN,Phoenix,Amazon Logistics,12/26/2023,12/29/2023,22.5,199.07,Delivered,1226,3,43:57.3
+SH11788,Warehouse_LA,Portland,OnTrac,12/7/2023,12/21/2023,48.8,347.95,Delayed,2192,6,43:57.3
+SH11789,Warehouse_NYC,Chicago,UPS,4/29/2023,5/1/2023,7.9,99.83,Delivered,790,2,43:57.3
+SH11790,Warehouse_SF,Denver,UPS,10/26/2023,11/5/2023,34,316.69,Delayed,2072,6,43:57.3
+SH11791,Warehouse_ATL,New York,UPS,3/2/2023,3/5/2023,21.9,174.25,Delivered,1073,3,43:57.3
+SH11792,Warehouse_DEN,San Francisco,Amazon Logistics,2/4/2023,2/7/2023,17.9,54.51,Delivered,255,3,43:57.3
+SH11793,Warehouse_DEN,Detroit,UPS,10/27/2023,10/30/2023,7.9,111.49,Delivered,865,3,43:57.3
+SH11794,Warehouse_LA,Minneapolis,OnTrac,4/19/2023,4/26/2023,6.7,213.54,In Transit,1694,7,43:57.3
+SH11795,Warehouse_ATL,Los Angeles,FedEx,4/17/2023,4/23/2023,5.1,175.6,Delivered,1317,6,43:57.3
+SH11796,Warehouse_MIA,Portland,USPS,5/30/2023,6/1/2023,13.1,82.17,Delivered,645,2,43:57.3
+SH11797,Warehouse_NYC,Chicago,USPS,5/28/2023,5/30/2023,19.5,122.68,Delivered,790,2,43:57.3
+SH11798,Warehouse_SEA,New York,OnTrac,4/23/2023,4/26/2023,12.1,147.53,Delivered,1172,3,43:57.3
+SH11799,Warehouse_CHI,Atlanta,OnTrac,7/31/2023,8/4/2023,24.6,231.44,Delivered,1711,4,43:57.3
+SH11800,Warehouse_HOU,Dallas,OnTrac,3/13/2023,3/18/2023,17.7,325.61,Delivered,2345,5,43:57.3
+SH11801,Warehouse_LA,Los Angeles,DHL,7/8/2023,7/10/2023,61.4,111.25,Delivered,128,2,43:57.3
+SH11802,Warehouse_SF,San Francisco,FedEx,1/18/2023,1/24/2023,13.6,260.65,Delivered,2044,6,43:57.3
+SH11803,Warehouse_LA,Dallas,USPS,8/3/2023,8/9/2023,29.4,212.9,In Transit,1435,6,43:57.3
+SH11804,Warehouse_HOU,Miami,FedEx,10/28/2023,11/13/2023,14.7,224.05,Delayed,1715,5,43:57.3
+SH11805,Warehouse_ATL,Phoenix,DHL,12/19/2023,12/23/2023,7.4,323.36,Delivered,1880,4,43:57.3
+SH11806,Warehouse_NYC,Houston,OnTrac,7/4/2023,7/10/2023,16.2,245.98,Delivered,1870,6,43:57.3
+SH11807,Warehouse_NYC,Portland,LaserShip,7/6/2023,7/10/2023,6.2,139.44,Delivered,1227,4,43:57.3
+SH11808,Warehouse_HOU,San Francisco,OnTrac,5/16/2023,5/23/2023,15.7,318.84,Delivered,2321,7,43:57.3
+SH11809,Warehouse_DEN,Atlanta,USPS,7/12/2023,7/16/2023,30.2,0,Delivered,1393,4,43:57.3
+SH11810,Warehouse_ATL,Atlanta,FedEx,7/21/2023,7/29/2023,32.8,360.03,Delivered,2464,8,43:57.3
+SH11811,Warehouse_MIA,Detroit,DHL,4/16/2023,4/18/2023,29.5,110.42,Delivered,476,2,43:57.3
+SH11812,Warehouse_NYC,Phoenix,OnTrac,9/1/2023,9/5/2023,16.7,203.66,Delivered,1423,4,43:57.3
+SH11813,Warehouse_SEA,San Francisco,FedEx,5/9/2023,5/24/2023,16.6,285.36,Delayed,2126,7,43:57.3
+SH11814,Warehouse_DEN,San Francisco,LaserShip,10/13/2023,10/17/2023,17,245.26,Delivered,1731,4,43:57.3
+SH11815,Warehouse_LA,Denver,Amazon Logistics,9/20/2023,9/22/2023,30.5,115.38,Delivered,619,2,43:57.3
+SH11816,Warehouse_MIA,Minneapolis,DHL,5/25/2023,5/30/2023,17.7,326.9,Delivered,2208,5,43:57.3
+SH11817,Warehouse_CHI,Dallas,USPS,4/23/2023,4/27/2023,11.6,135.55,Delivered,1021,4,43:57.3
+SH11818,Warehouse_BOS,Detroit,OnTrac,5/11/2023,5/19/2023,34.6,319.66,Delivered,2216,8,43:57.3
+SH11819,Warehouse_BOS,Denver,DHL,2/23/2023,3/1/2023,35.3,314.52,Delivered,1724,6,43:57.3
+SH11820,Warehouse_SF,Los Angeles,USPS,4/21/2023,4/27/2023,5.3,263.08,Delivered,2362,6,43:57.3
+SH11821,Warehouse_MIA,Detroit,OnTrac,3/27/2023,4/1/2023,32.1,323.03,Delivered,2360,5,43:57.3
+SH11822,Warehouse_ATL,Boston,OnTrac,3/4/2023,3/10/2023,17.1,302.85,Delivered,2450,6,43:57.3
+SH11823,Warehouse_HOU,Boston,Amazon Logistics,5/1/2023,5/5/2023,7.5,208.84,Delivered,1642,4,43:57.3
+SH11824,Warehouse_HOU,New York,USPS,2/20/2023,2/27/2023,89.4,267.14,Delivered,1548,7,43:57.3
+SH11825,Warehouse_HOU,Seattle,Amazon Logistics,12/27/2023,1/8/2024,16.7,336.83,Delayed,2305,8,43:57.3
+SH11826,Warehouse_MIA,Chicago,FedEx,5/11/2023,5/15/2023,17.8,263.77,Delivered,1657,4,43:57.3
+SH11827,Warehouse_NYC,Minneapolis,UPS,9/28/2023,10/3/2023,19.8,253.63,Delivered,1855,5,43:57.3
+SH11828,Warehouse_NYC,Seattle,USPS,11/18/2023,11/22/2023,35.9,220.77,Delivered,1360,4,43:57.3
+SH11829,Warehouse_SF,Portland,FedEx,8/9/2023,8/10/2023,27.9,59.52,Delivered,139,1,43:57.3
+SH11830,Warehouse_LA,Portland,USPS,11/21/2023,11/24/2023,82.7,243.19,Delivered,1023,3,43:57.3
+SH11831,Warehouse_SEA,Miami,Amazon Logistics,6/25/2023,7/1/2023,39.1,273.41,Delivered,2104,6,43:57.3
+SH11832,Warehouse_SF,Dallas,Amazon Logistics,1/6/2023,1/8/2023,26.2,48.64,Lost,116,2,43:57.3
+SH11833,Warehouse_MIA,Denver,LaserShip,12/25/2023,12/30/2023,20.4,281.08,Delivered,1809,5,43:57.3
+SH11834,Warehouse_BOS,Detroit,USPS,10/15/2023,10/18/2023,4.8,173.28,Delivered,1478,3,43:57.3
+SH11835,Warehouse_BOS,Portland,USPS,4/20/2023,4/26/2023,6.4,219.55,Delivered,1811,6,43:57.3
+SH11836,Warehouse_HOU,Miami,LaserShip,6/28/2023,7/2/2023,25.4,171.77,Delivered,1145,4,43:57.3
+SH11837,Warehouse_SF,Los Angeles,LaserShip,11/2/2023,11/7/2023,15.2,322.73,Delivered,2106,5,43:57.3
+SH11838,Warehouse_SF,Houston,UPS,11/4/2023,11/6/2023,19.5,123.49,Delivered,629,2,43:57.3
+SH11839,Warehouse_ATL,Portland,FedEx,8/8/2023,8/12/2023,25.1,296.48,Delivered,1809,4,43:57.3
+SH11840,Warehouse_BOS,Los Angeles,Amazon Logistics,11/24/2023,11/28/2023,34,63.15,In Transit,113,4,43:57.3
+SH11841,Warehouse_ATL,Dallas,DHL,2/27/2023,3/17/2023,25,381.58,Delayed,2462,5,43:57.3
+SH11842,Warehouse_HOU,Detroit,OnTrac,8/27/2023,8/30/2023,5.3,73,Delivered,503,3,43:57.3
+SH11843,Warehouse_HOU,Houston,USPS,3/16/2023,3/20/2023,52,229.42,Delivered,1460,4,43:57.3
+SH11844,Warehouse_NYC,Dallas,Amazon Logistics,1/15/2023,1/21/2023,27.4,0,Delivered,1518,6,43:57.3
+SH11845,Warehouse_NYC,San Francisco,Amazon Logistics,1/15/2023,1/19/2023,17.3,73.25,In Transit,489,4,43:57.3
+SH11846,Warehouse_DEN,Denver,Amazon Logistics,9/7/2023,9/9/2023,38.9,101.69,Delivered,491,2,43:57.3
+SH11847,Warehouse_MIA,Detroit,OnTrac,2/18/2023,2/28/2023,12.6,77.29,Delayed,464,3,43:57.3
+SH11848,Warehouse_ATL,Minneapolis,Amazon Logistics,8/1/2023,8/15/2023,79.6,0,Delayed,1521,6,43:57.3
+SH11849,Warehouse_CHI,Atlanta,DHL,7/19/2023,7/24/2023,7.7,272.22,Delivered,1814,5,43:57.3
+SH11850,Warehouse_SEA,Portland,LaserShip,5/17/2023,5/23/2023,16.6,261.31,Delivered,2220,6,43:57.3
+SH11851,Warehouse_NYC,Portland,USPS,4/7/2023,4/13/2023,20.8,289.2,Delivered,2420,6,43:57.3
+SH11852,Warehouse_SF,Atlanta,Amazon Logistics,2/23/2023,3/2/2023,6.6,81.82,Delayed,613,5,43:57.3
+SH11853,Warehouse_BOS,San Francisco,LaserShip,8/7/2023,8/13/2023,21.5,293.41,Delivered,2170,6,43:57.3
+SH11854,Warehouse_MIA,Los Angeles,DHL,7/27/2023,7/29/2023,13.7,87.28,Delivered,451,2,43:57.3
+SH11855,Warehouse_NYC,Dallas,Amazon Logistics,12/21/2023,1/8/2024,16,158.75,Delayed,1052,7,43:57.3
+SH11856,Warehouse_SEA,Portland,USPS,1/27/2023,2/8/2023,20,63.36,Delayed,379,2,43:57.3
+SH11857,Warehouse_ATL,Phoenix,DHL,3/12/2023,3/17/2023,4.2,266.62,Delivered,1931,5,43:57.3
+SH11858,Warehouse_ATL,Minneapolis,UPS,5/22/2023,5/30/2023,12.4,345.97,Delivered,2449,8,43:57.3
+SH11859,Warehouse_HOU,Atlanta,USPS,2/7/2023,2/11/2023,15.6,116.02,Delivered,800,4,43:57.3
+SH11860,Warehouse_SF,Dallas,USPS,7/23/2023,7/26/2023,43.4,196.44,Delivered,1323,3,43:57.3
+SH11861,Warehouse_SEA,Detroit,OnTrac,5/31/2023,6/5/2023,46.6,122.94,Delivered,510,5,43:57.3
+SH11862,Warehouse_NYC,San Francisco,USPS,11/24/2023,11/27/2023,9.5,76.52,Delivered,465,3,43:57.3
+SH11863,Warehouse_LA,Chicago,OnTrac,1/14/2023,1/18/2023,16.1,105.58,Delivered,664,4,43:57.3
+SH11864,Warehouse_SF,New York,FedEx,7/11/2023,7/17/2023,88.9,424.24,Delivered,2356,6,43:57.3
+SH11865,Warehouse_MIA,New York,USPS,6/4/2023,6/7/2023,24.8,140.88,Lost,944,3,43:57.3
+SH11866,Warehouse_LA,Denver,Amazon Logistics,10/28/2023,11/5/2023,18.1,242.86,Delivered,1746,8,43:57.3
+SH11867,Warehouse_HOU,Portland,LaserShip,3/7/2023,3/11/2023,29.7,271.76,Delivered,2067,4,43:57.3
+SH11868,Warehouse_BOS,Boston,FedEx,5/1/2023,5/5/2023,50,226.51,Delivered,1053,4,43:57.3
+SH11869,Warehouse_CHI,Los Angeles,OnTrac,10/3/2023,10/5/2023,32.2,96.92,Delivered,447,2,43:57.3
+SH11870,Warehouse_DEN,Houston,OnTrac,1/6/2023,1/10/2023,119.7,390.46,Delivered,1834,4,43:57.3
+SH11871,Warehouse_BOS,Chicago,OnTrac,8/21/2023,8/24/2023,28.4,117.74,In Transit,677,3,43:57.3
+SH11872,Warehouse_LA,New York,LaserShip,11/5/2023,11/11/2023,17.3,309.39,Delivered,1780,6,43:57.3
+SH11873,Warehouse_CHI,Detroit,UPS,12/1/2023,12/3/2023,13.8,63.06,Delivered,283,2,43:57.3
+SH11874,Warehouse_ATL,Houston,OnTrac,7/19/2023,7/24/2023,79.3,348.67,Delivered,2393,5,43:57.3
+SH11875,Warehouse_CHI,Denver,UPS,10/25/2023,10/30/2023,5.9,145.47,Delivered,1000,5,43:57.3
+SH11876,Warehouse_NYC,Dallas,DHL,4/17/2023,4/18/2023,26.2,86.35,Delivered,351,1,43:57.3
+SH11877,Warehouse_LA,Seattle,UPS,1/3/2023,1/8/2023,16.8,174.76,Delivered,1135,5,43:57.3
+SH11878,Warehouse_BOS,Seattle,USPS,3/4/2023,3/8/2023,24.1,213.6,Delivered,1794,4,43:57.3
+SH11879,Warehouse_NYC,Seattle,DHL,8/17/2023,8/21/2023,10.2,286.07,Delivered,1919,4,43:57.3
+SH11880,Warehouse_NYC,Minneapolis,OnTrac,8/3/2023,8/6/2023,25.6,114.68,Delivered,801,3,43:57.3
+SH11881,Warehouse_MIA,Miami,FedEx,11/12/2023,11/14/2023,6.1,39.84,Delivered,218,2,43:57.3
+SH11882,Warehouse_LA,Phoenix,UPS,7/31/2023,8/4/2023,29.9,84.58,Delivered,373,4,43:57.3
+SH11883,Warehouse_ATL,Boston,OnTrac,11/25/2023,11/29/2023,7.2,212.11,Delivered,1306,4,43:57.3
+SH11884,Warehouse_CHI,Minneapolis,Amazon Logistics,7/24/2023,7/31/2023,40.7,292.44,Delivered,2247,7,43:57.3
+SH11885,Warehouse_CHI,Los Angeles,Amazon Logistics,9/10/2023,9/14/2023,34.7,252.26,Delivered,1603,4,43:57.3
+SH11886,Warehouse_SF,Detroit,LaserShip,11/12/2023,11/15/2023,24.8,206.07,Delivered,1099,3,43:57.3
+SH11887,Warehouse_HOU,Miami,OnTrac,11/27/2023,12/2/2023,28.1,195.61,Returned,1012,5,43:57.3
+SH11888,Warehouse_NYC,San Francisco,Amazon Logistics,9/1/2023,9/3/2023,10.7,0,Delivered,392,2,43:57.3
+SH11889,Warehouse_MIA,Detroit,DHL,5/25/2023,6/1/2023,32.8,303.32,Delivered,2012,7,43:57.3
+SH11890,Warehouse_SF,Seattle,DHL,5/21/2023,5/28/2023,29.5,326.18,Delivered,2273,7,43:57.3
+SH11891,Warehouse_LA,New York,OnTrac,12/21/2023,12/26/2023,66.3,337.55,In Transit,1743,5,43:57.3
+SH11892,Warehouse_SEA,Atlanta,UPS,6/24/2023,6/28/2023,21.7,291.81,Delivered,1919,4,43:57.3
+SH11893,Warehouse_ATL,Chicago,DHL,6/13/2023,6/17/2023,37,279.2,Delivered,1506,4,43:57.3
+SH11894,Warehouse_HOU,Miami,DHL,10/14/2023,10/20/2023,21.6,334.73,Delivered,2053,6,43:57.3
+SH11895,Warehouse_CHI,Denver,UPS,8/28/2023,8/31/2023,40.7,175.45,Delivered,1000,3,43:57.3
+SH11896,Warehouse_NYC,Minneapolis,FedEx,8/30/2023,9/7/2023,84.8,383.33,Delivered,2141,8,43:57.3
+SH11897,Warehouse_HOU,Seattle,Amazon Logistics,12/24/2023,12/29/2023,13.7,328.21,Delivered,2225,5,43:57.3
+SH11898,Warehouse_CHI,Miami,LaserShip,5/2/2023,5/5/2023,20.5,171.02,Delivered,1350,3,43:57.3
+SH11899,Warehouse_SEA,Los Angeles,USPS,11/16/2023,11/22/2023,9.2,0,Delivered,2393,6,43:57.3
+SH11900,Warehouse_SEA,Atlanta,DHL,12/12/2023,12/22/2023,78.2,211.42,Delayed,620,2,43:57.3
+SH11901,Warehouse_ATL,Seattle,Amazon Logistics,5/13/2023,5/18/2023,17.2,247.67,Delivered,2018,5,43:57.3
+SH11902,Warehouse_DEN,Minneapolis,Amazon Logistics,7/8/2023,7/12/2023,14.7,243.7,Delivered,1949,4,43:57.3
+SH11903,Warehouse_HOU,Atlanta,FedEx,5/12/2023,5/15/2023,18.9,122.95,Delivered,800,3,43:57.3
+SH11904,Warehouse_HOU,Detroit,FedEx,3/8/2023,3/13/2023,8.1,290.02,Delivered,2307,5,43:57.3
+SH11905,Warehouse_SEA,Detroit,LaserShip,1/12/2023,1/18/2023,44.3,311.3,Delivered,2041,6,43:57.3
+SH11906,Warehouse_CHI,New York,DHL,6/19/2023,6/22/2023,59.9,183.69,Delivered,628,3,43:57.3
+SH11907,Warehouse_DEN,Portland,LaserShip,1/15/2023,1/22/2023,8.8,210.56,Lost,1852,7,43:57.3
+SH11908,Warehouse_CHI,Los Angeles,FedEx,3/2/2023,3/4/2023,10.5,33.67,Delivered,162,2,43:57.3
+SH11909,Warehouse_CHI,Chicago,Amazon Logistics,5/17/2023,5/23/2023,16.6,256.68,Returned,1995,6,43:57.3
+SH11910,Warehouse_MIA,Minneapolis,DHL,9/15/2023,9/24/2023,23.5,213.18,Delivered,1469,9,43:57.3
+SH11911,Warehouse_CHI,Denver,FedEx,1/29/2023,2/2/2023,34.9,162.44,Delivered,1000,4,43:57.3
+SH11912,Warehouse_LA,Portland,UPS,5/21/2023,5/28/2023,14.6,1597.99,Delivered,2187,7,43:57.3
+SH11913,Warehouse_NYC,Miami,LaserShip,2/6/2023,2/10/2023,49,265.52,Delivered,1875,4,43:57.3
+SH11914,Warehouse_HOU,Houston,Amazon Logistics,10/6/2023,10/10/2023,82.4,279.42,Delivered,1705,4,43:57.3
+SH11915,Warehouse_SF,New York,USPS,8/9/2023,8/13/2023,23.5,79.71,Delivered,409,4,43:57.3
+SH11916,Warehouse_SEA,Seattle,USPS,6/15/2023,6/17/2023,17.2,84.6,Delivered,513,2,43:57.3
+SH11917,Warehouse_BOS,Denver,LaserShip,4/17/2023,4/24/2023,21.1,256.12,Delivered,1974,7,43:57.3
+SH11918,Warehouse_NYC,Boston,USPS,12/8/2023,12/11/2023,6.7,42.11,Delayed,215,1,43:57.3
+SH11919,Warehouse_DEN,Seattle,OnTrac,4/21/2023,4/23/2023,17.4,59.13,Delivered,284,2,43:57.3
+SH11920,Warehouse_LA,Portland,FedEx,11/1/2023,11/4/2023,31.2,228.61,Lost,1128,3,43:57.3
+SH11921,Warehouse_HOU,San Francisco,LaserShip,9/10/2023,9/11/2023,25.7,55.3,Delivered,231,1,43:57.3
+SH11922,Warehouse_MIA,Denver,OnTrac,1/29/2023,2/2/2023,35.6,107.89,Delivered,542,4,43:57.3
+SH11923,Warehouse_DEN,New York,OnTrac,6/15/2023,6/16/2023,29.4,116.46,Delivered,636,1,43:57.3
+SH11924,Warehouse_NYC,Portland,USPS,8/2/2023,8/7/2023,16.7,179.65,Delivered,1438,5,43:57.3
+SH11925,Warehouse_BOS,Phoenix,Amazon Logistics,6/23/2023,6/25/2023,7.2,97.04,Delivered,822,2,43:57.3
+SH11926,Warehouse_HOU,Phoenix,Amazon Logistics,10/11/2023,10/14/2023,11.7,94.37,Delivered,744,3,43:57.3
+SH11927,Warehouse_MIA,Portland,UPS,7/26/2023,7/31/2023,27.6,242.8,Delivered,1549,5,43:57.3
+SH11928,Warehouse_LA,Phoenix,LaserShip,1/31/2023,2/3/2023,20.5,75.98,Delivered,373,3,43:57.3
+SH11929,Warehouse_SF,Miami,LaserShip,4/22/2023,4/28/2023,41,321.15,Delivered,2478,6,43:57.3
+SH11930,Warehouse_MIA,Seattle,OnTrac,4/4/2023,4/5/2023,13.8,30.2,Delivered,142,1,43:57.3
+SH11931,Warehouse_LA,Seattle,USPS,9/11/2023,9/14/2023,34.2,156.85,Delivered,1135,3,43:57.3
+SH11932,Warehouse_BOS,Denver,DHL,12/11/2023,12/14/2023,10.4,0,Delivered,1467,3,43:57.3
+SH11933,Warehouse_DEN,Miami,USPS,8/4/2023,8/10/2023,20.3,295.36,Delivered,2353,6,43:57.3
+SH11934,Warehouse_HOU,Detroit,LaserShip,3/3/2023,3/6/2023,9.9,161.25,Delivered,1163,3,43:57.3
+SH11935,Warehouse_CHI,Detroit,Amazon Logistics,6/26/2023,6/27/2023,9.5,43.35,Delivered,283,1,43:57.3
+SH11936,Warehouse_ATL,Dallas,Amazon Logistics,11/30/2023,12/3/2023,27,188.63,Delivered,1068,3,43:57.3
+SH11937,Warehouse_SEA,Boston,Amazon Logistics,12/16/2023,12/21/2023,12.9,305.45,Delivered,1875,5,43:57.3
+SH11938,Warehouse_LA,Detroit,FedEx,11/21/2023,11/28/2023,61.7,455.69,Delivered,2430,7,43:57.3
+SH11939,Warehouse_SF,Portland,LaserShip,4/14/2023,4/16/2023,25.3,92.95,Delivered,505,2,43:57.3
+SH11940,Warehouse_LA,Seattle,OnTrac,7/5/2023,7/10/2023,26.4,161.78,Delivered,1135,5,43:57.3
+SH11941,Warehouse_ATL,Minneapolis,USPS,6/18/2023,6/22/2023,69,302.62,Lost,1868,4,43:57.3
+SH11942,Warehouse_ATL,Portland,USPS,10/24/2023,10/31/2023,17,283.07,Delivered,2191,7,43:57.3
+SH11943,Warehouse_SEA,Chicago,USPS,8/31/2023,9/2/2023,18,0,Delivered,971,2,43:57.3
+SH11944,Warehouse_LA,New York,UPS,12/29/2023,1/4/2024,15.9,329.11,Delivered,1899,6,43:57.3
+SH11945,Warehouse_SF,Chicago,LaserShip,2/26/2023,3/2/2023,9.1,210.06,Delivered,1754,4,43:57.3
+SH11946,Warehouse_NYC,Houston,OnTrac,9/10/2023,9/13/2023,17.5,138.84,In Transit,956,3,43:57.3
+SH11947,Warehouse_DEN,Los Angeles,USPS,7/27/2023,8/2/2023,22.8,287.52,Delivered,2114,6,43:57.3
+SH11948,Warehouse_DEN,Portland,LaserShip,9/13/2023,9/16/2023,10.1,138.89,Delivered,1084,3,43:57.3
+SH11949,Warehouse_HOU,Houston,OnTrac,4/22/2023,4/26/2023,22.6,208.71,Delivered,1375,4,43:57.3
+SH11950,Warehouse_HOU,Denver,UPS,6/16/2023,6/19/2023,6.9,133.01,Delivered,1030,3,43:57.3
+SH11951,Warehouse_CHI,Los Angeles,DHL,12/19/2023,12/21/2023,10.1,42.45,Delivered,169,2,43:57.3
+SH11952,Warehouse_CHI,New York,USPS,2/28/2023,3/3/2023,39,112.83,Delivered,706,3,43:57.3
+SH11953,Warehouse_BOS,Los Angeles,OnTrac,2/18/2023,2/21/2023,30,143.34,Delivered,985,3,43:57.3
+SH11954,Warehouse_DEN,Denver,FedEx,6/9/2023,6/12/2023,24,103.6,Delayed,506,2,43:57.3
+SH11955,Warehouse_BOS,Atlanta,UPS,3/7/2023,3/11/2023,47.5,127.02,Delivered,545,4,43:57.3
+SH11956,Warehouse_DEN,Dallas,FedEx,1/25/2023,1/28/2023,26.5,181.68,Delivered,1116,3,43:57.3
+SH11957,Warehouse_MIA,Chicago,DHL,2/25/2023,2/28/2023,9.8,157.8,Delivered,992,3,43:57.3
+SH11958,Warehouse_DEN,Boston,USPS,8/8/2023,8/14/2023,23.4,226.29,In Transit,1921,6,43:57.3
+SH11959,Warehouse_SEA,New York,USPS,1/25/2023,1/26/2023,6.1,38.31,Delivered,247,1,43:57.3
+SH11960,Warehouse_MIA,Boston,FedEx,10/20/2023,10/25/2023,12.9,245.79,Delivered,1734,5,43:57.3
+SH11961,Warehouse_SEA,Chicago,UPS,10/1/2023,10/5/2023,25.7,208.58,Delivered,1515,4,43:57.3
+SH11962,Warehouse_LA,Phoenix,UPS,4/28/2023,5/7/2023,10.9,66.58,Delayed,373,4,43:57.3
+SH11963,Warehouse_MIA,San Francisco,LaserShip,11/21/2023,11/27/2023,31.5,320.88,Delivered,1900,6,43:57.3
+SH11964,Warehouse_HOU,Los Angeles,UPS,9/7/2023,9/15/2023,36.7,314.18,Delivered,2317,8,43:57.3
+SH11965,Warehouse_CHI,Houston,USPS,1/3/2023,1/10/2023,19.2,300.32,Delivered,2300,7,43:57.3
+SH11966,Warehouse_HOU,Dallas,UPS,2/5/2023,2/11/2023,53.9,377.64,Delivered,2226,6,43:57.3
+SH11967,Warehouse_SEA,Denver,LaserShip,3/16/2023,3/21/2023,39.4,149.04,Delivered,826,5,43:57.3
+SH11968,Warehouse_NYC,Seattle,LaserShip,1/27/2023,2/3/2023,73.2,294.41,Delivered,1577,7,43:57.3
+SH11969,Warehouse_LA,Dallas,Amazon Logistics,10/7/2023,10/10/2023,8.3,174.8,Delivered,1435,3,43:57.3
+SH11970,Warehouse_SF,Dallas,OnTrac,11/10/2023,11/13/2023,20.4,149.89,Delivered,943,3,43:57.3
+SH11971,Warehouse_HOU,Chicago,LaserShip,3/10/2023,3/14/2023,9.5,217.11,Delivered,1843,4,43:57.3
+SH11972,Warehouse_ATL,Houston,USPS,6/29/2023,6/30/2023,9.5,31.25,Delivered,209,1,43:57.3
+SH11973,Warehouse_NYC,Houston,FedEx,5/23/2023,5/27/2023,16.1,252.26,Delivered,1711,4,43:57.3
+SH11974,Warehouse_LA,Houston,DHL,8/9/2023,8/13/2023,14.4,125.69,Delivered,693,4,43:57.3
+SH11975,Warehouse_ATL,Houston,LaserShip,12/16/2023,12/18/2023,18.7,166.44,Delivered,998,2,43:57.3
+SH11976,Warehouse_LA,Dallas,Amazon Logistics,9/7/2023,9/11/2023,27.8,198.3,Delivered,1435,4,43:57.3
+SH11977,Warehouse_CHI,Houston,UPS,5/10/2023,5/23/2023,29.6,300.77,Delayed,2345,6,43:57.3
+SH11978,Warehouse_CHI,Atlanta,USPS,4/24/2023,4/29/2023,31.3,291.05,Delivered,2030,5,43:57.3
+SH11979,Warehouse_SF,Portland,FedEx,5/5/2023,5/10/2023,54.6,307.9,Delivered,1675,5,43:57.3
+SH11980,Warehouse_SF,Detroit,DHL,3/3/2023,3/9/2023,21.5,264.67,Delivered,1813,6,43:57.3
+SH11981,Warehouse_SF,New York,UPS,2/19/2023,2/21/2023,20.1,100.6,Delivered,596,2,43:57.3
+SH11982,Warehouse_DEN,Minneapolis,OnTrac,3/11/2023,3/19/2023,33.9,172.51,Delivered,1174,8,43:57.3
+SH11983,Warehouse_SEA,Atlanta,Amazon Logistics,5/16/2023,5/17/2023,36.5,58.02,Delivered,145,1,43:57.3
+SH11984,Warehouse_LA,Denver,UPS,10/29/2023,10/30/2023,33,58.45,Delivered,111,1,43:57.3
+SH11985,Warehouse_NYC,New York,DHL,9/28/2023,10/3/2023,40,308.59,Delivered,2018,5,43:57.3
+SH11986,Warehouse_MIA,Detroit,OnTrac,10/12/2023,10/17/2023,4.8,31.95,Delayed,236,3,43:57.3
+SH11987,Warehouse_HOU,Miami,LaserShip,8/1/2023,8/4/2023,6.5,115.78,Delivered,948,3,43:57.3
+SH11988,Warehouse_LA,Atlanta,Amazon Logistics,1/18/2023,1/26/2023,78.2,392,Delivered,2309,8,43:57.3
+SH11989,Warehouse_CHI,Miami,FedEx,12/7/2023,12/12/2023,29.1,240.47,Delivered,1350,5,43:57.3
+SH11990,Warehouse_HOU,Chicago,OnTrac,2/13/2023,2/18/2023,38.8,248.5,Delivered,1877,5,43:57.3
+SH11991,Warehouse_SEA,Seattle,DHL,6/27/2023,7/3/2023,17.7,368.38,Delivered,2300,6,43:57.3
+SH11992,Warehouse_ATL,Portland,OnTrac,10/4/2023,10/5/2023,43.2,73.03,Delivered,177,1,43:57.3
+SH11993,Warehouse_CHI,Boston,DHL,6/9/2023,6/15/2023,10.3,355.32,Delivered,2350,6,43:57.3
+SH11994,Warehouse_SF,Seattle,Amazon Logistics,11/10/2023,11/12/2023,59.7,130,Delivered,237,2,43:57.3
+SH11995,Warehouse_BOS,San Francisco,FedEx,1/18/2023,1/23/2023,7.9,217.78,Delivered,1616,5,43:57.3
+SH11996,Warehouse_HOU,Phoenix,UPS,10/27/2023,11/1/2023,36.5,279.47,Delivered,1708,5,43:57.3
+SH11997,Warehouse_HOU,Portland,LaserShip,2/13/2023,2/19/2023,11.4,250.32,Delivered,1912,6,43:57.3
+SH11998,Warehouse_SEA,Detroit,USPS,10/17/2023,10/22/2023,10.9,272.31,Delivered,2188,5,43:57.3
+SH11999,Warehouse_MIA,Portland,OnTrac,7/8/2023,1/1/1900,49.5,360.74,Delivered,2321,7,43:57.3
